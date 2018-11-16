@@ -1,4 +1,11 @@
-# Collapse Glossary
+Title:   Collapse Lingo
+Summary: A /r/collapse lexicon
+Date:    16 November 2018
+wiki_base_url: ./
+wiki_end_url: .md
+
+
+# Collapse Lingo
 
 Rounding up collapse lingo, terminology, jargon, basic concepts, memes, arguments, and patterns.
 
@@ -7,35 +14,47 @@ Rounding up collapse lingo, terminology, jargon, basic concepts, memes, argument
 ## Entries
 
 ### Catabolic collapse
-See [How Civilizations Fall: A Theory of Catabolic Collapse](http://www.ecoshock.org/transcripts/greer_on_collapse.pdf)
-[👤 John Michael Greer](https://thearchdruidreport-archive.200605.xyz "The Archdruid Report")
 
-### [Turboparalysis](http://www.spectator.co.uk/features/8789631/the-age-of-turboparalysis/ "The age of turboparalysis » The Spectator")
+See [How Civilizations Fall: A Theory of Catabolic Collapse](http://www.ecoshock.org/transcripts/greer_on_collapse.pdf)
+
+<kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
+
+### Turboparalysis
 
 > a prolonged condition of furious motion without movement in any particular direction, a situation in which the engine roars and the wheels spin but the vehicle refuses to move.
-See [The age of turboparalysis » The Spectator](http://www.spectator.co.uk/features/8789631/the-age-of-turboparalysis/)
+
+– [The age of turboparalysis » The Spectator](http://www.spectator.co.uk/features/8789631/the-age-of-turboparalysis/)
 [👤 Dmitry Orlov](http://cluborlov.blogspot.com "Club Orlov")
 
-### [Subsidy dumpster](https://thearchdruidreport-archive.200605.xyz/2014/03/the-crocodiles-of-reality.html "The Archdruid Report - The Crocodiles of Reality")
+### Subsidy dumpster
 
 > A subsidy dumpster, if I may venture on a definition, is an energy technology that looks like a viable option so long as nobody pays attention to the economic realities.
-See [The Archdruid Report - The Crocodiles of Reality](https://thearchdruidreport-archive.200605.xyz/2014/03/the-crocodiles-of-reality.html)
-[👤 John Michael Greer](https://thearchdruidreport-archive.200605.xyz "The Archdruid Report")
 
-### [Demand destruction](http://en.wikipedia.org/wiki/Demand_destruction "Demand destruction - Wikipedia, the free encyclopedia")
+See [The Archdruid Report - The Crocodiles of Reality](https://thearchdruidreport-archive.200605.xyz/2014/03/the-crocodiles-of-reality.html)
+<kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
+
+### Demand destruction
+
+[Demand destruction](http://en.wikipedia.org/wiki/Demand_destruction "Demand destruction - Wikipedia, the free encyclopedia")
 
 > Demand destruction is a permanent downward shift on the demand curve in the direction of lower demand of a commodity, such as energy products, induced by a prolonged period of high prices or constrained supply.
 
-> It's one of the repeated lessons of economic history that money in the hands of the rich does much less good for the economy as a whole than money in the hands of the working classes and the poor. The reasoning here is as simple as it is inescapable. Industrial economies survive and thrive on consumer expenditures, but consumer expenditures are limited by the ability of consumers to buy the things they want and need. As money is diverted away from the lower end of the economic pyramid, you get demand destruction — the process by which those who can't afford to buy things stop buying them — and consumer expenditures fall off. The rich, by contrast, divert a large share of their income out of the consumer economy into investments; the richer they get, the more of the national wealth ends up in investments rather than consumer expenditures; and as consumer expenditures falter, and investments linked to the consumer economy falter in turn, more and more money ends up in illiquid speculative vehicles that are disconnected from the productive economy and do nothing to stimulate demand. That's what happened in the 1920s. [The Archdruid Report - The Era of Impact](https://thearchdruidreport-archive.200605.xyz/2015/05/the-era-of-impact_20.html)
+> It's one of the repeated lessons of economic history that money in the hands of the rich does much less good for the economy as a whole than money in the hands of the working classes and the poor. The reasoning here is as simple as it is inescapable. Industrial economies survive and thrive on consumer expenditures, but consumer expenditures are limited by the ability of consumers to buy the things they want and need. As money is diverted away from the lower end of the economic pyramid, you get demand destruction — the process by which those who can't afford to buy things stop buying them — and consumer expenditures fall off. The rich, by contrast, divert a large share of their income out of the consumer economy into investments; the richer they get, the more of the national wealth ends up in investments rather than consumer expenditures; and as consumer expenditures falter, and investments linked to the consumer economy falter in turn, more and more money ends up in illiquid speculative vehicles that are disconnected from the productive economy and do nothing to stimulate demand. That's what happened in the 1920s.
 
-### [Embodied energy](http://en.wikipedia.org/wiki/Embodied_energy "Embodied energy - Wikipedia, the free encyclopedia")
+– [The Archdruid Report - The Era of Impact](https://thearchdruidreport-archive.200605.xyz/2015/05/the-era-of-impact_20.html)
+
+### Embodied energy
+
+[Embodied energy](http://en.wikipedia.org/wiki/Embodied_energy "Embodied energy - Wikipedia, the free encyclopedia")
 
 > Embodied Energy is the sum of all the energy required to produce any goods or services, considered as if that energy was incorporated or 'embodied' in the product itself.
 See also [Emergy](http://en.wikipedia.org/wiki/Emergy "Emergy - Wikipedia, the free encyclopedia").
 See also [How much energy does it take (on average) to produce 1kg of the following materials - Low Tech Magazine](http://www.lowtechmagazine.com/what-is-the-embodied-energy-of-materials.html)
 
 
-### [Jevons paradox](http://en.wikipedia.org/wiki/Jevons_paradox "Jevons paradox - Wikipedia, the free encyclopedia")
+### Jevons paradox
+
+[Jevons paradox](http://en.wikipedia.org/wiki/Jevons_paradox "Jevons paradox - Wikipedia, the free encyclopedia")
 
 > In economics, the Jevons paradox is the proposition that as technology progresses, the increase in efficiency with which a resource is used tends to increase (rather than decrease) the rate of consumption of that resource.
 
@@ -49,7 +68,11 @@ See [Jevons paradox](#jevons-paradox)
 See [Jevons paradox](#jevons-paradox)
 
 ### [LESS](https://thearchdruidreport-archive.200605.xyz/2011/05/hair-shirts-hypocrisy-and-wilkins.html "The Archdruid Report - Hair Shirts, Hypocrisy, and Wilkins Micawber") - Less Energy Stuff and Stimulation
-Coined by [👤 John Michael Greer](https://thearchdruidreport-archive.200605.xyz "The Archdruid Report")
+
+LESS
+:   acronym for Less Energy, Stuff and Stimulation
+
+Coined by <kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
 
 ### Lowering expectations
 From [👤 Nicole Foss](http://www.theautomaticearth.com "The Automatic Earth")
@@ -196,9 +219,13 @@ Also see [Antipodes](#antipodes)
 
 <kbd>Ecology</kbd>
 
+<!-- stub -->
+
 ### Seres
 
 <kbd>Ecology</kbd>
+
+<!-- stub -->
 
 ### Niches
 
@@ -206,7 +233,10 @@ Also see [Antipodes](#antipodes)
 
 <!-- stub -->
 
-### 👤 Augustin Mouchot <kbd>Solar</kbd> <kbd>[👤 John Michael Greer](https://thearchdruidreport-archive.200605.xyz "The Archdruid Report")</kbd>
+### 👤 Augustin Mouchot
+
+<kbd>Solar</kbd>
+<kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
 
 Solar steam-engine pioneer. 
 [La Chaleur solaire et ses Applications industrielles (1869)](http://www.worldcat.org/title/chaleur-solaire-et-ses-applications-industrielles/oclc/637380836)
@@ -226,7 +256,7 @@ Energy Return On Energy Invested
 
 See [Joseph Tainter - Energy Gain and Future Energy - Collapse of Sustainability](https://www.youtube.com/watch?v=RSXKjH_WjWo) talk
 
-### Green wizardry <kbd>[👤 John Michael Greer](https://thearchdruidreport-archive.200605.xyz "The Archdruid Report")</kbd>
+### Green wizardry <kbd><kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd></kbd>
 Collection of sustainable-living skills
 Green wizards are defined as "individuals who are willing to take on the responsibility to learn, practice and thoroughly master a set of unpopular but valuable skills – the skills of the old appropriate technology movement – and share them with their neighbours when the day comes that neighbours are willing to learn"
 
