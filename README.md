@@ -943,3 +943,6 @@ from [akaleeroy comments on Collapseniks conveniently squeezed into boxes (prett
     margin: 0 3px 0 5px;
   }
 </style>
+
+*[AI]: Artificial Intelligence
+*[EROEI]: Energy Return On Energy Invested
