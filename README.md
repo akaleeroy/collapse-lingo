@@ -345,13 +345,6 @@ Foundation of ignorance.
 
 ## Techno-optimism
 
-## Value neutrality
-
-<kbd>Technology</kbd>
-<kbd>👤 Nick Bostrom</kbd>
-
-[Paperclip maximizer - Lesswrongwiki](http://wiki.lesswrong.com/wiki/Paperclip_maximizer)
-
 ## Low-tech
 
 [Low-Tech Magazine](http://www.lowtechmagazine.com/)
