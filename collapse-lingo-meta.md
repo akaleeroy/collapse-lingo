@@ -11,7 +11,7 @@
 ### Imprecise terms and proposed terms
 
 Some terms aren't the best fit for the concept they're meant to put across.
-Others designate new categories that haven't yet got a name but would warrant one.
+Others designate new notions that haven't yet got a name but would warrant one.
 
 Mark them with a <kbd>Identify / Coin</kbd> tag.
 

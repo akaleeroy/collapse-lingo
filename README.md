@@ -368,7 +368,15 @@ techno-fix
 
 [![Ox-powered Roman paddle wheel boat from a 15th-century copy of De Rebus Bellicis](https://upload.wikimedia.org/wikipedia/commons/c/c0/De_Rebus_Bellicis%2C_XVth_Century_Miniature.JPG)](https://en.wikipedia.org/wiki/Paddle_steamer#/media/File:De_Rebus_Bellicis,_XVth_Century_Miniature.JPG)
 
+> Of course, a ship like this one would never have worked. Think of how to feed the oxen. And think of how to manage the final results of feeding the oxen. Probably none of the curious weapons invented by our anonymous author would ever have worked. It all reminds me of Jeremy Rifkin and his hydrogen based economy. Rifkin understands what is the problem, but the solutions he proposes, well, are a little like the end result of feeding the oxen; but let me not go into that. The point is that our 4th century author does understand that the Roman Empire is in trouble. Actually, he seems to be scared to death because of what's happening. Read this sentence, I am showing it to you in the original Latin to give you a sense of the flavor of this text.
+
+> “In primis sciendum est quod imperium romanum circumlatrantium ubique nationum perstringat insania et omne latus limitum tecta naturalibus locis appetat dolosa barbaries."
+
+> Of course you may not be able to translate from Latin on the spot. For that, being Italian gives you a definite advantage. But let me just point out a word to you: "circumlatrantium" . which refers to barbarians who are, literally, "barking around" the empire's borders. They are like dogs barking and running around; and not just barking - they are trying hard to get in. It is almost a scene from a horror movie. A nightmare. So the author of "Of matters of war" is thinking of how to get rid of these monsters. But his solutions were not so good. Actually it was just wishful thinking. None of these strange weapons were ever built. Even our 4th century author, therefore, fails completely in understanding what were the real problems of the Empire.
+
 - via <kbd>[👤 Ugo Bardi](http://cassandralegacy.blogspot.com/ "Cassandra's Legacy")</kbd> - [Peak civilization - The Fall of the Roman Empire](http://europe.theoildrum.com/node/5528)
+
+Related: [Cornucopianism](#cornucopianism), [Unserious](#unserious)
 
 ## Durable disorder
 
