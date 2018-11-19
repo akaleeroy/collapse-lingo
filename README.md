@@ -872,21 +872,39 @@ squeeze
     _That city really puts the squeeze on you._
 
 
-## Bridge Technology
+## Bridge technology
+
+See [High tech dip](#high-tech-dip)
+
+## Hi-tek dip
+
+See [High tech dip](#high-tech-dip)
+
+## High tech dip
 
 <kbd>Identify / Coin</kbd>
 <kbd>Contrarian</kbd>
 <kbd>Conservation</kbd>
 
-bridge technology
-:   high technology used to reduce reliance on high technology in the future
+high tech dip
+:   entombed complexity. a pattern of using high technology to reduce reliance on high technology in the future.
     _Those folks over at the lab are using artificial neural networks to compress all that knowledge into a handful of slide rules_
+
 
 Making use of advanced technology today to vet best practices that can be passed on and implemented by low-tech means.
 
 Example: arriving at simpler proxies for high-tech tests. Listened to Dan Kittridge speaking about which lab he works with to get his soil tested, rarer minerals were tested as a bonus. If the tests rely on a burdensome technological suite, maybe we can leverage AI pattern matching to displace those tests, relying only on simpler DIY tests but getting sufficient information from them.
 
-<!-- TODO Not technology. This concept better maps to those scientific experiments and product optimizations that once performed would yield results that are no longer dependent on high technology -->
+Another example: (mechanical engineering) genetic algorhythm generating millions of designs for a part, stress testing all of them in computer simulation and selecting the most optimal solution. That design can then be copied by craftsmen with hand tools. Ideally it is distributed with documentation (mentioning what it's optimized for, how and why). Or only the form was passed on, to be reproduced _in the dark._ A technology suite that requires high technology only on the first iterations.
+
+Another different example: using advances in cognitive science to develop teaching and learning methodologies, maximizing the chance that more people will learn new skills required by changing circumstances, faster.
+
+### Sprints and scrambles
+
+As a way to preserve benefits of high complexity, along the arc of collapse we may see a scramble for high tech dips, sprints to rules of thumb. Seeing complex systems simplify (collapse), people will want to extract value from them before they're gone for good. To do so they will have to apply this pattern.
+
+- [ ] <kbd>Discuss</kbd> Like embodied energy ⇒ emergy, entombed complexity ⇒ encomplexity? Because embodied complexity suggests every time an instance is produced, whereas entombed suggests historical relic
+
 
 Related: Appropriate Technology, Intermediate technology, Graceful degradation, Descent-friendly Design
 
