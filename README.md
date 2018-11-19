@@ -338,13 +338,6 @@ See [Civil religion of progress](#civil-religion-of-progress)
 
 via <kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
 
-## Cornucopianism
-
-Alias Technological optimism
-Foundation of ignorance.
-
-## Techno-optimism
-
 ## Low-tech
 
 [Low-Tech Magazine](http://www.lowtechmagazine.com/)
@@ -641,6 +634,16 @@ cornucopianism
 > the enthusiastic and all but universal insistence, in the teeth of the evidence, that the end of business as usual will turn out to be the door to a wonderful new future.
 
 from [The Archdruid Report - The Era of Impact](https://thearchdruidreport-archive.200605.xyz/2015/05/the-era-of-impact_20.html)
+
+## Technological optimism
+
+[Cornucopianism](#cornucopianism)
+
+> Foundation of ignorance
+
+## Techno-optimism
+
+[Cornucopianism](#cornucopianism)
 
 ## The Tragedy of the Commons
 
