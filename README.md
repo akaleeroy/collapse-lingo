@@ -152,7 +152,8 @@ See [Descent-friendly Design](#descent-friendly-design)
 
 A state of affairs that cannot continue without collapsing eventually.
 
-## It's different this time 
+## _It's different this time_
+
 Delusional response to historical arguments supporting the imminence of collapse
 
 <!-- Link dead: [Peak Oil Denial Bingo!](http://buzzwordbingogame.com/cards/peak_oil_denial/) -->
@@ -193,6 +194,7 @@ See [Jevons paradox](#jevons-paradox)
 ## Usury
 
 > a form of systemic, institutionalized violence
+
 – [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) p.18-20/25-27
 
 ## Chits, specie and stock-in-trade
@@ -229,11 +231,42 @@ This society which inverses the natural order of [gift → barter → tribute �
 
 ## Slow-steaming
 
+<kbd>Conservation</kbd>
+
 Slow steaming refers to the practice of operating transoceanic cargo ships, especially container ships, at significantly less than their maximum speed to save money on fuel.
 
-## Universality <kbd>Design Issue</kbd>
-Universaly usable goods are good news for resilience AND barter. 
-A very specialized tool is harder to repair and may become obsolete, losing all value.
+## Universality?
+
+<kbd>Identify / Coin</kbd>
+
+The opposite of specialized. A very specialized tool is harder to repair and may become obsolete, losing all value.
+Universally usable goods are good news for resilience and barter. 
+
+- general purpose :vs: specialized
+- [interoperability](https://en.wikipedia.org/wiki/Interoperability) :vs: [vendor lock-in](https://en.wikipedia.org/wiki/Vendor_lock-in)
+- standard :vs: bespoke
+- ubiquitous :vs: rare
+- global :vs: local
+- [fungible](#fungible) :vs: unexchangeable
+- transparent :vs: ambiguous/[opaque](#opaque)
+
+## Opaque
+
+:vs: transparent.
+
+> This may seem backwards, but it isn’t. In many situations transparency invites exploitation by outsiders, while ambiguity and opaqueness require local knowledge and subjective judgment.
+
+– [Dmitry Orlov - Shrinking the Technosphere (2017)](http://www.worldcat.org/title/shrinking-the-technosphere-getting-a-grip-on-the-technologies-that-limit-our-autonomy-self-sufficiency-and-freedom/oclc/960097215) Chapter 4: Harm/Benefit Analysis
+
+
+## Fungible
+
+fungible
+:   (of goods contracted for without an individual specimen being specified) able to replace or be replaced by another identical item; mutually interchangeable.
+
+Oil is a fungible commodity.
+
+via <kbd>[👤 Michael Ruppert](https://en.wikipedia.org/wiki/Michael_Ruppert)</kbd>
 
 ## New normal
 
@@ -268,21 +301,34 @@ Also see [Antipodes](#antipodes)
 ## 👤 Augustin Mouchot
 
 <kbd>Solar</kbd>
-<kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
+via <kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
 
-Solar steam-engine pioneer. 
+Solar steam-engine pioneer.
+
 [La Chaleur solaire et ses Applications industrielles (1869)](http://www.worldcat.org/title/chaleur-solaire-et-ses-applications-industrielles/oclc/637380836)
 
 See [The Archdruid Report - The Steampunk Future Revisited](https://thearchdruidreport-archive.200605.xyz/2014/03/the-steampunk-future-revisited.html) and [The Archdruid Report - Captain Erikson's Equation](https://thearchdruidreport-archive.200605.xyz/2014/03/captain-eriksons-equation.html)
 
-## Captain Gustaf Erikson of the Åland Islands <kbd>Sailing</kbd>
+## Captain Gustaf Erikson of the Åland Islands
+
+<kbd>Sailing</kbd>
+
 See [The Archdruid Report - Captain Erikson's Equation](https://thearchdruidreport-archive.200605.xyz/2014/03/captain-eriksons-equation.html)
 
-## [Energy density](https://en.wikipedia.org/wiki/Energy_density)
+## Energy density
 
+[Energy density - Wikipedia](https://en.wikipedia.org/wiki/Energy_density)
 
-## <abbr title="Energy Return On Energy Invested">EROEI</abbr>
-Energy Return On Energy Invested
+## EROEI
+
+EROEI
+:   Energy Return On Energy Invested
+
+[Energy returned on energy invested - Wikipedia](https://en.wikipedia.org/wiki/Energy_returned_on_energy_invested)
+
+## Energy Return On Energy Invested
+
+See [EROEI](#eroei)
 
 ## Energy Gain
 
@@ -293,12 +339,14 @@ See [Joseph Tainter - Energy Gain and Future Energy - Collapse of Sustainability
 <kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
 
 Collection of sustainable-living skills
+
 Green wizards are defined as "individuals who are willing to take on the responsibility to learn, practice and thoroughly master a set of unpopular but valuable skills – the skills of the old appropriate technology movement – and share them with their neighbours when the day comes that neighbours are willing to learn"
 
 ## Buy in bulk
 
 Buy wholesale vs. retail, buy commercial-grade vs. consumer-grade.
-For related heuristics see [Dmitry Orlov - Shrinking the Technosphere (2017)](http://www.worldcat.org/title/shrinking-the-technosphere-getting-a-grip-on-the-technologies-that-limit-our-autonomy-self-sufficiency-and-freedom/oclc/960097215) chapter 4: Harm/Benefit Analysis
+
+For related heuristics see [Dmitry Orlov - Shrinking the Technosphere (2017)](http://www.worldcat.org/title/shrinking-the-technosphere-getting-a-grip-on-the-technologies-that-limit-our-autonomy-self-sufficiency-and-freedom/oclc/960097215) Chapter 4: Harm/Benefit Analysis
 
 ## Age of Limits
 
@@ -378,11 +426,12 @@ The protest conundrum debated at [Dmitry Orlov - The Five Stages of Collapse (20
 > The redoubtable H.L. Mencken, writing at a time when such things were not quite as universal in the American mass mind than they have become since then, called them “credos.” It was an inspired borrowing from the Latin credo, “I believe,” but its relevance extends far beyond the religious sphere.
 – [The Archdruid Report - Mentats Wanted, Will Train](https://thearchdruidreport-archive.200605.xyz/2014/04/mentats-wanted-will-train.html)
 
-## [Peak Oil Denial Bingo!](http://buzzwordbingogame.com/cards/peak_oil_denial/)
+## Peak Oil Denial Bingo!
 
 A game to play while arguing with peak oil deniers.
 
 > I’ve thought more than once of providing my readers with Bingo cards marked with the credos most commonly used to silence discussions of our future—“they’ll think of something,” “technology can solve any problem,” “the world’s going to end soon anyway,” “it’s different this time,” and so on—with some kind of prize for whoever fills theirs up first.
+
 See [The Archdruid Report - Mentats Wanted, Will Train](https://thearchdruidreport-archive.200605.xyz/2014/04/mentats-wanted-will-train.html)
 
 ## The problem of excessive scale
@@ -404,7 +453,9 @@ or
 > the amount of anything that a given species or ecosystem can produce in a given place and time is limited by whichever resource is in shortest supply. (...) _concentrated energy is the limiting resource_.
 – [The Archdruid Report - The End of Employment](https://thearchdruidreport-archive.200605.xyz/2014/04/the-end-of-employment.html)
 
-## [Substitutability](https://en.wikipedia.org/wiki/Substitute_good#Substitutability)
+## Substitutability
+
+[Substitutability - Wikipedia](https://en.wikipedia.org/wiki/Substitute_good#Substitutability)
 
 <kbd>Economics</kbd>
 
@@ -452,7 +503,11 @@ What social scientists label a “progressivist” view supposes that cultural c
 The Utterly Dismal Theorem - directly challenges the progressivist view:
 Any technical improvement can only relieve misery for a while, for as long as misery is the only check on population, the improvement will enable population to grow, and will soon enable more people to live in misery than before. The final result of improvements, therefore, is to increase the equilibrium population, which is to increase the sum total of human misery (Boulding, 1959: vii [emphases in original]).
 
-## [Dunbar's number](https://en.wikipedia.org/wiki/Dunbar%27s_number) <kbd>👤 Dmitry Orlov</kbd>
+## Dunbar's number
+
+[Dunbar's number - Wikipedia](https://en.wikipedia.org/wiki/Dunbar%27s_number)
+
+via <kbd>👤 Dmitry Orlov</kbd>
 
 > Dunbar's number is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships—relationships in which an individual knows who each person is and how each person relates to every other person.
 
@@ -503,31 +558,45 @@ particular topic, or, as expressed by the contemporary philosopher Judith Butler
 of acceptable speech”. This is very similar to the concept of the “Overton Window” as
 explained in [this essay by Neal Devers](http://thefutureprimaeval.net/the-overton-bubble/).
 
-– from [Post Peak Medicine Book, p.23](http://www.postpeakmedicine.com/PostPeakMedicineBook.pdf#page=23)
+from [Post Peak Medicine Book, p.23](http://www.postpeakmedicine.com/PostPeakMedicineBook.pdf#page=23)
 
 ## Culture of entitlement
 
 ## Unserious
 
-We're delusional and we're not coming up with any realistic response.
-By contrast, a resilient framework for project development that plugs in the teachings of collapse, permaculture, Tainter, West, Greer, etc is serious.
-via <kbd>👤 James Howard Kunstler</kbd> http://www.youtube.com/v/-zluPQEcK0Y&start=477&end=478&version=3
+Way to describe delusional responses to the challenges of collapse, hinging on an incomplete picture of the problem and/or fallacies: wishful thinking, infinite substitutability, cornucopianism, infinite growth on a finite planet.
+
+via <kbd>👤 James Howard Kunstler</kbd> [How unserious #t=00:07:57,00:07:58](https://www.youtube.com/embed/-zluPQEcK0Y?start=477&end=478)
 
 ## Techno-triumphalism
 
-via <kbd>👤 James Howard Kunstler</kbd> https://www.youtube.com/watch?v=-zluPQEcK0Y\#t=832
+via <kbd>👤 James Howard Kunstler</kbd> [How Do You Like the Long Emergency So Far? Jim Kunstler at TEDxAlbany 2010 #t=00:13:53](https://www.youtube.com/watch?v=-zluPQEcK0Y#t=832)
 
 ## Monkey trap
 
-For description see Dmitry Orlov - Five Stages book or Dmitry Orlov - Monkey Trap Nation
-| "When all you have is a hammer everything looks like a nail"
-| the poor monkey trying to get its hand out of the trap without letting go of the food that keeps it stuck there.
-| "When you realize that you’re in a hole, the first thing to do is stop digging" p. 73
-Also http://www.themonkeytrap.us/ - the personal website of Nate Hagens
+<kbd>[👤 Nate Hagens](http://www.themonkeytrap.us/)</kbd>
 
-## [Cassandra complex](http://en.wikipedia.org/wiki/Cassandra_complex)
+<!-- TODO Video of Nate Hagens explaining this story -->
 
-Also called Cassandra curse.
+> The monkey trap is, as the name suggests, a device for trapping monkeys. It is ingenuous in its simplicity, and also in the fact that it does not actually trap the monkey at all: it is the monkey that does the trapping. The trap consists of a hollowed-out gourd tied to a tree using a vine. The gourd has an opening just big enough to admit a monkey's paw when it isn't clenched into a fist. Inside is a banana. The monkey reaches inside, grabs the banana, but cannot withdraw it. Even as the hunter approaches to collect it, it cannot bring itself to unclench its fist, let go of the banana and escape. What traps the monkey is the monkey's own internal cost/benefit analysis, which is slanted toward the short term, coupled with its inability to consider the long-term effect of its short-term decisions. It is a perfect metaphor for what has caused the US to go off the rails.
+
+from [👤 Dmitry Orlov](http://cluborlov.blogspot.com "Club Orlov") - [Monkey Trap Nation](http://cluborlov.blogspot.com/2013/02/monkey-trap-nation.html)
+
+> "When all you have is a hammer everything looks like a nail"
+
+> "When you realize that you’re in a hole, the first thing to do is stop digging"
+
+from <kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd> [The Long Descent: A user's guide to the end of the industrial age (2008)](http://www.worldcat.org/title/long-descent-a-users-guide-to-the-end-of-the-industrial-age/) Chapter 2: The Stories We Tell Ourselves > Faustus and the Monkey Trap; Distracting Ourselves
+
+## Cassandra complex
+
+<kbd>[👤 Ugo Bardi](http://cassandralegacy.blogspot.com/ "Cassandra's Legacy")</kbd>
+
+[Cassandra complex - Wikipedia](http://en.wikipedia.org/wiki/Cassandra_complex)
+
+## Cassandra curse
+
+See [Cassandra complex](#cassandra-complex)
 
 See <kbd>[👤 Ugo Bardi](http://cassandralegacy.blogspot.com/ "Cassandra's Legacy")</kbd>
 
@@ -600,6 +669,12 @@ Example: two tribes in the same bioregion experience fluctuations in productivit
 This is why it stands to reason that the best places for resilience are regions with plenty of bioregional diversity – ocean to mountain, tropical to temperate. Countries that are big and diverse, where you can change bioregion while still avoiding risky interactions such as crossing a border.
 
 ## Appropriate Technology
+
+<!-- stub -->
+
+[Appropriate technology - Wikipedia](https://en.wikipedia.org/wiki/Appropriate_technology)
+
+[Appropedia](http://www.appropedia.org/)
 
 Related: Intermediate technology - "Build what used to be called "intermediate" technologies--simple but intelligently designed systems that use common materials to meet basic human needs." Richard Heinberg IAmA http://www.reddit.com/r/IAmA/comments/2bm2k0/peak_oil_and_the_end_of_perpetual_economic_growth/cj6pptd
 
@@ -747,13 +822,20 @@ via <kbd>👤 William R. Catton, Jr.</kbd> - Overshoot
 
 from [5 Errors In Thinking That Have Effectively Changed The World – WAKING SCIENCE](http://wakingscience.com/2015/12/5-errors-in-thinking-that-have-effectively-changed-the-world/)
 
-## [Retrovation](https://thearchdruidreport-archive.200605.xyz/2016/09/a-time-for-retrovation.html "The Archdruid Report - A Time for Retrovation")**  
-> the strategy of using the past as a resource for problem-solving in the present.
+## Retrovation
 
 <kbd>Technology</kbd>
 <kbd>Innovation</kbd>
 
-## [Red Queen Effect](http://cassandralegacy.blogspot.com/2016/07/some-reflections-on-twilight-of-oil-age.html "Cassandra's Legacy: Some reflections on the Twilight of the Oil Age - part I]")**
+> the strategy of using the past as a resource for problem-solving in the present.
+
+from [The Archdruid Report - A Time for Retrovation](https://thearchdruidreport-archive.200605.xyz/2016/09/a-time-for-retrovation.html "The Archdruid Report - A Time for Retrovation")
+
+
+## Red Queen Effect
+
+[Cassandra's Legacy: Some reflections on the Twilight of the Oil Age - part I](http://cassandralegacy.blogspot.com/2016/07/some-reflections-on-twilight-of-oil-age.html)
+
 > Many readers are no doubt familiar with the so-called “Red Queen” effect illustrated in Figure 2 – to have to run fast to stay put, and even faster to be able to move forward.  The OI is fully caught in it.
 
 ![Figure 2 – Stuck on a one track to nowhere](http://4.bp.blogspot.com/-PVwipqiMKVE/V4TvbcHkOpI/AAAAAAAABmM/tcYtD14-vhggvSMoE_LN4wYhJI_tgH9pQCK4B/s1600/nGeni-Looking%2Bdown%2Bthe%2Bbarrel-v10.3.006.png)
@@ -805,7 +887,7 @@ Related: Appropriate Technology, Intermediate technology, Graceful degradation, 
 
 <kbd>Identify / Coin</kbd>
 
-Tongue-in-cheek expression to assert the fallacy of economic wealth decoupled from carbon dioxide emissions.
+Tongue-in-cheek way to assert the fallacy of economic wealth decoupled from carbon dioxide emissions.
 
 [Tim Garrett - Measure the size of the global economy from the top of Mauna Loa](https://www.youtube.com/embed/A3QUQbPILS8?start=458&end=467&autoplay=1 "Is it possible to decouple economic wealth from carbon dioxide emission rates? Part II (2010)")
 
@@ -819,7 +901,7 @@ Like batteries from [electric mining equipment](https://www.reuters.com/article/
 
 > (...) What if we could somehow design products FOR dismantling? Whip up some gadget frenzy among the rich of today, get them to buy up said gadget in droves until it's fairly ubiquitous, then have them dispose of it (fad is over / planned obsolescence / etc.) then when it gets to the Global South that gadget is full of useful modules for off-grid homesteading, that poor people can make use of with a bit of tinkering (think Cuba). Like washing machine motors can be useful for wind power generation.
 
-– [akaleeroy comments on Collapseniks conveniently squeezed into boxes (prettified chart)](https://www.reddit.com/r/collapse/comments/9ungu7/collapseniks_conveniently_squeezed_into_boxes/e963ij5/)
+from [akaleeroy comments on Collapseniks conveniently squeezed into boxes (prettified chart)](https://www.reddit.com/r/collapse/comments/9ungu7/collapseniks_conveniently_squeezed_into_boxes/e963ij5/)
 
 ## Resource Overshoot
 
