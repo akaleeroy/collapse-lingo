@@ -910,3 +910,10 @@ from [akaleeroy comments on Collapseniks conveniently squeezed into boxes (prett
 [Cassandra's Legacy: The age of diminishing technological returns: a review of "The Age of Low Technologies" by Philippe Bihouix](https://cassandralegacy.blogspot.com/2014/07/the-age-of-diminishing-technological.html)
 
 <!-- Footer -->
+
+<style>
+  a[href^=http]:after {
+    content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
+    margin: 0 3px 0 5px;
+  }
+</style>
