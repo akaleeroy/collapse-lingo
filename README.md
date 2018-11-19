@@ -180,16 +180,20 @@ vs Resilience
 
 See [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208)
 
-## Energy Efficiency 
+## Energy Efficiency
 
 vs Energy Conservation
 
 See [Jevons paradox](#jevons-paradox)
 
-## Extend and pretend <kbd>Finance</kbd> <kbd>Money</kbd>
+## Extend and pretend
+
+<kbd>Finance</kbd>
+<kbd>Money</kbd>
 
 > extend government-backed loan guarantees and pretend that economic growth will resume shortly
-– [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) p.18/25
+
+from [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) p.18/25
 
 ## Usury
 
@@ -247,7 +251,7 @@ Universally usable goods are good news for resilience and barter.
 - standard :vs: bespoke
 - ubiquitous :vs: rare
 - global :vs: local
-- [fungible](#fungible) :vs: unexchangeable
+- [fungible](#fungibility) :vs: unexchangeable
 - transparent :vs: ambiguous/[opaque](#opaque)
 
 ## Opaque
@@ -258,13 +262,14 @@ Universally usable goods are good news for resilience and barter.
 
 – [Dmitry Orlov - Shrinking the Technosphere (2017)](http://www.worldcat.org/title/shrinking-the-technosphere-getting-a-grip-on-the-technologies-that-limit-our-autonomy-self-sufficiency-and-freedom/oclc/960097215) Chapter 4: Harm/Benefit Analysis
 
+## Fungibility
 
-## Fungible
+<kbd>Peak Oil</kbd>
+<kbd>Economics</kbd>
 
-fungible
-:   (of goods contracted for without an individual specimen being specified) able to replace or be replaced by another identical item; mutually interchangeable.
-
-Oil is a fungible commodity.
+fungibility
+:   (economics) property of a good or a commodity whose individual units are essentially interchangeable.
+    _Oil is a fungible commodity._
 
 via <kbd>[👤 Michael Ruppert](https://en.wikipedia.org/wiki/Michael_Ruppert)</kbd>
 
@@ -392,9 +397,11 @@ via <kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
 
 Alternate forms: lo tek, folk tek
 
-## [Homeostasis](https://en.wikipedia.org/wiki/Homeostasis)
+## Homeostasis
 
 <kbd>Ecology</kbd>
+
+[Homeostasis](https://en.wikipedia.org/wiki/Homeostasis)
 
 Cause & effect vs. Forcing & feedback (via <kbd>[👤 Ugo Bardi](http://cassandralegacy.blogspot.com/ "Cassandra's Legacy")</kbd>)
 
@@ -404,7 +411,7 @@ Cause & effect vs. Forcing & feedback (via <kbd>[👤 Ugo Bardi](http://cassandr
 
 Striving for political unification is an effort to increase legibility, meaning better exploitation.
 
-## The Davos Class 
+## The Davos Class
 
 > Gates, Soros, Google, Amazon
 
@@ -600,7 +607,7 @@ See [Cassandra complex](#cassandra-complex)
 
 See <kbd>[👤 Ugo Bardi](http://cassandralegacy.blogspot.com/ "Cassandra's Legacy")</kbd>
 
-## Seneca Cliff 
+## Seneca Cliff
 
 See <kbd>[👤 Ugo Bardi](http://cassandralegacy.blogspot.com/ "Cassandra's Legacy")</kbd>
 
@@ -612,9 +619,11 @@ See <kbd>[👤 Ugo Bardi](http://cassandralegacy.blogspot.com/ "Cassandra's Lega
 
 ## Trading up
 
-via <kbd>👤 Venkatesh Rao</kbd> <kbd>[RibbonFarm](https://www.ribbonfarm.com)</kbd>
 
-[Acting Dead, Trading Up and Leaving the Middle Class](https://www.ribbonfarm.com/2011/12/08/acting-dead-trading-up-and-leaving-the-middle-class/)
+trading up
+:   going against your residual middle-class financial programming, overcoming irrational aversion to spending money where it matters.
+
+from <kbd>👤 Venkatesh Rao</kbd> <kbd>[RibbonFarm](https://www.ribbonfarm.com)</kbd> [Acting Dead, Trading Up and Leaving the Middle Class](https://www.ribbonfarm.com/2011/12/08/acting-dead-trading-up-and-leaving-the-middle-class/)
 
 See Lost Generation, Downshifting
 
@@ -747,8 +756,7 @@ Related: [Fractal planting patterns yield optimal harvests, without central cont
 
   crash: die-off.
 
-from <kbd>👤 William R. Catton, Jr.</kbd> - Overshoot [via The Archdruid Report] 
-https://thearchdruidreport-archive.200605.xyz/2015/02/as-night-closes-in.html
+from <kbd>👤 William R. Catton, Jr.</kbd> - Overshoot via [The Archdruid Report - As Night Closes In](https://thearchdruidreport-archive.200605.xyz/2015/02/as-night-closes-in.html)
 
 
 ## [White's Law](http://en.wikipedia.org/wiki/White's_law)
@@ -807,7 +815,7 @@ Like tulip frenzy in 1630s, dot-com Internet bubble 1997–2000, Real estate bub
 
 Q: Could you elaborate on what “ghost acreage” is and why it is important to Britain’s Industrial Revolution?
 
-A: Ghost acreage is a term coined by Kenneth Pomeranz to help explain how Britain and other western European nations industrialized.  The basic idea of “ghost acreage” is that imperial powers, like Britain, France, the Netherlands, and others, could draw upon resources from lands outside their borders, enabling those nations to support much larger economies than they otherwise could.  For example, because of the economic connection between Britain and the United States, the cotton mills of Britain added “ghost acreage” from the U.S. South.  This freed up good land in Britain for farmers to grow more food to feed the rapidly growing industrial population of Britain.  If the British were to try to produce cotton within their own national borders, they would not only struggle to grow it in the wrong climate, but alternatives such as flax or sheep would chew up valuable acres of land British farmers could otherwise be using to grow food. Ghost acreage also comes into play when discussing new types of energy, such as coal.  British industrialists could have burned wood to fuel their new machines, but they would have had to purchase and burn wood from throughout Europe and North America at great expense.  By burning millions of tons of coal, it was as if the British had suddenly acquired billions of acres of underground forests.  As with plantations, the use of coal freed up land for other purposes, such as agriculture, or it allowed for wood to be used in shipbuilding and construction instead of as fuel.  Ghost acreage is an important concept because it reminds us of the ecological aspects of the industrial revolution; by drawing on natural resources from overseas and underground, the small island nation of Britain was able to escape its ecological constraints and start the Industrial Revolution.  
+A: Ghost acreage is a term coined by Kenneth Pomeranz to help explain how Britain and other western European nations industrialized.  The basic idea of “ghost acreage” is that imperial powers, like Britain, France, the Netherlands, and others, could draw upon resources from lands outside their borders, enabling those nations to support much larger economies than they otherwise could.  For example, because of the economic connection between Britain and the United States, the cotton mills of Britain added “ghost acreage” from the U.S. South.  This freed up good land in Britain for farmers to grow more food to feed the rapidly growing industrial population of Britain.  If the British were to try to produce cotton within their own national borders, they would not only struggle to grow it in the wrong climate, but alternatives such as flax or sheep would chew up valuable acres of land British farmers could otherwise be using to grow food. Ghost acreage also comes into play when discussing new types of energy, such as coal.  British industrialists could have burned wood to fuel their new machines, but they would have had to purchase and burn wood from throughout Europe and North America at great expense.  By burning millions of tons of coal, it was as if the British had suddenly acquired billions of acres of underground forests.  As with plantations, the use of coal freed up land for other purposes, such as agriculture, or it allowed for wood to be used in shipbuilding and construction instead of as fuel.  Ghost acreage is an important concept because it reminds us of the ecological aspects of the industrial revolution; by drawing on natural resources from overseas and underground, the small island nation of Britain was able to escape its ecological constraints and start the Industrial Revolution.
 http://www.saylor.org/site/wp-content/themes/Edu/curriculum/curriculumQAAJAX.php?action=getcourseunitqas&courseunitid=28083
 
 ## Cultural lag
