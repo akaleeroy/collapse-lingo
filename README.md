@@ -619,9 +619,8 @@ See <kbd>[👤 Ugo Bardi](http://cassandralegacy.blogspot.com/ "Cassandra's Lega
 
 ## Trading up
 
-
 trading up
-:   going against your residual middle-class financial programming, overcoming irrational aversion to spending money where it matters.
+:   going against your residual middle-class financial programming and overcoming irrational aversion to spending money where it matters.
 
 from <kbd>👤 Venkatesh Rao</kbd> <kbd>[RibbonFarm](https://www.ribbonfarm.com)</kbd> [Acting Dead, Trading Up and Leaving the Middle Class](https://www.ribbonfarm.com/2011/12/08/acting-dead-trading-up-and-leaving-the-middle-class/)
 
@@ -629,9 +628,7 @@ See Lost Generation, Downshifting
 
 ## Hairshirt environmentalism
 
-[Hairshirt environmentalism - Wikipedia](http://en.wikipedia.org/wiki/Hairshirt_environmentalism)
-
-> Hairshirt environmentalism (or hairshirt-green) refers to the idea that the environmental problems we face can be addressed by limiting our consumption of resources.
+> [Hairshirt environmentalism](http://en.wikipedia.org/wiki/Hairshirt_environmentalism) (or hairshirt-green) refers to the idea that the environmental problems we face can be addressed by limiting our consumption of resources.
 
 via <kbd>👤 Venkatesh Rao</kbd> <kbd>[RibbonFarm](https://www.ribbonfarm.com)</kbd>
 
@@ -670,6 +667,10 @@ See [Joseph Tainter - The Collapse of Complex Societies (1988)]()
 via [👤 Joseph Tainter](#joseph-tainter) [Complexity, Problem Solving, and Sustainable Societies (1996)](http://www.harbornet.com/folks/theedrich/hive/Tainter/SocietalCollapse.htm)
 
 ## Energy averaging systems
+
+<kbd>Prep</kbd>
+<kbd>Relocation</kbd>
+<kbd>Nomad</kbd>
 
 > Regional economic symbiosis and spatial energy averaging are a method of countering productivity fluctuations.
 
