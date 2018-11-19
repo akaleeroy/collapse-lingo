@@ -269,7 +269,7 @@ Universally usable goods are good news for resilience and barter.
 
 fungibility
 :   (economics) property of a good or a commodity whose individual units are essentially interchangeable.
-    _Oil is a fungible commodity._
+    _Crude oil is a fungible commodity._
 
 via <kbd>[👤 Michael Ruppert](https://en.wikipedia.org/wiki/Michael_Ruppert)</kbd>
 
@@ -887,7 +887,7 @@ See [High tech dip](#high-tech-dip)
 <kbd>Conservation</kbd>
 
 high tech dip
-:   entombed complexity. a pattern of using high technology to reduce reliance on high technology in the future.
+:   entombed complexity. a pattern of using high technology to reduce reliance on high technology in the future.  
     _Those folks over at the lab are using artificial neural networks to compress all that knowledge into a handful of slide rules_
 
 
@@ -903,8 +903,7 @@ Another different example: using advances in cognitive science to develop teachi
 
 As a way to preserve benefits of high complexity, along the arc of collapse we may see a scramble for high tech dips, sprints to rules of thumb. Seeing complex systems simplify (collapse), people will want to extract value from them before they're gone for good. To do so they will have to apply this pattern.
 
-- [ ] <kbd>Discuss</kbd> Like embodied energy ⇒ emergy, entombed complexity ⇒ encomplexity? Because embodied complexity suggests every time an instance is produced, whereas entombed suggests historical relic
-
+- [ ] <kbd>TODO</kbd> Improve examples, condense text, identify concepts, discuss. Like embodied energy ⇒ emergy, entombed complexity ⇒ encomplexity? Because embodied complexity suggests every time an instance is produced, whereas entombed suggests historical relic
 
 Related: Appropriate Technology, Intermediate technology, Graceful degradation, Descent-friendly Design
 
