@@ -13,7 +13,7 @@ Rounding up collapse lingo, terminology, jargon, basic concepts, tropes, memes, 
 
 ## Catabolic collapse
 
-See [How Civilizations Fall: A Theory of Catabolic Collapse](http://www.ecoshock.org/transcripts/greer_on_collapse.pdf)
+Source: [How Civilizations Fall: A Theory of Catabolic Collapse](http://www.ecoshock.org/transcripts/greer_on_collapse.pdf)
 
 <kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
 
@@ -148,6 +148,10 @@ See [Descent-friendly Design](#descent-friendly-design)
 
 <!-- stub -->
 
+## BAU
+
+[Business As Usual](#business-as-usual)
+
 ## Business as usual
 
 A state of affairs that cannot continue without collapsing eventually.
@@ -156,7 +160,7 @@ A state of affairs that cannot continue without collapsing eventually.
 
 Delusional response to historical arguments supporting the imminence of collapse
 
-<!-- Link dead: [Peak Oil Denial Bingo!](http://buzzwordbingogame.com/cards/peak_oil_denial/) -->
+See [Peak Oil Denial Bingo](#peak-oil-denial-bingo)
 
 ## The petroleum interval
 
@@ -327,13 +331,21 @@ See [The Archdruid Report - Captain Erikson's Equation](https://thearchdruidrepo
 ## EROEI
 
 EROEI
-:   Energy Return On Energy Invested
+:   [Energy Return On Energy Invested](#energy-return-on-energy-invested)
 
-[Energy returned on energy invested - Wikipedia](https://en.wikipedia.org/wiki/Energy_returned_on_energy_invested)
 
 ## Energy Return On Energy Invested
 
-See [EROEI](#eroei)
+[Energy returned on energy invested - Wikipedia](https://en.wikipedia.org/wiki/Energy_returned_on_energy_invested)
+
+## EROC
+
+EROC
+:   [Energy Return On Carbon](#energy-return-on-carbon)
+
+## Energy Return On Carbon
+
+Suggested in [Implications of net energy-return-on-investment for a low-carbon energy transition | Nature Energy](https://www.nature.com/articles/s41560-018-0116-1) • [/r/collapsademic submission](https://www.reddit.com/r/collapsademic/comments/9yj1cd/implications_of_net_energyreturnoninvestment_for/)
 
 ## Energy Gain
 
@@ -452,21 +464,28 @@ See [The Archdruid Report - Mentats Wanted, Will Train](https://thearchdruidrepo
 ## The problem of excessive scale
 
 See [ClubOrlov: Book Excerpt: The Problem of Excessive Scale](http://cluborlov.blogspot.com/2013/02/book-excerpt-problem-of-excessive-scale.html)
+
 Read [Leopold Kohr - The Breakdown of Nations (2001)](http://www.amazon.com/The-Breakdown-Nations-Leopold-Kohr/dp/1870098986/)
+
 Watch [Geoffrey West on Complexity (2011) - YouTube](https://www.youtube.com/watch?v=DFFVSvAr7Wc)
 
-## Those who win in a rigged game get stupid
+## _Those who win in a rigged game get stupid_
 
 via <kbd>👤 Catherine Austin Fitts</kbd>
 
-## [Liebig’s law of the minimum](http://en.wikipedia.org/wiki/Liebig's_law_of_the_minimum)
+## Liebig’s law of the minimum
 
 <kbd>Ecology</kbd>
 
+[Liebig’s law of the minimum - Wikipedia](http://en.wikipedia.org/wiki/Liebig's_law_of_the_minimum)
+
 > growth is controlled not by the total amount of resources available, but by the scarcest resource (limiting factor).
+
 or
-> the amount of anything that a given species or ecosystem can produce in a given place and time is limited by whichever resource is in shortest supply. (...) _concentrated energy is the limiting resource_.
-– [The Archdruid Report - The End of Employment](https://thearchdruidreport-archive.200605.xyz/2014/04/the-end-of-employment.html)
+
+> the amount of anything that a given species or ecosystem can produce in a given place and time is limited by whichever resource is in shortest supply. (...) _concentrated energy is the limiting resource_.  
+
+from [The Archdruid Report - The End of Employment](https://thearchdruidreport-archive.200605.xyz/2014/04/the-end-of-employment.html)
 
 ## Substitutability
 
@@ -942,6 +961,49 @@ from [akaleeroy comments on Collapseniks conveniently squeezed into boxes (prett
 
 [Cassandra's Legacy: The age of diminishing technological returns: a review of "The Age of Low Technologies" by Philippe Bihouix](https://cassandralegacy.blogspot.com/2014/07/the-age-of-diminishing-technological.html)
 
+## Paupericide
+
+[/r/Paupericide. The Extermination of the Poor.](https://www.reddit.com/r/Paupericide/)
+
+> This sub is dedicated to monitoring the extermination of the poor. From Latin _pauper_ (“poor”) and the suffix _-cide_ (a Latin combining form meaning "killer," "the act of killing").
+
+> Paupericide is based on a clearly defined and widely accepted yet often unarticulated hierarchy. Violence done by those higher on the hierarchy to those lower is nearly always invisible, that is, unnoticed. When it is noticed, it is fully rationalized. Violence done by those lower on the hierarchy to those higher is unthinkable, and when it does occur is regarded with shock, horror, and the fetishization of the victims.
+
+> The property of those higher on the hierarchy is more valuable than the lives of those below. It is acceptable for those above to increase the amount of property they control — in everyday language, to make money — by destroying or taking the lives of those below. If those below damage the property of those above, those above may kill or otherwise destroy the lives of those below
+
+> Anything about criminalizing or hampering Survival by either state or non-state actors is permitted in this sub. Examples of Survival Crime include things like basic behaviors, such as sitting, lying down, sleeping, building shelter, making fire to stay warm, sharing or recieving food.
+
+> Beware of
+
+> - Biofuels policy that raise the prices of food such that people begin to become malnourished or starve in poorer countries.
+
+> - Enactment and enforcement of legislation that makes it illegal to sleep, sit, or store personal belongings in public spaces in cities where people are forced to live in public spaces.
+
+> - Selective enforcement of more neutral laws, such as loitering, jaywalking, or open container laws, against poor people.
+
+> - Sweeps of city areas in which poor persons are living to drive them out of those areas, frequently resulting in the destruction of individuals’ personal property such as important personal documents and medication.
+
+> - Enactment and enforcement of laws that punish people for begging or engaging in unsanctioned/unpermitted work, in order to move poor or homeless persons out of a city or area of higher socioeconomic class.
+
+> - Enactment and enforcement of laws that restrict groups sharing food with poor/homeless persons in public spaces.
+
+> - Enforcement of a wide range of so-called “quality of life” ordinances related to public activities and hygiene (i.e. public urination) when no public facilities are available to people without housing
+
+
+## Favela Chic
+
+[👤 Bruce Sterling](https://www.wired.com/author/bruce-sterling/ "Bruce Sterling on WIRED")
+
+## Gothic High Tech
+
+[👤 Bruce Sterling](https://www.wired.com/author/bruce-sterling/ "Bruce Sterling on WIRED")
+
+## Pro-natalist arguments
+
+> _Maybe that child will grow up to be the genius that fixes climate change! You don't know!_
+
+> As it happens, Rickmansworth appears on the first page of The Hitchhiker’s Guide to the Galaxy; it’s the town where “a girl sitting on her own in a small café” suddenly discovers the secret to making the world “a good and happy place.” But fate intervenes. “Before she could get to a phone to tell anyone about it, a terrible stupid catastrophe occurred, and the idea was lost forever.”
+
 <!-- Footer -->
 
 <style>
@@ -952,4 +1014,6 @@ from [akaleeroy comments on Collapseniks conveniently squeezed into boxes (prett
 </style>
 
 *[AI]: Artificial Intelligence
+*[BAU]: Business As Usual
 *[EROEI]: Energy Return On Energy Invested
+*[EROC]: Energy Return On Carbon

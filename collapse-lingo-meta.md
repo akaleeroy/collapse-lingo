@@ -1,5 +1,8 @@
 # Collapse Lingo Meta
 
+At this point this isn't an authoritative list. Some key terms are missing, other non-essential ones are included.
+
+
 - [ ] Import terms from Richard Heinberg's books[^1]
 - [ ] Import terms from James Howard Kunstler's books[^1]
 - [ ] Import indexes and glossary from Long Descent
