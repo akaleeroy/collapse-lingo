@@ -47,14 +47,24 @@ See [The Archdruid Report - The Crocodiles of Reality](https://thearchdruidrepor
 
 – [The Archdruid Report - The Era of Impact](https://thearchdruidreport-archive.200605.xyz/2015/05/the-era-of-impact_20.html)
 
+## Emergy
+
+<kbd>Ecology</kbd>
+
+[emergy](https://en.wikipedia.org/wiki/Emergy "Emergy - Wikipedia")
+:   the amount of energy that was consumed in direct and indirect transformations to make a product or service.
+
+See [Embodied energy](#embodied-energy)
+
 ## Embodied energy
+
+<kbd>Ecology</kbd>
 
 [Embodied energy](http://en.wikipedia.org/wiki/Embodied_energy "Embodied energy - Wikipedia")
 
 > Embodied Energy is the sum of all the energy required to produce any goods or services, considered as if that energy was incorporated or 'embodied' in the product itself.
-See also [Emergy](http://en.wikipedia.org/wiki/Emergy "Emergy - Wikipedia").
-See also [How much energy does it take (on average) to produce 1kg of the following materials - Low Tech Magazine](http://www.lowtechmagazine.com/what-is-the-embodied-energy-of-materials.html)
 
+See [How much energy does it take (on average) to produce 1kg of the following materials - Low Tech Magazine](http://www.lowtechmagazine.com/what-is-the-embodied-energy-of-materials.html)
 
 ## Jevons paradox
 
@@ -187,10 +197,23 @@ Watch [Rob Hopkins: Transition to a world without oil | TED Talk](http://www.ted
 
 Also see [Joseph Tainter - Human Resource Use: Timing and Implications for Sustainability](http://www.theoildrum.com/node/5745)
 
+## 👤 James Howard Kunstler
+
+[Kunstler.com](http://kunstler.com/)
+
+<!-- TODO Blogs at [Clusterfuck Nation] -->
+
+> **James Howard Kunstler** is the author of The Long Emergency, Too Much Magic, The Geography of Nowhere, the World Made By Hand novels, and more than a dozen other books.
 
 ## Efficiency
 
-vs Resilience
+The opposite of resilience.
+
+> efficiency the straightest path to hell
+
+– <kbd>[👤 James Howard Kunstler](#james-howard-kunstler)</kbd>
+
+There is little to no capacity to adapt in a maxed out system.
 
 See [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208)
 
@@ -606,15 +629,17 @@ from [Post Peak Medicine Book, p.23](http://www.postpeakmedicine.com/PostPeakMed
 
 ## Culture of entitlement
 
+<!-- stub -->
+
 ## Unserious
 
 Way to describe delusional responses to the challenges of collapse, hinging on an incomplete picture of the problem and/or fallacies: wishful thinking, infinite substitutability, cornucopianism, infinite growth on a finite planet.
 
-via <kbd>👤 James Howard Kunstler</kbd> [How unserious #t=00:07:57,00:07:58](https://www.youtube.com/embed/-zluPQEcK0Y?start=477&end=478)
+via <kbd>[👤 James Howard Kunstler](#james-howard-kunstler)</kbd> [How unserious #t=00:07:57,00:07:58](https://www.youtube.com/embed/-zluPQEcK0Y?start=477&end=478)
 
 ## Techno-triumphalism
 
-via <kbd>👤 James Howard Kunstler</kbd> [How Do You Like the Long Emergency So Far? Jim Kunstler at TEDxAlbany 2010 #t=00:13:53](https://www.youtube.com/watch?v=-zluPQEcK0Y#t=832)
+via <kbd>[👤 James Howard Kunstler](#james-howard-kunstler)</kbd> [How Do You Like the Long Emergency So Far? Jim Kunstler at TEDxAlbany 2010 #t=00:13:53](https://www.youtube.com/watch?v=-zluPQEcK0Y#t=832)
 
 ## Monkey trap
 
@@ -685,15 +710,6 @@ See Lost Generation, Downshifting
 > [Hairshirt environmentalism](http://en.wikipedia.org/wiki/Hairshirt_environmentalism) (or hairshirt-green) refers to the idea that the environmental problems we face can be addressed by limiting our consumption of resources.
 
 via <kbd>👤 Venkatesh Rao</kbd> <kbd>[RibbonFarm](https://www.ribbonfarm.com)</kbd>
-
-## Emergy
-
-<kbd>Ecology</kbd>
-
-[emergy](https://en.wikipedia.org/wiki/Emergy "Emergy - Wikipedia")
-:   the amount of energy that was consumed in direct and indirect transformations to make a product or service.
-
-See [Embodied energy](#embodied-energy)
 
 ## Paradigm shift
 
