@@ -15,21 +15,27 @@ Rounding up collapse lingo, terminology, jargon, basic concepts, tropes, memes, 
 
 Source: [How Civilizations Fall: A Theory of Catabolic Collapse](http://www.ecoshock.org/transcripts/greer_on_collapse.pdf)
 
-<kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
+<kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
+
+## 👤 Dmitry Orlov
+
+[Club Orlov](http://cluborlov.com)
+
+[Dmitry Orlov on Patreon](https://www.patreon.com/orlov/)
 
 ## Turboparalysis
 
 > a prolonged condition of furious motion without movement in any particular direction, a situation in which the engine roars and the wheels spin but the vehicle refuses to move.
 
 – [The age of turboparalysis » The Spectator](http://www.spectator.co.uk/features/8789631/the-age-of-turboparalysis/)
-[👤 Dmitry Orlov](http://cluborlov.blogspot.com "Club Orlov")
+[👤 Dmitry Orlov](#dmitry-orlov)
 
 ## Subsidy dumpster
 
 > A subsidy dumpster, if I may venture on a definition, is an energy technology that looks like a viable option so long as nobody pays attention to the economic realities.
 
 See [The Archdruid Report - The Crocodiles of Reality](https://thearchdruidreport-archive.200605.xyz/2014/03/the-crocodiles-of-reality.html)
-<kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
+<kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
 ## Demand destruction
 
@@ -75,13 +81,17 @@ See [Jevons paradox](#jevons-paradox)
 [LESS](https://thearchdruidreport-archive.200605.xyz/2011/05/hair-shirts-hypocrisy-and-wilkins.html "The Archdruid Report - Hair Shirts, Hypocrisy, and Wilkins Micawber")
 :   acronym for Less Energy, Stuff and Stimulation
 
-Coined by <kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
+Coined by <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
+
+## 👤 Nicole Foss
+
+[Nicole Foss Archives - The Automatic Earth](https://www.theautomaticearth.com/tag/nicole-foss/)
 
 ## Lowering expectations
 
 <!-- stub -->
 
-From [👤 Nicole Foss](http://www.theautomaticearth.com "The Automatic Earth")
+From [👤 Nicole Foss](#nicole-foss)
 
 ## Vulnerability
 
@@ -235,7 +245,7 @@ stock-in-trade
 
 This society which inverses the natural order of [gift → barter → tribute → trade](#gift-barter-tribute-trade-pyramid), and lack of commerce
 
-[👤 Dmitry Orlov](http://cluborlov.blogspot.com "Club Orlov")
+[👤 Dmitry Orlov](#dmitry-orlov)
 
 ## Slow-steaming
 
@@ -310,7 +320,7 @@ Also see [Antipodes](#antipodes)
 ## 👤 Augustin Mouchot
 
 <kbd>Solar</kbd>
-via <kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
+via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
 Solar steam-engine pioneer.
 
@@ -353,7 +363,7 @@ See [Joseph Tainter - Energy Gain and Future Energy - Collapse of Sustainability
 
 ## Green Wizardry 
 
-<kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
+<kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
 Collection of sustainable-living skills
 
@@ -386,7 +396,7 @@ techno-fix
 
 > Of course you may not be able to translate from Latin on the spot. For that, being Italian gives you a definite advantage. But let me just point out a word to you: "circumlatrantium" . which refers to barbarians who are, literally, "barking around" the empire's borders. They are like dogs barking and running around; and not just barking - they are trying hard to get in. It is almost a scene from a horror movie. A nightmare. So the author of "Of matters of war" is thinking of how to get rid of these monsters. But his solutions were not so good. Actually it was just wishful thinking. None of these strange weapons were ever built. Even our 4th century author, therefore, fails completely in understanding what were the real problems of the Empire.
 
-- via <kbd>[👤 Ugo Bardi](http://cassandralegacy.blogspot.com/ "Cassandra's Legacy")</kbd> - [Peak civilization - The Fall of the Roman Empire](http://europe.theoildrum.com/node/5528)
+- via <kbd>[👤 Ugo Bardi](#ugo-bardi)</kbd> - [Peak civilization - The Fall of the Roman Empire](http://europe.theoildrum.com/node/5528)
 
 Related: [Cornucopianism](#cornucopianism), [Unserious](#unserious)
 
@@ -409,7 +419,7 @@ See [Civil religion of progress](#civil-religion-of-progress)
 
 ## Civil religion of progress
 
-via <kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
+via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
 ## Low-tech
 
@@ -423,7 +433,7 @@ Alternate forms: lo tek, folk tek
 
 [Homeostasis](https://en.wikipedia.org/wiki/Homeostasis)
 
-Cause & effect vs. Forcing & feedback (via <kbd>[👤 Ugo Bardi](http://cassandralegacy.blogspot.com/ "Cassandra's Legacy")</kbd>)
+Cause & effect vs. Forcing & feedback (via <kbd>[👤 Ugo Bardi](#ugo-bardi)</kbd>)
 
 ## Legibility
 
@@ -614,29 +624,46 @@ via <kbd>👤 James Howard Kunstler</kbd> [How Do You Like the Long Emergency So
 
 > The monkey trap is, as the name suggests, a device for trapping monkeys. It is ingenuous in its simplicity, and also in the fact that it does not actually trap the monkey at all: it is the monkey that does the trapping. The trap consists of a hollowed-out gourd tied to a tree using a vine. The gourd has an opening just big enough to admit a monkey's paw when it isn't clenched into a fist. Inside is a banana. The monkey reaches inside, grabs the banana, but cannot withdraw it. Even as the hunter approaches to collect it, it cannot bring itself to unclench its fist, let go of the banana and escape. What traps the monkey is the monkey's own internal cost/benefit analysis, which is slanted toward the short term, coupled with its inability to consider the long-term effect of its short-term decisions. It is a perfect metaphor for what has caused the US to go off the rails.
 
-from [👤 Dmitry Orlov](http://cluborlov.blogspot.com "Club Orlov") - [Monkey Trap Nation](http://cluborlov.blogspot.com/2013/02/monkey-trap-nation.html)
+from [👤 Dmitry Orlov](#dmitry-orlov) - [Monkey Trap Nation](http://cluborlov.blogspot.com/2013/02/monkey-trap-nation.html)
 
 > "When all you have is a hammer everything looks like a nail"
 
 > "When you realize that you’re in a hole, the first thing to do is stop digging"
 
-from <kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd> [The Long Descent: A user's guide to the end of the industrial age (2008)](http://www.worldcat.org/title/long-descent-a-users-guide-to-the-end-of-the-industrial-age/) Chapter 2: The Stories We Tell Ourselves > Faustus and the Monkey Trap; Distracting Ourselves
+from <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd> [The Long Descent: A user's guide to the end of the industrial age (2008)](http://www.worldcat.org/title/long-descent-a-users-guide-to-the-end-of-the-industrial-age/) Chapter 2: The Stories We Tell Ourselves > Faustus and the Monkey Trap; Distracting Ourselves
+
+## 👤 John Michael Greer
+
+[Ecosophia](https://www.ecosophia.net/) blog
+
+Formerly blogged at **The Archdruid Report,** now taken offline. [The Archdruid Report Archive](https://thearchdruidreport-archive.200605.xyz)
+
+## 👤 Ugo Bardi
+
+[Cassandra's Legacy](http://cassandralegacy.blogspot.com/ "Cassandra's Legacy") blog
+
+<!-- stub -->
 
 ## Cassandra complex
 
-<kbd>[👤 Ugo Bardi](http://cassandralegacy.blogspot.com/ "Cassandra's Legacy")</kbd>
-
 [Cassandra complex - Wikipedia](http://en.wikipedia.org/wiki/Cassandra_complex)
+
+<!-- stub -->
+
+<kbd>[👤 Ugo Bardi](#ugo-bardi)</kbd>
+
 
 ## Cassandra curse
 
 See [Cassandra complex](#cassandra-complex)
 
-See <kbd>[👤 Ugo Bardi](http://cassandralegacy.blogspot.com/ "Cassandra's Legacy")</kbd>
+<kbd>[👤 Ugo Bardi](#ugo-bardi)</kbd>
 
 ## Seneca Cliff
 
-See <kbd>[👤 Ugo Bardi](http://cassandralegacy.blogspot.com/ "Cassandra's Legacy")</kbd>
+<!-- stub -->
+
+<kbd>[👤 Ugo Bardi](#ugo-bardi)</kbd>
 
 ## Permaculture
 
@@ -765,7 +792,7 @@ One hand for yourself, one hand for the ship
 
 from [The Archdruid Report: The Mariner's Rule](https://thearchdruidreport-archive.200605.xyz/2015/01/the-mariners-rule.html)
 
-Related: [Fractal planting patterns yield optimal harvests, without central control](https://phys.org/news/2017-06-fractal-patterns-yeild-optimal-harvests.html) a situation observed with Balinese rice farmers where they plant in synchrony without central planning, but maximizing their individual gain creates optimum yields instead of the tragedy of the commons. Codifying this practice into a scientific theory to be prescribed has caveats though: Nassim Taleb makes this case talking about traders arriving at price.
+Related: [Fractal planting patterns yield optimal harvests, without central control](https://phys.org/news/2017-06-fractal-patterns-yeild-optimal-harvests.html) a situation observed with Balinese rice farmers where they plant in synchrony without central planning, but maximizing their individual gain creates optimum yields instead of the tragedy of the commons. Codifying this practice into a scientific theory to be prescribed has caveats though: [👤 Nassim Taleb](#nassim-taleb) makes this case talking about traders arriving at price.
 
 > Their prices were sophisticated and more efficient than those produced by the formula, and it was obvious what came first. For instance, the prices accounted for Extremistan and “fat tails,” which the standard formulas ignored.
 > (...)
@@ -787,19 +814,22 @@ Related: [Fractal planting patterns yield optimal harvests, without central cont
 from <kbd>👤 William R. Catton, Jr.</kbd> - Overshoot via [The Archdruid Report - As Night Closes In](https://thearchdruidreport-archive.200605.xyz/2015/02/as-night-closes-in.html)
 
 
-## [White's Law](http://en.wikipedia.org/wiki/White's_law)
+## White's Law
 
-White's law, named after Leslie White and published in 1943, states that, other factors remaining constant, "culture evolves as the amount of energy harnessed per capita per year is increased, or as the efficiency of the instrumental means of putting the energy to work is increased".
+[White's Law - Wikipedia](http://en.wikipedia.org/wiki/White's_law)
+
+> White's law, named after Leslie White and published in 1943, states that, other factors remaining constant, "culture evolves as the amount of energy harnessed per capita per year is increased, or as the efficiency of the instrumental means of putting the energy to work is increased".
 
 from [The Archdruid Report - The Era of Pretense](https://thearchdruidreport-archive.200605.xyz/2015/05/the-era-of-pretense.html)
 
-## [Energy cannibalism](http://www.mse.mtu.edu/~pearce/Past.html#Energy_Cannibalism)
+## Energy cannibalism
 
-refers to an effect where rapid growth of an entire energy producing or energy efficiency industry creates a need for energy that uses (or cannibalizes) the energy of existing power plants or production plants.
+[Energy cannibalism](http://www.mse.mtu.edu/~pearce/Past.html#Energy_Cannibalism)
+:   refers to an effect where rapid growth of an entire energy producing or energy efficiency industry creates a need for energy that uses (or cannibalizes) the energy of existing power plants or production plants.
 
 ## Era of Pretense
 
-via <kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
+via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
 <!-- stub -->
 
@@ -811,19 +841,19 @@ from [The Archdruid Report - The Era of Impact](https://thearchdruidreport-archi
 
 ## Era of Response
 
-<kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
+<kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
 <!-- stub -->
 
 ## Era of Breakdown
 
-<kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
+<kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
 <!-- stub -->
 
 ## Era of Dissolution
 
-<kbd>[👤 John Michael Greer](https://www.ecosophia.net/)</kbd>
+<kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
 <!-- stub -->
 
@@ -895,7 +925,7 @@ Currently, globally, about 88% of all energy resources are used wastefully -- a 
 > _People are often locked into unsustainable lifestyles._
 
 squeeze
-:   (collapse) a situation in which you are pressured into taking an unsustainable path.
+:   (collapse) a situation in which you are pressured into taking an unsustainable path.  
     _That city really puts the squeeze on you._
 
 
@@ -990,19 +1020,63 @@ from [akaleeroy comments on Collapseniks conveniently squeezed into boxes (prett
 > - Enforcement of a wide range of so-called “quality of life” ordinances related to public activities and hygiene (i.e. public urination) when no public facilities are available to people without housing
 
 
+## 👤 Bruce Sterling
+
+<kbd>Tangential</kbd>
+
+[Bruce Sterling at WIRED](https://www.wired.com/author/bruce-sterling/)
+
 ## Favela Chic
 
-[👤 Bruce Sterling](https://www.wired.com/author/bruce-sterling/ "Bruce Sterling on WIRED")
+<kbd>Tangential</kbd>
+
+[👤 Bruce Sterling](#bruce-sterling)
 
 ## Gothic High Tech
 
-[👤 Bruce Sterling](https://www.wired.com/author/bruce-sterling/ "Bruce Sterling on WIRED")
+<kbd>Tangential</kbd>
+
+Gothic High Tech
+:   Consciously weaponized bullshit
+
+<kbd>[👤 Bruce Sterling](#bruce-sterling)</kbd>
+via <kbd>[👤 Venkatesh Rao](#venkatesh-rao)</kbd>
+
+## 👤 Venkatesh Rao
+
+<kbd>Tangential</kbd>
+
+Blogs at [RibbonFarm](https://www.ribbonfarm.com "Experiments in refactored perception")
+
+Twitter: [@vgr](https://twitter.com/vgr "Venkatesh Guru Rao on Twitter")
 
 ## Pro-natalist arguments
 
 > _Maybe that child will grow up to be the genius that fixes climate change! You don't know!_
 
 > As it happens, Rickmansworth appears on the first page of The Hitchhiker’s Guide to the Galaxy; it’s the town where “a girl sitting on her own in a small café” suddenly discovers the secret to making the world “a good and happy place.” But fate intervenes. “Before she could get to a phone to tell anyone about it, a terrible stupid catastrophe occurred, and the idea was lost forever.”
+
+## Preparation
+
+[/r/preppers](https://www.reddit.com/r/preppers)
+
+## _Prepare but do not execute_
+
+_A reasonable approach_ by [👤 Dmitry Orlov](#dmitry-orlov), from his [Post-Collapse Planning](http://cluborlov.blogspot.com/2011/11/aspo-2011-post-collapse-planning.html) presentation at the ASPO conference 2011
+
+## Relocation
+
+A collapse preparedness strategy
+
+<!-- stub -->
+
+## 👤 Nassim Taleb
+
+<kbd>Tangential</kbd>
+
+[Nassim Nicholas Taleb - Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
+
+Twitter: [@nntaleb](https://twitter.com/nntaleb/)
 
 <!-- Footer -->
 
@@ -1014,6 +1088,7 @@ from [akaleeroy comments on Collapseniks conveniently squeezed into boxes (prett
 </style>
 
 *[AI]: Artificial Intelligence
+*[ASPO]: Association for the Study of Peak Oil
 *[BAU]: Business As Usual
 *[EROEI]: Energy Return On Energy Invested
 *[EROC]: Energy Return On Carbon

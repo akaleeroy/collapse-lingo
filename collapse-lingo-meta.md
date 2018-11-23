@@ -2,20 +2,35 @@
 
 At this point this isn't an authoritative list. Some key terms are missing, other non-essential ones are included.
 
+## TODOs
 
-- [ ] Import terms from Richard Heinberg's books[^1]
-- [ ] Import terms from James Howard Kunstler's books[^1]
-- [ ] Import indexes and glossary from Long Descent
-- [ ] Import [An Information Age Glossary](https://www.ribbonfarm.com/2014/02/07/an-information-age-glossary/)
+- [ ] Terms from John Michael Greer - How Civilizations Fall - A Theory of Catabolic Collapse (2005)
+- [ ] Terms from Richard Heinberg's books
+- [ ] Terms from James Howard Kunstler's books
+- [ ] Terms from Joseph Tainter's books
+- [ ] Indexes and glossary from Long Descent
+- [ ] Reassess writing format
 
-[^1]: John Michael Greer replied:
-> A glossary and index would be great – start with Richard Heinberg's books, Jim Kunstler's, and (ahem) mine [JMG], and go further afield from there – that'll give you a workable starting point.
 
-### Imprecise terms and proposed terms
+## Contributing
+
+This is written as [Markdown](https://en.wikipedia.org/wiki/Markdown) with [Python Markdown Extensions](https://python-markdown.github.io/extensions/) (`Table of Contents`, `Definition Lists`, `Abbreviations`, `Footnotes`, `Meta-Data`, etc.). I use [Sublime Text](https://www.sublimetext.com/ "A sophisticated text editor for code, markup and prose") with the [MarkdownPreview](https://packagecontrol.io/packages/MarkdownPreview) package as [described here](https://forum.sublimetext.com/t/what-do-you-guys-use-for-previewing-markdown-these-days-looking-for-an-omnimarkuppreviewer-replacement/36587).
+As work continues this format will probably become unwieldy, we should reassess.
+
+It's meant to be included (or linked to) in the [/r/collapse/wiki](https://www.reddit.com/r/collapse/wiki/index).
+
+
+## Imprecise terms and proposed terms
 
 Some terms aren't the best fit for the concept they're meant to put across.
 Others designate new notions that haven't yet got a name but would warrant one.
 
-Mark them with a <kbd>Identify / Coin</kbd> tag.
+Mark with an <kbd>Identify / Coin</kbd> tag.
 
-<!--  -->
+## Out of scope
+
+Some of the concepts – while useful – are not directly related to collapse.
+
+Mark with <kbd>Tangential</kbd>.
+
+In the interest of minimizing clutter they could be taken out.
