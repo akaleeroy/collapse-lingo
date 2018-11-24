@@ -20,11 +20,13 @@ Rounding up collapse lingo, terminology, jargon, basic concepts, tropes, memes, 
 > A prime example of the deliberate production of ignorance cited by Proctor is the tobacco industry's conspiracy to **manufacture doubt about the cancer risks of tobacco use.** Under the banner of science, the industry produced research about everything except tobacco hazards to exploit public uncertainty. Some causes of culturally induced ignorance are media neglect, corporate or governmental secrecy and suppression, document destruction, and myriad forms of inherent or avoidable culturopolitical selectivity, inattention, and forgetfulness.
 
 [Agnotology: Culturally induced ignorance : dredmorbius](https://www.reddit.com/r/dredmorbius/comments/2363bo/agnotology_culturally_induced_ignorance/)
-via <kbd>[👤 Dr. Edward Morbius](https://www.reddit.com/user/dredmorbius)</kbd> from Philip Mirowski - Life and Debt: Living through the Financialisation of the Biosphere from <kbd>👤 /u/Erinaceous</kbd>
+via <kbd>[👤 Dr. Edward Morbius](#dr-edward-morbius)</kbd> from Philip Mirowski - Life and Debt: Living through the Financialisation of the Biosphere from <kbd>[👤 Erinaceous](#erinaceous)</kbd>
 
 ## Alpha Strategy
 
-Book by <kbd>[👤 John Pugsley](http://www.worldcat.org/search?q=au%3APugsley%2C+John+A.&qt=hot_author)</kbd>
+[The alpha strategy : the ultimate plan of financial self-defense (1981)](http://www.worldcat.org/title/alpha-strategy-the-ultimate-plan-of-financial-self-defense/)
+
+Book by <kbd>[👤 John Pugsley](#john-pugsley)</kbd>
 
 The notion that fiat money punishes savers therefore storing value can only be accomplished by acquiring a diversified portfolio of hard tangible goods that don't spoil. Examples include stuff that you'll use or industrial metals that have to be in demand.
 
@@ -103,7 +105,7 @@ Source: [How Civilizations Fall: A Theory of Catabolic Collapse](http://www.ecos
 
 ## Century of complexity
 
-Said by Stephen Hawking heard from <kbd>👤 Geoffrey West</kbd> from <kbd>👤 /u/Erinaceous</kbd> post
+Said by Stephen Hawking heard from <kbd>[👤 Geoffrey West](#geoffrey-west)</kbd> from <kbd>[👤 Erinaceous](#erinaceous)</kbd> post
 
 Also see [Joseph Tainter - Human Resource Use - Timing and Implications for Sustainability](http://www.theoildrum.com/node/5745)
 
@@ -131,7 +133,7 @@ via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
 ## Confusopoly
 
-via <kbd>[👤 Dr. Edward Morbius](https://www.reddit.com/user/dredmorbius)</kbd>
+via <kbd>[👤 Dr. Edward Morbius](#dr-edward-morbius)</kbd>
 
 
 ## Consensus
@@ -154,7 +156,7 @@ from [The Archdruid Report - The Era of Impact](https://thearchdruidreport-archi
 
 ## Creeping normalcy 
 
-<kbd>👤 Jared Diamond</kbd>
+<kbd>[👤 Jared Diamond](#jared-diamond)</kbd>
 
 > Creeping normalcy is a term used to describe how gradual changes can be accepted as the normal situation if these changes happen slowly, or incrementally. Jared Diamond made the term creeping normalcy popular in his Pulitzer prize winning book, _Collapse – How Societies Choose to Fail or Succeed_. Diamond outlines how politicians use the term "creeping normalcy" to refer to such slow trends concealed within noisy fluctuations. If the economy, schools, traffic congestion, or anything else deteriorate slowly, it's often difficult to recognize the change from previous years. The gradual and incremental changes are difficult to see, thus normalcy is difficult to recognise over short periods. It may take a few decades of a long sequence of such slight year-to-year changes before people realise that conditions were much better previously. What is accepted as normal now is a result of gradual changes, or creeping downwards.
 
@@ -162,7 +164,7 @@ from [5 Errors In Thinking That Have Effectively Changed The World – WAKING SC
 
 ## Cultural lag
 
-via <kbd>👤 William R. Catton, Jr.</kbd> - Overshoot
+via <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd> - Overshoot
 
 ## Culture of entitlement
 
@@ -228,7 +230,7 @@ via [The Archdruid Report: Dark Age America: Involuntary Simplicity](https://the
 
 [Dunbar's number - Wikipedia](https://en.wikipedia.org/wiki/Dunbar%27s_number)
 
-via <kbd>👤 Dmitry Orlov</kbd>
+via <kbd>[👤 Dmitry Orlov](#dmitry-orlov)</kbd>
 
 > Dunbar's number is a suggested cognitive limit to the number of people with whom one can maintain stable social relationships—relationships in which an individual knows who each person is and how each person relates to every other person.
 
@@ -386,11 +388,17 @@ fungibility
 :   (economics) property of a good or a commodity whose individual units are essentially interchangeable.
     _Crude oil is a fungible commodity._
 
-via <kbd>[👤 Michael Ruppert](https://en.wikipedia.org/wiki/Michael_Ruppert)</kbd>
+via <kbd>[👤 Michael Ruppert](#michael-ruppert)</kbd>
+
+## Gandhi shield
+
+<!-- stub -->
+
+via [👤 Derrick Jensen](#derrick-jensen)
 
 ## Ghost acreage
 
-<kbd>👤 William R. Catton, Jr.</kbd> - Overshoot
+<kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd> - Overshoot
 
 > Q: Could you elaborate on what “ghost acreage” is and why it is important to Britain’s Industrial Revolution?
 
@@ -432,7 +440,7 @@ Green wizards are defined as "individuals who are willing to take on the respons
 
 > [Hairshirt environmentalism](http://en.wikipedia.org/wiki/Hairshirt_environmentalism) (or hairshirt-green) refers to the idea that the environmental problems we face can be addressed by limiting our consumption of resources.
 
-via <kbd>👤 Venkatesh Rao</kbd> <kbd>[RibbonFarm](https://www.ribbonfarm.com)</kbd>
+via <kbd>[👤 Venkatesh Rao](#venkatesh-rao)</kbd>
 
 ## Hi-tek dip
 
@@ -469,7 +477,9 @@ Related: Appropriate Technology, Intermediate technology, Graceful degradation, 
 
 <kbd>Peak Oil</kbd>
 <kbd>Energy Alternatives</kbd>
-<kbd>Transition from fossil fuels</kbd>
+<kbd>Fossil Fuels</kbd>
+
+<!-- stub -->
 
 ## Homeostasis
 
@@ -512,7 +522,9 @@ Coined by <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
 ## Legibility
 
-<kbd>👤 Venkatesh Rao</kbd> <kbd>[RibbonFarm](https://www.ribbonfarm.com)</kbd>
+<kbd>Tangential</kbd>
+
+<kbd>[👤 Venkatesh Rao](#venkatesh-rao)</kbd>
 
 Striving for political unification is an effort to increase legibility, meaning better exploitation.
 
@@ -540,7 +552,7 @@ Alternate forms: lo tek, folk tek
 
 <!-- stub -->
 
-From [👤 Nicole Foss](#nicole-foss)
+via [👤 Nicole Foss](#nicole-foss)
 
 ## Mauna Loa Economic Observatory
 
@@ -552,13 +564,17 @@ Tongue-in-cheek way to assert the fallacy of economic wealth decoupled from carb
 
 ## Merchants of Doubt
 
+<!-- stub -->
+
 ## Modularity
 
-See [👤 Rob Hopkins](https://www.transitionnetwork.org/blogs/rob-hopkins "Rob Hopkins' blog | Transition Network")
+<!-- stub -->
+
+via [👤 Rob Hopkins](#rob-hopkins)
 
 ## Monkey trap
 
-<kbd>[👤 Nate Hagens](http://www.themonkeytrap.us/)</kbd>
+<kbd>[👤 Nate Hagens](#nate-hagens)</kbd>
 
 <!-- TODO Video of Nate Hagens explaining this story -->
 
@@ -603,6 +619,8 @@ See [Boiling frog - Wikipedia](https://en.wikipedia.org/wiki/Boiling_frog)
 – [Dmitry Orlov - Shrinking the Technosphere (2017)](http://www.worldcat.org/title/shrinking-the-technosphere-getting-a-grip-on-the-technologies-that-limit-our-autonomy-self-sufficiency-and-freedom/oclc/960097215) Chapter 4: Harm/Benefit Analysis
 
 ## Open-source Warfare
+
+<!-- stub -->
 
 ## Paradigm shift
 
@@ -651,7 +669,7 @@ See [The Archdruid Report - Mentats Wanted, Will Train](https://thearchdruidrepo
 
 > whole systems thinking applied to design.
 
-– <kbd>👤 Toby Hemenway</kbd>
+– <kbd>[👤 Toby Hemenway](#toby-hemenway)</kbd>
 
 ## Planck's Principle of Increasing Effort
 
@@ -836,20 +854,21 @@ See [The Archdruid Report - The Crocodiles of Reality](https://thearchdruidrepor
 <kbd>Design Pattern</kbd>
 
 Watch [Rob Hopkins: Transition to a world without oil | TED Talk](http://www.ted.com/talks/rob_hopkins_transition_to_a_world_without_oil/)
-[👤 Rob Hopkins](https://www.transitionnetwork.org/blogs/rob-hopkins "Rob Hopkins' blog | Transition Network")
+[👤 Rob Hopkins](#rob-hopkins)
 
 ## Surplus
 
-See <kbd>[👤 Toby Hemenway](#toby-hemenway)</kbd>
+via <kbd>[👤 Toby Hemenway](#toby-hemenway)</kbd>
 
 > [...] humans have rarely had surplus energy. Surpluses are quickly dissipated by growth in consumption. Since humans have rarely had surpluses, the availability of energy cannot be the primary driver of cultural evolution.
 
 ## Sustainability
 
-<kbd>[👤 Rob Hopkins](https://www.transitionnetwork.org/blogs/rob-hopkins "Rob Hopkins' blog | Transition Network")</kbd>
+<kbd>[👤 Rob Hopkins](#rob-hopkins)</kbd>
 
-> Sustainable = the mid-point between degenerative actions and regenerative actions. 
-– <kbd>👤 Toby Hemenway</kbd>
+> Sustainable = the mid-point between degenerative actions and regenerative actions.
+
+– <kbd>[👤 Toby Hemenway](#toby-hemenway)</kbd>
 
 Also see [Joseph Tainter - Human Resource Use: Timing and Implications for Sustainability](http://www.theoildrum.com/node/5745)
 
@@ -862,7 +881,7 @@ See [Strategic Ignorance](#strategic-ignorance)
 techno-fix
 :    Technological band-aids applied on top of other technology which has failed us.
 
-<kbd>[👤 Michael Ruppert](https://en.wikipedia.org/wiki/Michael_Ruppert)</kbd>
+<kbd>[👤 Michael Ruppert](#michael-ruppert)</kbd>
 
 [![Ox-powered Roman paddle wheel boat from a 15th-century copy of De Rebus Bellicis](https://upload.wikimedia.org/wikipedia/commons/c/c0/De_Rebus_Bellicis%2C_XVth_Century_Miniature.JPG)](https://en.wikipedia.org/wiki/Paddle_steamer#/media/File:De_Rebus_Bellicis,_XVth_Century_Miniature.JPG)
 
@@ -921,14 +940,14 @@ Related: [Fractal planting patterns yield optimal harvests, without central cont
 
   crash: die-off.
 
-from <kbd>👤 William R. Catton, Jr.</kbd> - Overshoot via [The Archdruid Report - As Night Closes In](https://thearchdruidreport-archive.200605.xyz/2015/02/as-night-closes-in.html)
+from <kbd>[👤 William R. Catton, Jr.](#william-r-catton-jr)</kbd> - Overshoot via [The Archdruid Report - As Night Closes In](https://thearchdruidreport-archive.200605.xyz/2015/02/as-night-closes-in.html)
 
 
 ## The petroleum interval
 
 > it's a short period in history where we've discovered this extraordinary material, and then based a whole way of life around it.
 Watch [Rob Hopkins: Transition to a world without oil | TED Talk](http://www.ted.com/talks/rob_hopkins_transition_to_a_world_without_oil/)
-[👤 Rob Hopkins](https://www.transitionnetwork.org/blogs/rob-hopkins "Rob Hopkins' blog | Transition Network")
+[👤 Rob Hopkins](#rob-hopkins)
 
 ## The problem of excessive scale
 
@@ -947,7 +966,7 @@ One of the central myths of modern society is that the process of urbanization (
 trading up
 :   going against your residual middle-class financial programming and overcoming irrational aversion to spending money where it matters.
 
-from <kbd>👤 Venkatesh Rao</kbd> <kbd>[RibbonFarm](https://www.ribbonfarm.com)</kbd> [Acting Dead, Trading Up and Leaving the Middle Class](https://www.ribbonfarm.com/2011/12/08/acting-dead-trading-up-and-leaving-the-middle-class/)
+from <kbd>[👤 Venkatesh Rao](#venkatesh-rao)</kbd> <kbd>[RibbonFarm](https://www.ribbonfarm.com)</kbd> [Acting Dead, Trading Up and Leaving the Middle Class](https://www.ribbonfarm.com/2011/12/08/acting-dead-trading-up-and-leaving-the-middle-class/)
 
 See Lost Generation, Downshifting
 
@@ -1047,25 +1066,58 @@ See [The Archdruid Report - The Steampunk Future Revisited](https://thearchdruid
 
 [Bruce Sterling at WIRED](https://www.wired.com/author/bruce-sterling/)
 
+## 👤 Derrick Jensen
+
+<kbd>Deep Green Resistance</kbd>
+
+[Derrick Jensen - Wikipedia](https://en.wikipedia.org/wiki/Derrick_Jensen)
+
+Podcast: [Derrick Jensen Resistance Radio archives](https://deepgreenresistance.blogspot.com/p/derrick-jensen-resistance-radio-archives.html)
+
 ## 👤 Dmitry Orlov
 
 [Club Orlov](http://cluborlov.com)
 
 [Dmitry Orlov on Patreon](https://www.patreon.com/orlov/)
 
+## 👤 Donella Meadows
+
+<!-- Donella H. "Dana" Meadows -->
+
+[Donella Meadows - Wikipedia](https://en.wikipedia.org/wiki/Donella_Meadows)
+
+## 👤 Dr. Edward Morbius
+
+Reddit: /r/dredmorbius](https://www.reddit.com/user/dredmorbius) [/u/dredmorbius](https://www.reddit.com/user/dredmorbius)
+Mastodon: [@dredmorbius@mastodon.cloud](https://mastodon.cloud/@dredmorbius)
+
+## 👤 Erinaceous
+
+Reddit: [/u/Erinaceous](https:///www.reddit.com/user/Erinaceous)
+
+## 👤 Geoffrey West
+
+[Geoffrey West - Wikipedia](https://en.wikipedia.org/wiki/Geoffrey_West)
+
 ## 👤 James Howard Kunstler
 
 [Kunstler.com](http://kunstler.com/)
 
-<!-- TODO Blogs at [Clusterfuck Nation] -->
-
 > **James Howard Kunstler** is the author of The Long Emergency, Too Much Magic, The Geography of Nowhere, the World Made By Hand novels, and more than a dozen other books.
+
+## 👤 Jared Diamond
+
+[Jared Diamond - Wikipedia](https://en.wikipedia.org/wiki/Jared_Diamond)
 
 ## 👤 John Michael Greer
 
 [Ecosophia](https://www.ecosophia.net/) blog
 
 Formerly blogged at **The Archdruid Report,** now taken offline. [The Archdruid Report Archive](https://thearchdruidreport-archive.200605.xyz)
+
+## 👤 Michael Ruppert
+
+[Michael Ruppert - Wikipedia](https://en.wikipedia.org/wiki/Michael_Ruppert)
 
 ## 👤 Nassim Taleb
 
@@ -1075,9 +1127,27 @@ Formerly blogged at **The Archdruid Report,** now taken offline. [The Archdruid 
 
 Twitter: [@nntaleb](https://twitter.com/nntaleb/)
 
+## 👤 Nate Hagens
+
+[The Monkey Trap](http://www.themonkeytrap.us/)
+
 ## 👤 Nicole Foss
 
 [Nicole Foss Archives - The Automatic Earth](https://www.theautomaticearth.com/tag/nicole-foss/)
+
+## 👤 John Pugsley
+
+[Author: John Pugsley - Worldcat](http://www.worldcat.org/search?q=au%3APugsley%2C+John+A.&qt=hot_author)
+
+## 👤 Rob Hopkins
+
+<kbd>Transition Movement</kbd>
+
+[Rob Hopkins' blog](https://www.robhopkins.net/)
+
+## 👤 Toby Hemenway
+
+<kbd>Permaculture</kbd>
 
 ## 👤 Ugo Bardi
 
@@ -1092,6 +1162,12 @@ Twitter: [@nntaleb](https://twitter.com/nntaleb/)
 Blogs at [RibbonFarm](https://www.ribbonfarm.com "Experiments in refactored perception")
 
 Twitter: [@vgr](https://twitter.com/vgr "Venkatesh Guru Rao on Twitter")
+
+## 👤 William R. Catton Jr.
+
+<kbd>Ecology</kbd>
+
+[William R. Catton Jr. - Wikipedia](https://en.wikipedia.org/wiki/William_R._Catton_Jr.)
 
 <!-- Footer -->
 
