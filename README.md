@@ -981,9 +981,11 @@ See Lost Generation, Downshifting
 
 See [Jevons paradox](#jevons-paradox)
 
-## Universality?
+## General
 
-<kbd>Identify / Coin</kbd>
+<!-- TODO Work in progress -->
+
+<kbd>Identify / Coin</kbd> 
 
 The opposite of specialized. A very specialized tool is harder to repair and may become obsolete, losing all value.
 Universally usable goods are good news for resilience and barter. 
