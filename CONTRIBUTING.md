@@ -8,6 +8,7 @@ At this point this isn't an authoritative list. Some key terms are missing, othe
 - [ ] Terms from Richard Heinberg's books
 - [ ] Terms from James Howard Kunstler's books
 - [ ] Terms from Joseph Tainter's books
+- [ ] Terms from [The Lexicon.org: words to change your world](http://www.thelexicon.org/)
 - [ ] Indexes and glossary from Long Descent
 - [ ] Reassess writing format
 
