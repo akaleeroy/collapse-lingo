@@ -330,6 +330,13 @@ This is why it stands to reason that the best places for resilience are regions 
 
 [Energy density - Wikipedia](https://en.wikipedia.org/wiki/Energy_density)
 
+## Environment
+
+> "The Environment" is a social construct that exists only in the human mind
+
+[👤 William E. Rees](#william-e-rees) - [Ecological Footprint Analysis & The Vulnerability of Modern Cities (2012)](https://www.youtube.com/watch?v=9g2E27Pyyos) [#t=00:21:08](https://www.youtube.com/watch?v=9g2E27Pyyos?t=1318)  
+The Governance of Eco-city Innovation at the University of Westminster in London, England
+
 ## Era of Breakdown
 
 <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
@@ -781,6 +788,10 @@ Like batteries from [electric mining equipment](https://www.reuters.com/article/
 
 from [akaleeroy comments on Collapseniks conveniently squeezed into boxes (prettified chart)](https://www.reddit.com/r/collapse/comments/9ungu7/collapseniks_conveniently_squeezed_into_boxes/e963ij5/)
 
+## Scrape the bottom of the barrel
+
+<!-- TODO Re-do illustration -->
+
 ## Self-sufficiency
 
 <!-- stub -->
@@ -1164,6 +1175,13 @@ Twitter: [@nntaleb](https://twitter.com/nntaleb/)
 Blogs at [RibbonFarm](https://www.ribbonfarm.com "Experiments in refactored perception")
 
 Twitter: [@vgr](https://twitter.com/vgr "Venkatesh Guru Rao on Twitter")
+
+## 👤 William E. Rees
+
+<kbd>Ecology</kbd>
+<kbd>Post Carbon Institute</kbd>
+
+[William E. Rees - Wikipedia](https://en.wikipedia.org/wiki/William_E._Rees)
 
 ## 👤 William R. Catton Jr.
 
