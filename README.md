@@ -221,6 +221,12 @@ disintermediation
 
 via [The Archdruid Report: Dark Age America: Involuntary Simplicity](https://thearchdruidreport-archive.200605.xyz/2014/10/dark-age-america-involuntary-simplicity.html)
 
+## Dried sea squirrels
+
+> Sea squirrels are pale, sickly-looking, and, above all, sad. Dried ones doubly so. They are endowed with flabby bags for a body, some ineffectual spiny tendrils, and dangling dark bits of uncertain purpose. One might conjecture that they are mutant shellfish that survived having their shells dissolved by the carbonic acid in the seawater. Being vegans, the vegans would never think of eating one; nor anything else that washes up on the shores of that brownish, carbonated ocean, almost lifeless after that final, desperate binge of coal-burning that occurred just as oil and gas were running out. Picking dead sea squirrels off the beach with a pointed stick is an unpleasant chore, making it useful for teaching children the subtle difference between work and play. Sea squirrels have but two charms: they are at times plentiful, and, dried into flat chips, they burn with a clean, yellow flame – not bad for illumination, and convenient for cooking the food which the vegans both plant and harvest all along the shore.
+
+from <kbd>[👤 Dmitry Orlov](#dmitry-orlov)</kbd> – [The new age of sail](https://www.resilience.org/stories/2006-08-20/new-age-sail/)
+
 ## Drop-in replacement
 
 <kbd>Peak Oil</kbd>
@@ -471,6 +477,8 @@ Example: arriving at simpler proxies for high-tech tests. Listened to Dan Kittri
 Another example: (mechanical engineering) genetic algorhythm generating millions of designs for a part, stress testing all of them in computer simulation and selecting the most optimal solution. That design can then be copied by craftsmen with hand tools. Ideally it is distributed with documentation (mentioning what it's optimized for, how and why). Or only the form was passed on, to be reproduced _in the dark._ A technology suite that requires high technology only on the first iterations.
 
 Another different example: using advances in cognitive science to develop teaching and learning methodologies, maximizing the chance that more people will learn new skills required by changing circumstances, faster.
+
+Because the high technology that generated the artifact is lost or unsustainable in the new context a high tech dip is a [dead man walking](https://en.wiktionary.org/wiki/dead_man_walking) technological suite.
 
 ### Sprints and scrambles
 
