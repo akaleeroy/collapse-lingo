@@ -74,6 +74,19 @@ Buy wholesale vs. retail, buy commercial-grade vs. consumer-grade.
 
 For related heuristics see [Dmitry Orlov - Shrinking the Technosphere (2017)](http://www.worldcat.org/title/shrinking-the-technosphere-getting-a-grip-on-the-technologies-that-limit-our-autonomy-self-sufficiency-and-freedom/oclc/960097215) Chapter 4: Harm/Benefit Analysis
 
+
+## CAGW
+
+<kbd>Climate</kbd>
+<kbd>Sociology</kbd>
+
+Catastrophic Anthopogenic Global Warming
+:   The cultural narrative that says climate science points to the inevitability of catastrophic consequences of man-made global warming.
+    
+via [CAGW memeplex | Climate Etc.](https://judithcurry.com/2013/11/01/cagw-memeplex/)
+
+See [NTE](#near-term-extinction)
+
 ## Captain Gustaf Erikson of the Åland Islands
 
 <kbd>Sailing</kbd>
@@ -614,6 +627,10 @@ via [👤 Joseph Tainter](#joseph-tainter) [The Collapse of Complex Societies](h
 ## Monopoly on violence
 
 See [Monopoly of force](#monopoly-of-force)
+
+## Near-Term Extinction
+
+[👤 Guy McPherson](#guy-mcpherson)
 
 ## New normal
 
@@ -1209,5 +1226,7 @@ Twitter: [@vgr](https://twitter.com/vgr "Venkatesh Guru Rao on Twitter")
 *[AI]: Artificial Intelligence
 *[ASPO]: Association for the Study of Peak Oil
 *[BAU]: Business As Usual
+*[CAGW]: Catastrophic Anthropogenic Global Warming
 *[EROEI]: Energy Return On Energy Invested
 *[EROC]: Energy Return On Carbon
+*[NTW]: Near-Term Extinction
