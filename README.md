@@ -7,7 +7,7 @@ wiki_end_url: .md
 
 # Collapse Lingo
 
-Rounding up collapse lingo, terminology, jargon, basic concepts, tropes, memes, arguments, and patterns.
+Rounding up collapse lingo, terminology, jargon, terms of art, concepts, tropes, memes, arguments, and patterns.
 
 [TOC]
 
