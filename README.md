@@ -201,7 +201,7 @@ via <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd> - Overshoot
 
 ![– What do you think our most powerful renewable resource is? – Denial.](https://wp-assets.futurism.com/2014/06/tumblr_mbjx21mm9R1qexjbwo1_500.jpg "www.isabellabannerman.com")
 
-via [Mark Shepard - Slow Living Summit #2: Permaculture & Economic Sustainability (2017)](https://www.youtube.com/watch?v=Jm4eRuNqz2E)  [#t=00:15:30](https://www.youtube.com/watch?v=Jm4eRuNqz2E&t=15m30s)
+via [Mark Shepard - Slow Living Summit #2: Permaculture & Economic Sustainability (2017)](https://www.youtube.com/watch?v=Jm4eRuNqz2E )  [#t=00:15:30](https://www.youtube.com/watch?v=Jm4eRuNqz2E&t=15m30s)
 
 Also see [Peak Oil Denial Bingo!](#peak-oil-denial-bingo)
 
@@ -707,9 +707,20 @@ See [The Archdruid Report - Mentats Wanted, Will Train](https://thearchdruidrepo
 
 ## Permaculture
 
+[Permaculture - Wikipedia](https://en.wikipedia.org/wiki/Permaculture)
+
 > whole systems thinking applied to design.
 
 – <kbd>[👤 Toby Hemenway](#toby-hemenway)</kbd>
+
+Permaculture
+:   an ecological design methodology whereby we create relationships between materials, plants, animals and humans, **so that their function and yield are optimized.**
+
+– <kbd>[👤 Bill Mollison](#bill-mollison)</kbd>
+
+> The aim is to create systems that are **ecologically sound** and **economically profitable** which provide for their own needs, do not exploit or pollute and are therefore sustainable in the long term. Much of the design is taken from nature. It can be as simple or as sophisticated as you like.
+
+– <kbd>[👤 Bill Mollison](#bill-mollison)</kbd>
 
 ## Planck's Principle of Increasing Effort
 
@@ -1105,6 +1116,12 @@ Solar steam-engine pioneer.
 [La Chaleur solaire et ses Applications industrielles (1869)](http://www.worldcat.org/title/chaleur-solaire-et-ses-applications-industrielles/oclc/637380836)
 
 See [The Archdruid Report - The Steampunk Future Revisited](https://thearchdruidreport-archive.200605.xyz/2014/03/the-steampunk-future-revisited.html) and [The Archdruid Report - Captain Erikson's Equation](https://thearchdruidreport-archive.200605.xyz/2014/03/captain-eriksons-equation.html)
+
+## 👤 Bill Mollison
+
+<kbd>Permaculture</kbd>
+
+[Bill Mollison - Wikipedia](https://en.wikipedia.org/wiki/Bill_Mollison)
 
 ## 👤 Bruce Sterling
 
