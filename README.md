@@ -197,6 +197,14 @@ via <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd> - Overshoot
 
 – [The Archdruid Report - The Era of Impact](https://thearchdruidreport-archive.200605.xyz/2015/05/the-era-of-impact_20.html)
 
+## Denial
+
+![– What do you think our most powerful renewable resource is? – Denial.](https://wp-assets.futurism.com/2014/06/tumblr_mbjx21mm9R1qexjbwo1_500.jpg "www.isabellabannerman.com")
+
+via [Mark Shepard - Slow Living Summit #2: Permaculture & Economic Sustainability (2017)](https://www.youtube.com/watch?v=Jm4eRuNqz2E)  [#t=00:15:30](https://www.youtube.com/watch?v=Jm4eRuNqz2E&t=15m30s)
+
+Also see [Peak Oil Denial Bingo!](#peak-oil-denial-bingo)
+
 ## Dependece 
 
 <!-- stub -->
