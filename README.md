@@ -836,6 +836,18 @@ from [akaleeroy comments on Collapseniks conveniently squeezed into boxes (prett
 
 <!-- TODO Re-do illustration -->
 
+## Scissors model
+
+<kbd>[👤 Jean-Marc Jancovici](#jean-marc-jancovici)</kbd>
+
+> It’s been a long time since anyone raised again a race between declining availability of liquid fossil fuels (“peak oil”) and climate change. Since America increased its production, and other countries may also find frackable oil and gas deposits, the presumption is we will have enough energy to power our way directly into catastrophic climate change. In other words, we have been presuming that climate change “wins” the race to crash our civilization, and likely the world population. What does Jean-Marc think? He gives the example of scissors on your finger: **one blade is energy supply, the other climate change, both pinch.**
+
+[Jean-Marc Jancovici: Whistling Past the Graveyard – Radio Ecoshock](https://www.ecoshock.org/2018/10/jean-marc-jancovici-whistling-past-the-graveyard.html)
+
+> The scissors model of Malthusian collapse, where the population grows without limit and resources do not, is the idea of great opposing environmental forces cutting into each other.
+
+[Societal collapse - Wikipedia](https://en.wikipedia.org/wiki/Societal_collapse)
+
 ## Self-sufficiency
 
 <!-- stub -->
@@ -1171,6 +1183,10 @@ Reddit: [/u/Erinaceous](https:///www.reddit.com/user/Erinaceous)
 ## 👤 Jared Diamond
 
 [Jared Diamond - Wikipedia](https://en.wikipedia.org/wiki/Jared_Diamond)
+
+## 👤 Jean-Marc Jancovici
+
+[Jean-Marc Jancovici – Articles and studies by Jean-Marc Jancovici. This organization consultant offers services and knowledge in the fields of energy and climate](https://jancovici.com/)
 
 ## 👤 John Michael Greer
 
