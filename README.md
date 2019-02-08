@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    16 November 2018
+Date:    08 February 2019
 wiki_base_url: ./
 wiki_end_url: .md
 
