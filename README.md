@@ -13,6 +13,8 @@ Rounding up collapse lingo, terminology, jargon, terms of art, concepts, tropes,
 
 ## Age of Limits
 
+<!-- stub -->
+
 ## Agnotology
 
 > The study of culturally induced ignorance or doubt, particularly the publication of inaccurate or misleading scientific data. The neologism was coined by Robert N. Proctor, a Stanford University professor specializing in the history of science and technology. Its name derives from the Neoclassical Greek word ἄγνωσις, agnōsis, "not knowing" (confer Attic Greek ἄγνωτος "unknown"), and -λογία, -logia. More generally, the term also highlights the increasingly common condition where more knowledge of a subject leaves one more uncertain than before.
@@ -74,7 +76,6 @@ Buy wholesale vs. retail, buy commercial-grade vs. consumer-grade.
 
 For related heuristics see [Dmitry Orlov - Shrinking the Technosphere (2017)](http://www.worldcat.org/title/shrinking-the-technosphere-getting-a-grip-on-the-technologies-that-limit-our-autonomy-self-sufficiency-and-freedom/oclc/960097215) Chapter 4: Harm/Benefit Analysis
 
-
 ## CAGW
 
 <kbd>Climate</kbd>
@@ -95,6 +96,8 @@ See [The Archdruid Report - Captain Erikson's Equation](https://thearchdruidrepo
 
 ## Cascaded failure
 
+<!-- stub -->
+
 ## Cassandra complex
 
 [Cassandra complex - Wikipedia](http://en.wikipedia.org/wiki/Cassandra_complex)
@@ -102,7 +105,6 @@ See [The Archdruid Report - Captain Erikson's Equation](https://thearchdruidrepo
 <!-- stub -->
 
 <kbd>[👤 Ugo Bardi](#ugo-bardi)</kbd>
-
 
 ## Cassandra curse
 
@@ -135,7 +137,6 @@ chit
 specie
 :   money in the form of coins rather than notes
 
-
 stock-in-trade
 :   the equipment, merchandise, or materials
     necessary to or used in a trade or business.
@@ -147,7 +148,6 @@ via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 ## Confusopoly
 
 via <kbd>[👤 Dr. Edward Morbius](#dr-edward-morbius)</kbd>
-
 
 ## Consensus
 
@@ -182,6 +182,10 @@ via <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd> - Overshoot
 ## Culture of entitlement
 
 <!-- stub -->
+
+## Davos Class
+
+> Gates, Soros, Google, Amazon
 
 ## Degrees of dependence
 
@@ -280,7 +284,6 @@ EROC
 
 EROEI
 :   [Energy Return On Energy Invested](#energy-return-on-energy-invested)
-
 
 ## Efficiency
 
@@ -490,7 +493,6 @@ high tech dip
 :   entombed complexity. a pattern of using high technology to reduce reliance on high technology in the future.  
     _Those folks over at the lab are using artificial neural networks to compress all that knowledge into a handful of slide rules_
 
-
 Making use of advanced technology today to vet best practices that can be passed on and implemented by low-tech means.
 
 Example: arriving at simpler proxies for high-tech tests. Listened to Dan Kittridge speaking about which lab he works with to get his soil tested, rarer minerals were tested as a bonus. If the tests rely on a burdensome technological suite, maybe we can leverage AI pattern matching to displace those tests, relying only on simpler DIY tests but getting sufficient information from them.
@@ -529,6 +531,12 @@ Cause & effect vs. Forcing & feedback (via <kbd>[👤 Ugo Bardi](#ugo-bardi)</kb
 
 <!-- stub -->
 
+## _It's different this time_
+
+Delusional response to historical arguments supporting the imminence of collapse
+
+See [Peak Oil Denial Bingo](#peak-oil-denial-bingo)
+
 ## Jevons paradox
 
 [Jevons paradox](http://en.wikipedia.org/wiki/Jevons_paradox "Jevons paradox - Wikipedia")
@@ -544,6 +552,12 @@ Cause & effect vs. Forcing & feedback (via <kbd>[👤 Ugo Bardi](#ugo-bardi)</kb
 [Khazzoom-Brookes postulate](http://en.wikipedia.org/wiki/Khazzoom–Brookes_postulate "Khazzoom–Brookes postulate - Wikipedia")
 
 See [Jevons paradox](#jevons-paradox)
+
+## Kübler-Ross model of grief and coping
+
+[Kübler-Ross model – Stages](https://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model/#Stages)
+
+> The Kübler-Ross model, or the **five stages of grief**, is a series of emotional stages experienced when faced with impending death or death of someone. The five stages are denial, anger, bargaining, depression and acceptance.
 
 ## LESS
 
@@ -696,7 +710,6 @@ See [👤 Donella Meadows](#donella-meadows) - [Twelve leverage points](https://
 
 > - Enforcement of a wide range of so-called “quality of life” ordinances related to public activities and hygiene (i.e. public urination) when no public facilities are available to people without housing
 
-
 ## Peak Oil Denial Bingo!
 
 A game to play while arguing with peak oil deniers.
@@ -722,6 +735,12 @@ Permaculture
 
 – <kbd>[👤 Bill Mollison](#bill-mollison)</kbd>
 
+## Petroleum interval
+
+> it's a short period in history where we've discovered this extraordinary material, and then based a whole way of life around it.
+Watch [Rob Hopkins: Transition to a world without oil | TED Talk](http://www.ted.com/talks/rob_hopkins_transition_to_a_world_without_oil/)
+[👤 Rob Hopkins](#rob-hopkins)
+
 ## Planck's Principle of Increasing Effort
 
 See [Joseph Tainter - The Collapse of Complex Societies (1988)]()
@@ -734,11 +753,23 @@ via [👤 Joseph Tainter](#joseph-tainter) [Complexity, Problem Solving, and Sus
 
 [/r/preppers](https://www.reddit.com/r/preppers)
 
+## _Prepare but do not execute_
+
+_A reasonable approach_ by [👤 Dmitry Orlov](#dmitry-orlov), from his [Post-Collapse Planning](http://cluborlov.blogspot.com/2011/11/aspo-2011-post-collapse-planning.html) presentation at the ASPO conference 2011
+
 ## Pro-natalist arguments
 
 > _Maybe that child will grow up to be the genius that fixes climate change! You don't know!_
 
 > As it happens, Rickmansworth appears on the first page of The Hitchhiker’s Guide to the Galaxy; it’s the town where “a girl sitting on her own in a small café” suddenly discovers the secret to making the world “a good and happy place.” But fate intervenes. “Before she could get to a phone to tell anyone about it, a terrible stupid catastrophe occurred, and the idea was lost forever.”
+
+## Problem of excessive scale
+
+See [ClubOrlov: Book Excerpt: The Problem of Excessive Scale](http://cluborlov.blogspot.com/2013/02/book-excerpt-problem-of-excessive-scale.html)
+
+Read [Leopold Kohr - The Breakdown of Nations (2001)](http://www.amazon.com/The-Breakdown-Nations-Leopold-Kohr/dp/1870098986/)
+
+Watch [Geoffrey West on Complexity (2011) - YouTube](https://www.youtube.com/watch?v=DFFVSvAr7Wc)
 
 ## Progress
 
@@ -754,6 +785,8 @@ The Utterly Dismal Theorem - directly challenges the progressivist view:
 Any technical improvement can only relieve misery for a while, for as long as misery is the only check on population, the improvement will enable population to grow, and will soon enable more people to live in misery than before. The final result of improvements, therefore, is to increase the equilibrium population, which is to increase the sum total of human misery (Boulding, 1959: vii [emphases in original]).
 
 ## Psychological violence
+
+<kbd>[👤 David Graeber](#david-graeber)</kbd>
 
 via [The phenomenon of bullshit jobs](https://libcom.org/library/phenomenon-bullshit-jobs-david-graeber)
 
@@ -819,7 +852,6 @@ A collapse preparedness strategy
 
 from [The Archdruid Report - A Time for Retrovation](https://thearchdruidreport-archive.200605.xyz/2016/09/a-time-for-retrovation.html "The Archdruid Report - A Time for Retrovation")
 
-
 ## Reverse wealth pump for the Age of Salvage
 
 <kbd>Identify / Coin</kbd>
@@ -878,16 +910,14 @@ squeeze
 :   (collapse) a situation in which you are pressured into taking an unsustainable path.  
     _That city really puts the squeeze on you._
 
-
 ## Strategic Ignorance
 
 > Sudden, total inability to comprehend a datum one finds inconvenient.
 
 <!--  -->
 
-> _It is difficult to get a man to understand something, when his salary depends upon his not understanding it!_
+> _It is difficult to get a man to understand something, when his salary depends upon his not understanding it!_  
 – Upton Sinclair
-
 
 ## Stress surges
 
@@ -939,6 +969,15 @@ via <kbd>[👤 Toby Hemenway](#toby-hemenway)</kbd>
 
 Also see [Joseph Tainter - Human Resource Use: Timing and Implications for Sustainability](http://www.theoildrum.com/node/5745)
 
+## System D
+
+[System D](https://en.wikipedia.org/wiki/System_D)
+:   a name for the informal economy or the shadow economy
+
+> System D or Système D is a person's ability to adapt quickly and improvise to solve problems.
+
+The protest conundrum debated in [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) p.180/187
+
 ## Tactical Stupidity
 
 See [Strategic Ignorance](#strategic-ignorance)
@@ -976,11 +1015,7 @@ via <kbd>[👤 James Howard Kunstler](#james-howard-kunstler)</kbd> [How Do You 
 
 > Foundation of ignorance
 
-## The Davos Class
-
-> Gates, Soros, Google, Amazon
-
-## The Tragedy of the Commons
+## Tragedy of the Commons
 
 One hand for yourself, one hand for the ship
 
@@ -993,7 +1028,6 @@ Related: [Fractal planting patterns yield optimal harvests, without central cont
 > Their prices were sophisticated and more efficient than those produced by the formula, and it was obvious what came first. For instance, the prices accounted for Extremistan and “fat tails,” which the standard formulas ignored.
 > (...)
 > _Traders trade → traders figure out techniques and products → academic economists find formulas and claim traders are using them → new traders believe academics → blowups (from theory-induced fragility)_
-
 
   carrying capacity: maximum permanently supportable load.
 
@@ -1009,24 +1043,9 @@ Related: [Fractal planting patterns yield optimal harvests, without central cont
 
 from <kbd>[👤 William R. Catton, Jr.](#william-r-catton-jr)</kbd> - Overshoot via [The Archdruid Report - As Night Closes In](https://thearchdruidreport-archive.200605.xyz/2015/02/as-night-closes-in.html)
 
+## _Those who win in a rigged game get stupid_
 
-## The petroleum interval
-
-> it's a short period in history where we've discovered this extraordinary material, and then based a whole way of life around it.
-Watch [Rob Hopkins: Transition to a world without oil | TED Talk](http://www.ted.com/talks/rob_hopkins_transition_to_a_world_without_oil/)
-[👤 Rob Hopkins](#rob-hopkins)
-
-## The problem of excessive scale
-
-See [ClubOrlov: Book Excerpt: The Problem of Excessive Scale](http://cluborlov.blogspot.com/2013/02/book-excerpt-problem-of-excessive-scale.html)
-
-Read [Leopold Kohr - The Breakdown of Nations (2001)](http://www.amazon.com/The-Breakdown-Nations-Leopold-Kohr/dp/1870098986/)
-
-Watch [Geoffrey West on Complexity (2011) - YouTube](https://www.youtube.com/watch?v=DFFVSvAr7Wc)
-
-## The urban myth
-
-One of the central myths of modern society is that the process of urbanization (and slumification—favelas are currently the fastest-growing form of human habitation) is due to city life being “more attractive” and farming becoming “more efficient.” Fewer people want to or need to inhabit the wider landscape, the story goes, and so they are moving to the cities. And this, some say, is simply a good thing. But the real cause of this rapid urbanization is that economic activity is moving to the city—because localized, artisanal production cannot compete with centralized manufacturing. This is a temporary dislocation made possible by burning fossil fuels.
+via <kbd>👤 Catherine Austin Fitts</kbd>
 
 ## Trading up
 
@@ -1071,6 +1090,10 @@ Way to describe delusional responses to the challenges of collapse, hinging on a
 
 via <kbd>[👤 James Howard Kunstler](#james-howard-kunstler)</kbd> [How unserious #t=00:07:57,00:07:58](https://www.youtube.com/embed/-zluPQEcK0Y?start=477&end=478)
 
+## Urban myth
+
+One of the central myths of modern society is that the process of urbanization (and slumification—favelas are currently the fastest-growing form of human habitation) is due to city life being “more attractive” and farming becoming “more efficient.” Fewer people want to or need to inhabit the wider landscape, the story goes, and so they are moving to the cities. And this, some say, is simply a good thing. But the real cause of this rapid urbanization is that economic activity is moving to the city—because localized, artisanal production cannot compete with centralized manufacturing. This is a temporary dislocation made possible by burning fossil fuels.
+
 ## Usury
 
 > a form of systemic, institutionalized violence
@@ -1090,33 +1113,6 @@ via <kbd>[👤 James Howard Kunstler](#james-howard-kunstler)</kbd> [How unserio
 > White's law, named after Leslie White and published in 1943, states that, other factors remaining constant, "culture evolves as the amount of energy harnessed per capita per year is increased, or as the efficiency of the instrumental means of putting the energy to work is increased".
 
 from [The Archdruid Report - The Era of Pretense](https://thearchdruidreport-archive.200605.xyz/2015/05/the-era-of-pretense.html)
-
-## [Kübler-Ross model of grief and coping](https://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model\#Stages)
-
-> The Kübler-Ross model, or the **five stages of grief**, is a series of emotional stages experienced when faced with impending death or death of someone. The five stages are denial, anger, bargaining, depression and acceptance.
-
-## [System D](https://en.wikipedia.org/wiki/System_D)
-
-System D
-:   a name for the informal economy or the shadow economy
-
-> System D or Système D is a person's ability to adapt quickly and improvise to solve problems.
-
-The protest conundrum debated at [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) p.180/187
-
-## _It's different this time_
-
-Delusional response to historical arguments supporting the imminence of collapse
-
-See [Peak Oil Denial Bingo](#peak-oil-denial-bingo)
-
-## _Prepare but do not execute_
-
-_A reasonable approach_ by [👤 Dmitry Orlov](#dmitry-orlov), from his [Post-Collapse Planning](http://cluborlov.blogspot.com/2011/11/aspo-2011-post-collapse-planning.html) presentation at the ASPO conference 2011
-
-## _Those who win in a rigged game get stupid_
-
-via <kbd>👤 Catherine Austin Fitts</kbd>
 
 ## 👤 Augustin Mouchot
 
@@ -1140,6 +1136,12 @@ See [The Archdruid Report - The Steampunk Future Revisited](https://thearchdruid
 <kbd>Tangential</kbd>
 
 [Bruce Sterling at WIRED](https://www.wired.com/author/bruce-sterling/)
+
+## 👤 David Graeber
+
+<kbd>Tangential</kbd>
+
+[David Graeber](https://en.wikipedia.org/wiki/David_Graeber)
 
 ## 👤 Derrick Jensen
 
