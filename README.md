@@ -1258,6 +1258,7 @@ Twitter: [@vgr](https://twitter.com/vgr "Venkatesh Guru Rao on Twitter")
 <!-- Footer -->
 
 <style>
+  article { margin-bottom: 70vh; }
   a[href^=http]:after {
     content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
     margin: 0 3px 0 5px;
