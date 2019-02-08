@@ -62,6 +62,14 @@ Speculative bubble
 
 Like tulip frenzy in 1630s, dot-com Internet bubble 1997–2000, Real estate bubble 2008, shale bubble (2015)
 
+## Bullshit jobs
+
+<kbd>[👤 David Graeber](#david-graeber)</kbd>
+
+> In the year 1930, John Maynard Keynes predicted that, by century’s end, technology would have advanced sufficiently that countries like Great Britain or the United States would have achieved a 15-hour work week. There’s every reason to believe he was right. In technological terms, we are quite capable of this. And yet it didn’t happen. Instead, technology has been marshaled, if anything, to figure out ways to make us all work more. In order to achieve this, jobs have had to be created that are, effectively, pointless. Huge swathes of people, in Europe and North America in particular, spend their entire working lives performing tasks they secretly believe do not really need to be performed. The moral and spiritual damage that comes from this situation is profound. It is a scar across our collective soul. Yet virtually no one talks about it.
+
+– [On the phenomenon of bullshit jobs](https://libcom.org/library/phenomenon-bullshit-jobs-david-graeber)
+
 ## Bumpy Plateau
 
 "Wile E. Coyote moment of hang time" [The Archdruid Report - The Era of Impact](https://thearchdruidreport-archive.200605.xyz/2015/05/the-era-of-impact_20.html)
@@ -788,7 +796,7 @@ Any technical improvement can only relieve misery for a while, for as long as mi
 
 <kbd>[👤 David Graeber](#david-graeber)</kbd>
 
-via [The phenomenon of bullshit jobs](https://libcom.org/library/phenomenon-bullshit-jobs-david-graeber)
+via [On the phenomenon of bullshit jobs](https://libcom.org/library/phenomenon-bullshit-jobs-david-graeber)
 
 <!-- stub -->
 
