@@ -918,6 +918,18 @@ squeeze
 :   (collapse) a situation in which you are pressured into taking an unsustainable path.  
     _That city really puts the squeeze on you._
 
+## stordalen
+
+<kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
+
+stordalen
+:    carbon footprint unit equivalent to a single bacon cheeseburger :hamburger: `4.15 lbs` (`1.88 kg`) CO₂.  
+     Example: _Ms. Stordalen's wedding celebration flight came in a little under 10.5 kilostordalens (ks)_
+
+> (...) about Ms. Stordalen and her 10,491-bacon-cheeseburger flight. (It suddenly occurs to me that a stordalen, equivalent to 4.15 lbs of CO2 — the carbon dioxide footprint of a single a bacon cheeseburger — would make a good measure of carbon footprint more generally. The flight just mentioned thus came in a little under 10.5 kilostordalens (ks); how many megastordalens (Ms) or even terastordalens (Ts) get churned out by the lifestyles of today’s privileged is a question I think few of them would want to answer.)
+
+– [A Wilderness of Mirrors - Ecosophia](https://www.ecosophia.net/a-wilderness-of-mirrors/)
+
 ## Strategic Ignorance
 
 > Sudden, total inability to comprehend a datum one finds inconvenient.
