@@ -1280,7 +1280,24 @@ Twitter: [@vgr](https://twitter.com/vgr "Venkatesh Guru Rao on Twitter")
 <!-- Footer -->
 
 <style>
-  article { margin-bottom: 70vh; }
+  :root {
+    --anchorSpace: 70vh;
+    --endMark: '\2767'; /* Hedera */
+    --lighterGrey: #f1f5f8;
+  }
+
+  article:after {
+    border-top: 1px solid var(--lighterGrey);
+    content: var(--endMark);
+    font-size: 3em;
+    width: 100%;
+    margin-top: calc(var(--anchorSpace) / 2);
+    height: calc(var(--anchorSpace) / 2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
   a[href^=http]:after {
     content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
     margin: 0 3px 0 5px;
