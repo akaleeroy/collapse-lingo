@@ -3,10 +3,8 @@
   <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="wiki_base_url" content="./">
-<meta name="date" content="08 February 2019">
-<meta name="summary" content="A /r/collapse lexicon">
-<meta name="wiki_end_url" content=".md"><style>body {
+    <meta name="summary" content="A /r/collapse lexicon">
+<meta name="date" content="26 February 2019"><style>body {
   max-width: 980px;
   border: 1px solid #ddd;
   outline: 1300px solid #fff;
@@ -1096,6 +1094,9 @@ body .markdown-body
     <article class="markdown-body">
       <h1 id="collapse-lingo">Collapse Lingo<a class="headerlink" href="#collapse-lingo" title="Permanent link"></a></h1>
 <p>Rounding up collapse lingo, terminology, jargon, terms of art, concepts, tropes, memes, arguments, and patterns.</p>
+<blockquote>
+<p><a href="https://htmlpreview.github.io/?https://github.com/akaleeroy/collapse-lingo/blob/master/README.html" title="using htmlpreview.github.io"><img align="absmiddle" alt=":book:" class="emojione" height="20px" src="https://cdn.jsdelivr.net/emojione/assets/3.1/png/64/1f4d6.png" style="min-width: 20px; min-height: 20px" title=":book:" width="20px" /> View rendered HTML</a></p>
+</blockquote>
 <div class="toc">
 <ul>
 <li><a href="#collapse-lingo">Collapse Lingo</a><ul>
@@ -2177,7 +2178,24 @@ Mastodon: <a href="https://mastodon.cloud/@dredmorbius">@dredmorbius@mastodon.cl
 <!-- Footer -->
 
 <style>
-  article { margin-bottom: 70vh; }
+  :root {
+    --anchorSpace: 70vh;
+    --endMark: '\2767'; /* Hedera */
+    --lighterGrey: #f1f5f8;
+  }
+
+  article:after {
+    border-top: 1px solid var(--lighterGrey);
+    content: var(--endMark);
+    font-size: 3em;
+    width: 100%;
+    margin-top: calc(var(--anchorSpace) / 2);
+    height: calc(var(--anchorSpace) / 2);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+
   a[href^=http]:after {
     content: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAAoAAAAKCAYAAACNMs+9AAAAQElEQVR42qXKwQkAIAxDUUdxtO6/RBQkQZvSi8I/pL4BoGw/XPkh4XigPmsUgh0626AjRsgxHTkUThsG2T/sIlzdTsp52kSS1wAAAABJRU5ErkJggg==);
     margin: 0 3px 0 5px;

@@ -1,13 +1,13 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    08 February 2019
-wiki_base_url: ./
-wiki_end_url: .md
+Date:    26 February 2019
 
 
 # Collapse Lingo
 
 Rounding up collapse lingo, terminology, jargon, terms of art, concepts, tropes, memes, arguments, and patterns.
+
+> [:book: View rendered HTML](https://htmlpreview.github.io/?https://github.com/akaleeroy/collapse-lingo/blob/master/README.html "using htmlpreview.github.io")
 
 [TOC]
 
