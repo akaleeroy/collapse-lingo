@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    26 February 2019
+Date:    26 March 2019
 
 
 # Collapse Lingo
@@ -539,9 +539,15 @@ Cause & effect vs. Forcing & feedback (via <kbd>[👤 Ugo Bardi](#ugo-bardi)</kb
 
 <!-- stub -->
 
+## Innovation
+
+> _Innovation does not solve problems, it creates them_ 
+
+– <kbd>[👤 Ugo Bardi](#ugo-bardi)</kbd> [Cassandra's Legacy: The Coming Seneca Cliff of the Automotive Industry: the Converging Effect of Disruptive Technologies and Social Factors](https://cassandralegacy.blogspot.com/2017/05/the-coming-seneca-cliff-of-automotive.html)
+
 ## _It's different this time_
 
-Delusional response to historical arguments supporting the imminence of collapse
+Standard delusional response to historical arguments supporting the imminence of collapse
 
 See [Peak Oil Denial Bingo](#peak-oil-denial-bingo)
 

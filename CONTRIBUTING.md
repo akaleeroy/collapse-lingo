@@ -20,7 +20,6 @@ As work continues this format will probably become unwieldy, we should reassess.
 
 It's meant to be included (or linked to) in the [/r/collapse/wiki](https://www.reddit.com/r/collapse/wiki/index).
 
-
 ## Imprecise terms and proposed terms
 
 Some terms aren't the best fit for the concept they're meant to put across.
