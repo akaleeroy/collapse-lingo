@@ -72,7 +72,16 @@ Like tulip frenzy in 1630s, dot-com Internet bubble 1997–2000, Real estate bub
 
 ## Bumpy Plateau
 
-"Wile E. Coyote moment of hang time" [The Archdruid Report - The Era of Impact](https://thearchdruidreport-archive.200605.xyz/2015/05/the-era-of-impact_20.html)
+> Wile E. Coyote moment of hang time
+
+– [The Archdruid Report - The Era of Impact](https://thearchdruidreport-archive.200605.xyz/2015/05/the-era-of-impact_20.html)
+
+<!--  -->
+
+> The fundamental energy problem facing cities, nations, and the world is, and will be in the future, the problem of falling
+[EROI](#energy-return-on-energy-invested). As more energy must be used to acquire additional sources of energy, myriad economic problems will occur. Higher input costs lead to higher energy prices for the consumer, although the process is not a smooth one. Higher energy prices choke off demand, helping precipitate a recession. The recession reduces energy prices, helping to restore prosperity. The global peak of oil looks more like an “undulating plateau,” and the uncertainty adversely impacts the financing of future high cost energy sources.
+
+– Klitgaard, Kent. (2019). Economy and Development in Modern Cities. [10.1007/978-3-030-11259-2_5](https://doi.org/10.1007/978-3-030-11259-2_5). 
 
 ## Business as usual
 
@@ -288,10 +297,19 @@ Commonly used value: 150 people.
 EROC
 :   [Energy Return On Carbon](#energy-return-on-carbon)
 
+## EROI
+
+EROI
+:   [Energy Return On Investment](#energy-return-on-energy-invested)
+
+*[EROI]: Energy Return on Investment
+
 ## EROEI
 
 EROEI
 :   [Energy Return On Energy Invested](#energy-return-on-energy-invested)
+
+*[EROEI]: Energy Return on Energy Invested
 
 ## Efficiency
 
@@ -441,6 +459,20 @@ via <kbd>[👤 Michael Ruppert](#michael-ruppert)</kbd>
 
 via [👤 Derrick Jensen](#derrick-jensen)
 
+## _Get woke, go broke_
+
+via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
+
+> It’s also the same tone you’ll get from a flurry of recent Hollywood movies that were supposed to be blockbusters and turned into world-class flops. All of them have the same basic structure as Airship Heroes, or for that matter of any improving Victorian tale of virtue rewarded and vice rebuked. You’ve got the good people being good because they’re good people, you’ve got the bad people being bad because they’re bad people, the bad people try to do something bad to the good people, and the good people win because they’re the good people, that’s why.
+
+> Throw in lavish cinematography and way too many special effects, get the paid reviewers to cough up the usual fulsome praise, and (ahem) you’re good – well, except that you may just find out that you had everyone on board but the audience, who yawned and stayed home. This is why the phrase **“get woke, go broke”** has become so well known among moviegoers and the less politically correct critics. It’s also why I expect any day now to hear that a group of young, brash, politically conservative venture capitalists have funded a new moviemaking studio which will be located just outside Branson, Missouri, which will produce films that won’t be subject to the rigid social-justice dogmatism that rules Hollywood these days, and which in ten years or so will be where all the hot young talent is headed because the Hollywood studios just keep doubling down on a series of failed formulae.
+
+> This is basically what happened, after all, to the presidential ambitions of Hillary Clinton.
+
+– [Adrift In An Airship - Ecosophia](https://www.ecosophia.net/adrift-in-an-airship/)
+
+[Get Woke, Go Broke - Urban Dictionary](http://get-woke-go-broke.urbanup.com/13005249)
+
 ## Ghost acreage
 
 <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd> - Overshoot
@@ -541,7 +573,15 @@ Cause & effect vs. Forcing & feedback (via <kbd>[👤 Ugo Bardi](#ugo-bardi)</kb
 
 ## Innovation
 
+The Golden Rule of Technological Innovation:
+
 > _Innovation does not solve problems, it creates them_ 
+
+The second rule of technological innovation:
+
+> _Sucessful innovations are always highly disruptive_
+
+The _fighting tanks with horses_ methaphor.
 
 – <kbd>[👤 Ugo Bardi](#ugo-bardi)</kbd> [Cassandra's Legacy: The Coming Seneca Cliff of the Automotive Industry: the Converging Effect of Disruptive Technologies and Social Factors](https://cassandralegacy.blogspot.com/2017/05/the-coming-seneca-cliff-of-automotive.html)
 
@@ -1088,6 +1128,10 @@ See Lost Generation, Downshifting
 
 – [The age of turboparalysis » The Spectator](http://www.spectator.co.uk/features/8789631/the-age-of-turboparalysis/)
 [👤 Dmitry Orlov](#dmitry-orlov)
+
+## Undulating plateau
+
+See [Bumpy plateau](#bumpy-plateau)
 
 ## Unintended consequences of efficiency solutions
 
