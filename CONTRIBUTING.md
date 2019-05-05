@@ -9,7 +9,6 @@ At this point this isn't an authoritative list. Some key terms are missing, othe
 - [ ] Terms from James Howard Kunstler's books
 - [ ] Terms from Joseph Tainter's books
 - [ ] Terms from [The Lexicon.org: words to change your world](http://www.thelexicon.org/)
-- [ ] Terms from Santa Fe Institute's [Complexicon](https://www.youtube.com/playlist?list=PLF0b3ThojznT3NVnKg9tjwhz43YCbwzIO) (see [Complexity Explorer YouTube channel](https://www.youtube.com/user/ComplexityExplorer/))
 - [ ] Indexes and glossary from Long Descent
 - [ ] Reassess writing format
 

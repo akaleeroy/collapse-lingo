@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    26 March 2019
+Date:    5 May 2019
 
 
 # Collapse Lingo
@@ -885,7 +885,14 @@ A collapse preparedness strategy
 
 ## Resilience
 
-<!-- stub -->
+> The opposite of efficiency.
+
+resilience
+:   a system's capacity to **absorb shocks** and reorganize as it is **undergoing change,** so that it continues to have, essentially, the same function, structure and reactions and, therefore, the same **identity.**
+
+[Complexicon - Resilience](https://www.youtube.com/watch?v=XDXZUHGi6z8) from [Santa Fe Institute's Complexity Explorer YouTube channel](https://www.youtube.com/user/ComplexityExplorer/)
+
+As <kbd>[👤 James Howard Kunstler](#james-howard-kunstler)</kbd> puts it, "efficiency is the straightest path to hell", because there is little or no capacity to adapt in a maxed out system.
 
 ## Reskilling
 
