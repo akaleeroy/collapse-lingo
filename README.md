@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    5 May 2019
+Date:    8 May 2019
 
 
 # Collapse Lingo
@@ -161,6 +161,13 @@ stock-in-trade
 ## Civil religion of progress
 
 via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
+
+## Collapse on rails
+
+<kbd>[👤 Dmitry Orlov](#dmitry-orlov)</kbd>
+
+collapse on rails
+:   _Rather than collapse as an event (after which recovery is theoretically possible) what we have in the Ukraine is collapse on rails — an inexorable, systematic hollowing-out and pauperization._
 
 ## Confusopoly
 
