@@ -177,6 +177,16 @@ via <kbd>[👤 Dr. Edward Morbius](#dr-edward-morbius)</kbd>
 
 vs Dissensus
 
+## Constructive paranoia
+
+via <kbd>[👤 Jared Diamond](#jared-diamond)</kbd>
+
+> Here in the United States if you slip and fall, generally you go to a hospital and get it fixed. In New Guinea if you make a mistake you may well end up dead or crippled for the rest of your life. And so in New Guinea I learned through incidents, through close calls I've learned to be very careful. I've taken that attitude with me. If drives my wife and my sons and my friends crazy because I'm always attentive to what could go wrong, but that contributed to the fact that I'm still healthy in my early 80s and hope to carry on. So, one of the prime lessons I learned from New Guinea is to anticipate the dangers, the 1-in-100 danger, but if you do it 100 times... In New Guinea if you sleep under a dead tree the chances are 1000 to 1 the dead tree will fall on you that night, but if you're a New Guinean who is going to sleep in the jungle and you sleep in the jungle for 3 years (1095 days) the dead tree will fall on you and you'll be dead.
+
+Source: [Books Of Your Life With Elizabeth - Jared Diamond's Books of His Life (01 May 2019)](http://booksofyourlifewithelizabeth.libsyn.com/jared-diamonds-books-of-his-life) [#t=00:08:10.000,00:09:18.680](http://traffic.libsyn.com/booksofyourlifewithelizabeth/EKC-JaredFINALMIX1.mp3?dest-id=802392#t=00:08:10.000,00:09:18.680)
+
+See [👤 Nassim Taleb](#nassim-taleb) and the [distinction between **ensemble probability** and **time probability.**](#ensemble-probability)
+
 ## Cornucopianism
 
 cornucopianism
@@ -392,6 +402,15 @@ This is why it stands to reason that the best places for resilience are regions 
 ## Energy density
 
 [Energy density - Wikipedia](https://en.wikipedia.org/wiki/Energy_density)
+
+## Ensemble probability
+
+From [👤 Nassim Taleb](#nassim-taleb): 
+
+![Ensemble probability - the ruin of one does not affect the ruin of others :vs: Time probability - one speculator across time](https://cdn-images-1.medium.com/max/600/1*DIdL2p9rvm1Am6zvRlMM5w.png)  
+_The difference between 100 people going to a casino and one person going to a casino 100 times, i.e. between (path dependent) and conventionally understood probability. The mistake has persisted in economics and psychology since age immemorial._
+
+– [The Logic of Risk Taking – INCERTO – Medium](https://medium.com/incerto/the-logic-of-risk-taking-107bf41029d3)
 
 ## Environment
 
@@ -1095,6 +1114,12 @@ via <kbd>[👤 James Howard Kunstler](#james-howard-kunstler)</kbd> [How Do You 
 
 > Foundation of ignorance
 
+## Time probability
+
+[👤 Nassim Taleb](#nassim-taleb)
+
+See [Ensemble probability](#ensemble-probability)
+
 ## Tragedy of the Commons
 
 One hand for yourself, one hand for the ship
@@ -1286,7 +1311,7 @@ Formerly blogged at **The Archdruid Report,** now taken offline. [The Archdruid 
 
 ## 👤 Nassim Taleb
 
-<kbd>Tangential</kbd>
+<kbd>Risk</kbd> <kbd>Tangential</kbd>
 
 [Nassim Nicholas Taleb - Wikipedia](https://en.wikipedia.org/wiki/Nassim_Nicholas_Taleb)
 
