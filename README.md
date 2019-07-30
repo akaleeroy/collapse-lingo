@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    8 May 2019
+Date:    30 July 2019
 
 
 # Collapse Lingo
@@ -220,6 +220,19 @@ via <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd> - Overshoot
 ## Davos Class
 
 > Gates, Soros, Google, Amazon
+
+## Decoupling
+
+> **Is it possible to enjoy both economic growth and environmental sustainability?**
+>  
+> This question is a matter of fierce political debate between green growth and post-growth advocates. Considering what is at stake, a careful assessment to determine whether the scientific foundations behind this decoupling hypothesis are robust or not is needed.  
+> 
+> This report reviews the empirical and theoretical literature to assess the validity of this hypothesis. The conclusion is both overwhelmingly clear and sobering: not only is there no empirical evidence supporting the existence of a decoupling of economic growth from environmental pressures on anywhere near the scale needed to deal with environmental breakdown, but also, and perhaps more importantly, such decoupling appears unlikely to happen in the future.  
+> 
+> ‘Decoupling debunked’ highlights the need for the rethinking of green growth policies and to complement efficiency with sufficiency.
+
+– [Decoupling debunked – Evidence and arguments against green growth as a sole strategy for sustainability - EEB - The European Environmental Bureau](https://eeb.org/library/decoupling-debunked/)
+
 
 ## Degrees of dependence
 
@@ -688,7 +701,7 @@ via [👤 Nicole Foss](#nicole-foss)
 
 <kbd>Identify / Coin</kbd>
 
-Tongue-in-cheek way to assert the fallacy of economic wealth decoupled from carbon dioxide emissions.
+Tongue-in-cheek way to assert the fallacy of economic wealth [decoupled](#decoupling) from carbon dioxide emissions.
 
 [Tim Garrett - Measure the size of the global economy from the top of Mauna Loa](https://www.youtube.com/embed/A3QUQbPILS8?start=458&end=467&autoplay=1 "Is it possible to decouple economic wealth from carbon dioxide emission rates? Part II (2010)")
 
