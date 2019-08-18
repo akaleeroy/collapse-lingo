@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    30 July 2019
+Date:    18 August 2019
 
 
 # Collapse Lingo
@@ -51,6 +51,18 @@ Related: Intermediate technology - "Build what used to be called "intermediate" 
 ## BAU
 
 [Business As Usual](#business-as-usual)
+
+## Binding factors
+
+binding factors
+:    External bonds that can tempt, coerce, or entrap a person into doing something they would prefer not to do  
+[(Milgram 1974, p. 148)](https://www.mdpi.com/2076-0760/8/6/178/htm#B46-socsci-08-00178)
+
+via [Climate Catastrophe and Stanley Milgram’s Electric Shock “Obedience” Experiments: An Uncanny Analogy](https://www.mdpi.com/2076-0760/8/6/178/htm)
+
+See also [Squeeze](#squeeze)
+
+*[BFs]: Binding Factors
 
 ## Bridge technology
 
@@ -544,6 +556,12 @@ via <kbd>[👤 Venkatesh Rao](#venkatesh-rao)</kbd>
 
 See [Descent-friendly Design](#descent-friendly-design)
 
+## Green growth
+
+See [decoupling](#decoupling)
+
+Related: [cornucopianism](#cornucopianism)
+
 ## Green Wizardry 
 
 <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
@@ -1009,6 +1027,8 @@ Slow steaming refers to the practice of operating transoceanic cargo ships, espe
 squeeze
 :   (collapse) a situation in which you are pressured into taking an unsustainable path.  
     _That city really puts the squeeze on you._
+
+See also: [Binding factors](#binding-factors) 
 
 ## stordalen
 
