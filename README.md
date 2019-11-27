@@ -703,6 +703,24 @@ or
 
 from [The Archdruid Report - The End of Employment](https://thearchdruidreport-archive.200605.xyz/2014/04/the-end-of-employment.html)
 
+## Limits to Growth
+
+<kbd>Systems Thinking</kbd>
+
+*[LTG]: Limits to Growth
+
+[The Limits to Growth - Wikipedia](https://en.wikipedia.org/wiki/The_Limits_to_Growth)
+
+> _There goes that Limits to Growth argument again._ And indeed this [fisheries collapse model] is a LTG archetype system:
+a **rapid growth rate,** **a limit,** and a **feedback signal** to slow down that accumulation of boats that's **coming too late** to keep the system from going over an important **threshold** beyond which the system begins to **erode.** Those things together make not only an unsustainable system but a system that's almost certainly going to crash.
+
+– paraphrasing from <kbd>[👤 Donella Meadows](#donella-meadows)</kbd> - Sustainable Systems (1999) #t=00:39:44,00:40:19  
+Presented at the University of Michigan Ross School of Business as part of the Sustainability Lecture Series on March 18, 1999.
+
+> its main message was unbelievable and unacceptable, since it could be paraphrased as follows: global politics in the first third of the 21st century will be dominated by global resource and pollution constraints.
+
+– <kbd>[👤 Jørgen Randers](#jrgen-randers)
+
 ## Low-tech
 
 [Low-Tech Magazine](http://www.lowtechmagazine.com/)
@@ -1301,7 +1319,7 @@ Podcast: [Derrick Jensen Resistance Radio archives](https://deepgreenresistance.
 
 ## 👤 Donella Meadows
 
-<!-- Donella H. "Dana" Meadows -->
+Donella H. "Dana" Meadows
 
 [Donella Meadows - Wikipedia](https://en.wikipedia.org/wiki/Donella_Meadows)
 
@@ -1337,6 +1355,13 @@ Reddit: [/u/Erinaceous](https:///www.reddit.com/user/Erinaceous)
 [Ecosophia](https://www.ecosophia.net/) blog
 
 Formerly blogged at **The Archdruid Report,** now taken offline. [The Archdruid Report Archive](https://thearchdruidreport-archive.200605.xyz)
+
+## 👤 Jørgen Randers
+
+[Jørgen Randers - Wikipedia](https://en.wikipedia.org/wiki/J%C3%B8rgen_Randers)
+
+Co-author of [The Limits to Growth](#limits-to-growth)
+
 
 ## 👤 Michael Ruppert
 
