@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    18 August 2019
+Date:    7 December 2019
 
 
 # Collapse Lingo
@@ -1113,9 +1113,14 @@ via <kbd>[👤 Toby Hemenway](#toby-hemenway)</kbd>
 
 <kbd>[👤 Rob Hopkins](#rob-hopkins)</kbd>
 
-> Sustainable = the mid-point between degenerative actions and regenerative actions.
-
+> Sustainable = the mid-point between degenerative actions and regenerative actions.  
 – <kbd>[👤 Toby Hemenway](#toby-hemenway)</kbd>
+
+<!--  -->
+
+> Sustainability prioritizes outcomes, [resilience](#resilience) prioritizes process[^sustainability-vs-resilience]  
+
+[^sustainability-vs-resilience]: Charles Redman, "Should sustainability and resilience be combined or remain distinct pursuits?", _Ecology and Society_ 19(2): 37
 
 Also see [Joseph Tainter - Human Resource Use: Timing and Implications for Sustainability](http://www.theoildrum.com/node/5745)
 
