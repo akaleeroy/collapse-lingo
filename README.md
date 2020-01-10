@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    7 December 2019
+Date:    10 January 2020
 
 
 # Collapse Lingo
@@ -268,7 +268,7 @@ via [Mark Shepard - Slow Living Summit #2: Permaculture & Economic Sustainabilit
 
 Also see [Peak Oil Denial Bingo!](#peak-oil-denial-bingo)
 
-## Dependece 
+## Dependence
 
 <!-- stub -->
 
@@ -296,7 +296,7 @@ particular topic, or, as expressed by the contemporary philosopher Judith Butler
 of acceptable speech”. This is very similar to the concept of the “Overton Window” as
 explained in [this essay by Neal Devers](http://thefutureprimaeval.net/the-overton-bubble/).
 
-from [Post Peak Medicine Book, p.23](http://www.postpeakmedicine.com/PostPeakMedicineBook.pdf#page=23)
+from [Post Peak Medicine Book, p.24](http://www.postpeakmedicine.com/PostPeakMedicineBook.pdf#page=24)
 
 ## Disintermediation
 
@@ -669,6 +669,19 @@ See [Jevons paradox](#jevons-paradox)
 [Kübler-Ross model – Stages](https://en.wikipedia.org/wiki/K%C3%BCbler-Ross_model/#Stages)
 
 > The Kübler-Ross model, or the **five stages of grief**, is a series of emotional stages experienced when faced with impending death or death of someone. The five stages are denial, anger, bargaining, depression and acceptance.
+
+## Leap-frog
+
+See [Leapfrog](#leapfrog)
+
+## Leapfrog
+
+leapfrog
+:   to jump over some obstacle, to overtake, to progress. In the context of collapse leapfrogging is skipping a technological stage in societal problem-solving. The classic example is leapfrogging wired phone infrastructure and going straight for a mobile phone one instead.
+
+> While big emitting nations and international aviation and shipping are pivotal to delivering early and global-scale mitigation, overlooking how emissions may rise as other nations necessarily improve their standards of well-being would be a mistake. It is clear that **rapidly industrializing nations need to leapfrog the high-carbon infrastructures of their industrialized counterparts,** and establish low-carbon alternatives from the outset.
+
+– Alice Larkin, Jaise Kuriakose, Maria Sharmina & Kevin Anderson (2018) What if negative emission technologies fail at scale? Implications of the Paris Agreement for big emitting nations, Climate Policy, 18:6, 690-714, DOI: 10.1080/14693062.2017.1346498
 
 ## LESS
 
@@ -1227,6 +1240,18 @@ See Lost Generation, Downshifting
 ## Undulating plateau
 
 See [Bumpy plateau](#bumpy-plateau)
+
+## Unintended consequences
+
+> Most of us grew up using QWERTY keyboards, but they were actually designed to slow typists down so they wouldn't jam typewriters. There are far more efficient keyboard layouts (DVORAK, for instance). Changing society over would make the world generally more efficient. But we won't, because everyone already knows QWERTY and all the keyboards already have QWERTY layouts and learning new things is hard and having two systems during the switch over is twice as hard. An individual could choose to move over, but then they have to go to the extra effort, creating hardship for themselves, while really making not much of a difference at all.
+
+> So, who do you blame for this? The original keyboard designers, who never envisioned modern computers? Companies who meet demand for QWERTY keyboards? Regulators and schools? Individuals who take the path of least resistance?
+
+> And that's just one insignificant habit that could be fixed in a decade with the slightest bit of effort. Stopping carbon emissions, on the other hand, will outright kill billions of us.
+
+> No person or company is ultimately responsible for climate change; it is a natural, unintended consequence of our society. The use of fossil fuels was originally well-intended by people who never imagined that they could break the planet and nothing less than utterly breaking civilization as we know it can fix it.
+
+– [/u/sylbug [commenting on](https://www.reddit.com/r/collapse/comments/am956h/corporations_are_wrecking_this_planet/efls4i5/) [Corporations are wrecking this planet](https://www.reddit.com/r/collapse/comments/am956h/corporations_are_wrecking_this_planet)
 
 ## Unintended consequences of efficiency solutions
 
