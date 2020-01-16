@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    10 January 2020
+Date:    16 January 2020
 
 
 # Collapse Lingo
@@ -970,6 +970,14 @@ Currently, globally, about 88% of all energy resources are used wastefully -- a 
 A collapse preparedness strategy
 
 <!-- stub -->
+
+## Renewables
+
+Some problems with trasitioning to wind and solar power infrastructure:
+
+> Completely gratuitous use of the term "renewable". For wind and solar, the energy source for power generation may be renewable, but the technology is not. Every 15-20 years it has to be "renewed" using industrial production that is based on nonrenewable resources, many of them already scarce. Solar panels and wind turbine blades are not only nonrenewable but largely nonrecyclable and, in the case of solar panels, constitute toxic waste. The push for "renewables" has in each case paved the path toward rapid deindustrialization and offshoring of industrial production; in the future, these "advanced" (read, "deindustrlalized") economies will be unable to import expensive "renewable" technology and will lose access to electricity.
+
+– Comment by [👤 Dmitry Orlov](#dmitry-orlov) on <time datetime="2020-01-16T00:48:23.730Z" title="2020-01-16T00:48:23.730+00:00">16 January 2020</time> on the post [New Decade, New Rules](https://www.patreon.com/posts/new-decade-new-33172813)
 
 ## Resilience
 
