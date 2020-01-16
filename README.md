@@ -334,6 +334,22 @@ Commonly used value: 150 people.
 
 – [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) p.176/183
 
+## Earthshot
+
+<kbd>Identify / Coin</kbd>
+
+earthshot
+:   The startdown equivalent of a moonshot
+    > Startups do moonshots, [startdowns](#startdown) point the rocket down to Earth.
+
+In a decline regime (assuming [catabolic collapse](#catabolic-collapse)) short-term, incremental projects risk failure when the gameboard undergoes a reset to a lower level of complexity. It's not possible to predict when these will strike, but it is possible to judge the resilience of things a project depends on. For instance, if success depends on a highly complex technological suite (eg. supercomputer clusters), it's vulnerable to numerous kinds of disruptions, thus more likely to fail (see [Liebig's law of the minimum](#liebigs-law-of-the-minimum)). 
+
+Over time we may witness a [Red Queen](#red-queen-effect) dynamic in which the rate of project failure keeps increasing due to complex systems collapse contagion. Take [renewable energy](#renewables) – deploying wind and solar power lessens fossil fuel use during their lifetime but they depend on a fossil fueled industrial base to get rebuilt.
+
+Therefore it is sensible to dedicate some of the projects to **a level of complexity several steps lower than the one sustainable at that time.** _Expensive, hard or unlikely tasks of great potential impact_ (moonshots) are better protected from collapse contagion if their dependencies can be met at lower levels of complexity.
+
+<!-- Picture a military retreat: exhaust the benefits of a position, abandon it when it's unsustainable, then fall back far enough to a position you have ample resources to defend. Aiming further down the arc of decline allows for better fortification of that position. -->
+
 ## EROC
 
 EROC
@@ -971,7 +987,20 @@ A collapse preparedness strategy
 
 <!-- stub -->
 
+## Rebuildables
+
+rebuildables
+:    The more fitting name [👤 Nate Hagens](#nate-hagens) uses for renewables
+
+See [Renewables](#renewables)
+
 ## Renewables
+
+> “Renewable” energy technologies are misnamed — “rebuildable” is a more fitting name for them
+
+> Renewable energy is, therefore, misnamed. It’s a phrase, a meme, a story because it implies that its energy may be renewed and used again. This is not the case. An oak tree is renewable. A chicken is renewable. They can reproduce themselves based on solar and hydrological flows, and finding another chicken. A Prius or a wind tower aren’t renewable – they’re rebuildable.
+
+– [👤 Nate Hagens](#nate-hagens)
 
 Some problems with trasitioning to wind and solar power infrastructure:
 
@@ -1068,6 +1097,16 @@ squeeze
     _That city really puts the squeeze on you._
 
 See also: [Binding factors](#binding-factors) 
+
+## Startdown
+
+<kbd>Identify / Coin</kbd>
+
+startdown
+:   a decline-aware startup. A new organization focused on solutions for prosperous descent.
+    > Enshrine the values of tomorrow into the code of today.
+
+See also [Earthshot](#earthshot)
 
 ## stordalen
 
