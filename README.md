@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    16 January 2020
+Date:    17 January 2020
 
 
 # Collapse Lingo
@@ -342,13 +342,13 @@ earthshot
 :   The startdown equivalent of a moonshot
     > Startups do moonshots, [startdowns](#startdown) point the rocket down to Earth.
 
-In a decline regime (assuming [catabolic collapse](#catabolic-collapse)) short-term, incremental projects risk failure when the gameboard undergoes a reset to a lower level of complexity. It's not possible to predict when these will strike, but it is possible to judge the resilience of things a project depends on. For instance, if success depends on a highly complex technological suite (eg. supercomputer clusters), it's vulnerable to numerous kinds of disruptions, thus more likely to fail (see [Liebig's law of the minimum](#liebigs-law-of-the-minimum)). 
+In a decline regime (assuming [catabolic collapse](#catabolic-collapse)) short-term, incremental projects risk failure when society drops to a lower level of complexity. It's not possible to predict when problems will arise, but it is possible to judge the resilience of things a project depends on. For instance, if success depends on a highly complex technological suite (eg. supercomputer clusters), it's vulnerable to numerous kinds of disruptions, thus more likely to fail (see [Liebig's law of the minimum](#liebigs-law-of-the-minimum)).
 
-Over time we may witness a [Red Queen](#red-queen-effect) dynamic in which the rate of project failure keeps increasing due to complex systems collapse contagion. Take [renewable energy](#renewables) – deploying wind and solar power lessens fossil fuel use during their lifetime but they depend on a fossil fueled industrial base to get rebuilt.
+Over time we may witness a [Red Queen](#red-queen-effect) dynamic in which the rate of project failure increases due to complex systems collapse contagion. Projects cease to be viable, causing diminishing returns and leaving assets stranded. Take [renewable energy](#renewables) – deploying wind and solar power could compensate fossil fuel use during their lifetime but they depend on a fossil fueled industrial base to get rebuilt. If that isn't available or economical at that time, the energy output drops and the systems it supported become stranded.
 
-Therefore it is sensible to dedicate some of the projects to **a level of complexity several steps lower than the one sustainable at that time.** _Expensive, hard or unlikely tasks of great potential impact_ (moonshots) are better protected from collapse contagion if their dependencies can be met at lower levels of complexity.
+Therefore it is sensible to dedicate some of the projects to **a level of complexity several steps lower than the one sustainable at that time.** _Expensive, hard or unlikely tasks of great potential impact_ (moonshots) are better protected from collapse contagion if their dependencies can be sustained at lower levels of complexity.
 
-<!-- Picture a military retreat: exhaust the benefits of a position, abandon it when it's unsustainable, then fall back far enough to a position you have ample resources to defend. Aiming further down the arc of decline allows for better fortification of that position. -->
+Picture a military retreat: exhaust the benefits of a position, abandon it before it becomes unsustainable, then fall back far enough to a position you have ample resources to defend. Aiming further down the arc of decline allows for better fortification of that position as a backstop.
 
 ## EROC
 
