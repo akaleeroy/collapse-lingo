@@ -68,6 +68,14 @@ See also [Squeeze](#squeeze)
 
 See [High tech dip](#high-tech-dip)
 
+## Broken window fallacy
+
+> When a child accidentally smashes a window, and then it has to be replaced, does this accident constitute a benefit to society, due to the economic activity of repairing and replacing the window?
+
+[Parable of the broken window - Wikipedia](https://en.wikipedia.org/wiki/Parable_of_the_broken_window)
+
+via Patrick Brown on [Radio Ecoshock - What If... (16 October 2019)](https://soundcloud.com/radioecoshock/what-if)
+
 ## Bubble
 
 Speculative bubble
@@ -555,6 +563,18 @@ Gifts should be the primary transactions, with barter, tribute and trade in orde
 See [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) p.100/107
 
 Also see [Antipodes](#antipodes)
+
+## Ginkgo model of societal crisis
+
+> The major question on my mind now, instead, is how we could sail through the crisis without a major amount of bloodshed. This is where the “Ginkgo Model” may serve as a useful conceptual device. As I said earlier in this post, the trajectories of entry into structural-demographic crises are fairly narrowly channelized. But once the crisis breaks out, suddenly a much broader fan of possibilities opens up. It’s just like a Ginkgo leaf:
+
+> ![Drawing of a ginkgo leaf](https://i0.wp.com/peterturchin.com/wp-content/uploads/2018/08/ginkgo.jpg)
+
+> Some post-crisis trajectories go to a really dire territory: a bloody civil war, a revolution bringing an oppressive regime, or disintegration of the state into a number of territorial sections. Other post-crisis trajectories are less dire. In the best scenario, the elites manage to pull together and implement the reforms needed to defuse the pressures for crisis—reversing trends of immiseration and elite overproduction and restoring the fiscal health of the state.
+
+– [👤 Peter Turchin](#peter-turchin) - [The Ginkgo Model of Societal Crisis - Cliodynamica](http://peterturchin.com/cliodynamica/the-ginkgo-model-of-societal-crisis/)
+
+
 
 ## Gothic High Tech
 
