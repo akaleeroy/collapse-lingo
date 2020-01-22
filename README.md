@@ -358,6 +358,13 @@ Therefore it is sensible to dedicate some of the projects to **a level of comple
 
 Picture a military retreat: exhaust the benefits of a position, abandon it before it becomes unsustainable, then fall back far enough to a position you have ample resources to defend. Aiming further down the arc of decline allows for better fortification of that position as a backstop.
 
+## Eco-anxiety
+
+eco-anxiety
+:   acknowledging the reality of climate change and its consequences, which can trigger chronic fear, fatalism, anger and exhaustion.
+
+For more coping topics see [/r/CollapseSupport](https://www.reddit.com/r/CollapseSupport)
+
 ## EROC
 
 EROC
@@ -667,7 +674,7 @@ ignore-ance
 
 Coined by Chris Foster, via [Under the Weather - Believer Magazine](https://believermag.com/under-the-weather/)
 
-A possible response to eco-anxiety. For more coping topics see [/r/CollapseSupport](https://www.reddit.com/r/CollapseSupport)
+A possible response to [eco-anxiety](#eco-anxiety). For more coping topics see [/r/CollapseSupport](https://www.reddit.com/r/CollapseSupport)
 
 ## Independence 
 
