@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    17 January 2020
+Date:    22 January 2020
 
 
 # Collapse Lingo
@@ -659,6 +659,15 @@ Related: Appropriate Technology, Intermediate technology, Graceful degradation, 
 [Homeostasis](https://en.wikipedia.org/wiki/Homeostasis)
 
 Cause & effect vs. Forcing & feedback (via <kbd>[👤 Ugo Bardi](#ugo-bardi)</kbd>)
+
+## Ignore-ance
+
+ignore-ance
+:    returning from a state of consciousness to a willed state of not knowing
+
+Coined by Chris Foster, via [Under the Weather - Believer Magazine](https://believermag.com/under-the-weather/)
+
+A possible response to eco-anxiety. For more coping topics see [/r/CollapseSupport](https://www.reddit.com/r/CollapseSupport)
 
 ## Independence 
 
