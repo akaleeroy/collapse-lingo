@@ -324,7 +324,9 @@ dissensus
 
 – John Michael Greer, _The Ecotechnic Future: Envisioning a Post-Peak World,_ p. 96
 
-See also [The Archdruid Report: Dissensus and Organic Process](https://thearchdruidreport-archive.200605.xyz/2008/12/dissensus-and-organic-process.html)
+> Evolution is dissensus in action, the outward pressure of genetic diversification running up against the limits of environment and, now and then, pushing through to some new adaptation: the wings of bats, the opposable thumbs of primates, the cultural evolution of human beings. As we enter a future of new limits and unpredictable opportunities, this is arguably the kind of organic process we need most.
+
+– [The Archdruid Report: Dissensus and Organic Process](https://thearchdruidreport-archive.200605.xyz/2008/12/dissensus-and-organic-process.html)
 
 ## Dried sea squirrels
 
