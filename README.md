@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    22 January 2020
+Date:    27 January 2020
 
 
 # Collapse Lingo
@@ -195,7 +195,7 @@ via <kbd>[👤 Dr. Edward Morbius](#dr-edward-morbius)</kbd>
 
 ## Consensus
 
-vs Dissensus
+vs [dissensus](#dissensus)
 
 ## Constructive paranoia
 
@@ -312,6 +312,19 @@ disintermediation
 :   to buy food, health care, and other goods and services directly from the producers.
 
 via [The Archdruid Report: Dark Age America: Involuntary Simplicity](https://thearchdruidreport-archive.200605.xyz/2014/10/dark-age-america-involuntary-simplicity.html)
+
+## Dissensus
+
+<kbd>[👤 John Michael Greer](#john-michael-greer)</kbd> <kbd>[👤 Ewa Ziarek](#ewa-ziarek)</kbd>
+
+dissensus
+:    the deliberate avoidance of consensus.
+
+> Dissensus, a concept coined by postmodern theorist Ewa Ziarek, is the deliberate avoidance of consensus. It has its place when consensus, for one reason or another, is either impossible or unwise: for instance, when irreducible differences make it impossible to find common ground for agreement on the points that matter, or when settling on any common decision would be premature. In situations of these kinds, encouraging people to pursue conflicting and even diametrically opposed options increases the chance that someone will happen on an answer that works.
+
+– John Michael Greer, _The Ecotechnic Future: Envisioning a Post-Peak World,_ p. 96
+
+See also [The Archdruid Report: Dissensus and Organic Process](https://thearchdruidreport-archive.200605.xyz/2008/12/dissensus-and-organic-process.html)
 
 ## Dried sea squirrels
 
@@ -843,6 +856,13 @@ via [👤 Joseph Tainter](#joseph-tainter) [The Collapse of Complex Societies](h
 ## Monopoly on violence
 
 See [Monopoly of force](#monopoly-of-force)
+
+## Moonshot
+
+> Look if we're gonna catch up and not be behind forever we have to do something big.
+> We have to commit a lot of money, a lot of resources... We're gonna go to the Moon.
+
+– JFK on the moonshot, according to Jonathan Blow [#t=00:01:23,00:01:33](https://www.youtube.com/watch?v=pW-SOdj4Kkk#t=00:01:23,00:01:33)
 
 ## Near-Term Extinction
 
@@ -1444,6 +1464,12 @@ Mastodon: [@dredmorbius@mastodon.cloud](https://mastodon.cloud/@dredmorbius)
 ## 👤 Erinaceous
 
 Reddit: [/u/Erinaceous](https:///www.reddit.com/user/Erinaceous)
+
+## 👤 Ewa Ziarek
+
+Coined [dissensus](#dissensus)
+
+Ewa Plonowska Ziarek, _An Ethics of Dissensus: Postmodernity, Feminism, and the Politics of Radical Democracy,_ Stanford University Press, 2001.
 
 ## 👤 Geoffrey West
 
