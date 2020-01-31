@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    27 January 2020
+Date:    31 January 2020
 
 
 # Collapse Lingo
@@ -182,6 +182,31 @@ stock-in-trade
 
 via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
+## Climate change adaptation
+
+[Climate change adaptation - Wikipedia](https://en.wikipedia.org/wiki/Climate_change_adaptation)
+
+climate change adaptation
+:    adjustments to natural or human systems in response to actual or expected climate change, including increases in the frequency or severity of weather-related disasters. _The IPCC defines adaptation as "the process of adjustment to actual or expected climate and its effects. In human systems, adaptation seeks to moderate or avoid harm or exploit beneficial opportunities. In some natural systems, human intervention may facilitate adjustment to expected climate and its effects"_ Examples: flood defences, planning laws, irrigation systems (Singh et al, 2016)
+
+*[CCA]: climate change adaptation
+
+> [The Deep Adaptation Agenda] does not seek to build on existing scholarship on "climate adaptation" as it is premised on the view that social collapse is now inevitable
+
+– <kbd>[👤 Jem Bendell](#jem-bendell)</kbd> - [Deep Adaptation](#deep-adaptation): A Map for Navigating our Climate Tragedy (2018)
+
+## Climate change mitigation
+
+[Climate change mitigation - Wikipedia](https://en.wikipedia.org/wiki/Climate_change_mitigation)
+
+climate change mitigation
+:    actions to limit the magnitude or rate of long-term global warming and its related effects. Examples: reductions in anthropogenic emissions of greenhouse gases (GHGs), increasing capacity of carbon sinks such as reforestation
+
+>  Important steps on climate mitigation and adaptation have been taken over the past decade. However, these steps could now be regarded as equivalent to walking up a landslide. If the landslide had not already begun, then quicker and bigger steps would get us to the top of where we want to be. Sadly, the latest climate data, emissions data and
+data on the spread of carbon-intensive lifestyles show that the landslide has already begun. 
+
+– <kbd>[👤 Jem Bendell](#jem-bendell)</kbd> - [Deep Adaptation](#deep-adaptation): A Map for Navigating our Climate Tragedy (2018)
+
 ## Collapse on rails
 
 <kbd>[👤 Dmitry Orlov](#dmitry-orlov)</kbd>
@@ -253,6 +278,22 @@ via <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd> - Overshoot
 
 – [Decoupling debunked – Evidence and arguments against green growth as a sole strategy for sustainability - EEB - The European Environmental Bureau](https://eeb.org/library/decoupling-debunked/)
 
+## Deep Adaptation
+
+<kbd>[👤 Jem Bendell](#jem-bendell)</kbd>
+
+[Deep Adaptation: A Map for Navigating our Climate Tragedy (2018)](https://www.lifeworth.com/deepadaptation.pdf)
+
+[Deep adaptation: a map for navigating climate tragedy - Insight](http://insight.cumbria.ac.uk/id/eprint/4166/)
+
+deep adaptation
+:     _a new meta-framing of the implications for research, organisational practice, personal development and public policy, called the Deep Adaptation Agenda. Its key aspects of [resilience](#resilience), [relinquishment](#relinquishment) and [restorations](#restoration) are explained. This agenda does not seek to build on existing scholarship on “climate adaptation” as it is premised on the view that social collapse is now inevitable._
+
+The 3 R's:
+
+1. Resilience
+2. Relinquishment
+3. Restoration
 
 ## Degrees of dependence
 
@@ -752,10 +793,13 @@ leapfrog
 
 ## LESS
 
-[LESS](https://thearchdruidreport-archive.200605.xyz/2011/05/hair-shirts-hypocrisy-and-wilkins.html "The Archdruid Report - Hair Shirts, Hypocrisy, and Wilkins Micawber")
+LESS
 :   acronym for Less Energy, Stuff and Stimulation
 
-Coined by <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
+*[LESS]: Less Energy, Stuff and Stimulation
+
+Coined by <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>  
+See [The Archdruid Report - Hair Shirts, Hypocrisy, and Wilkins Micawber](https://thearchdruidreport-archive.200605.xyz/2011/05/hair-shirts-hypocrisy-and-wilkins.html)
 
 ## Law of diminishing productivity
 
@@ -1012,6 +1056,13 @@ via [On the phenomenon of bullshit jobs](https://libcom.org/library/phenomenon-b
 
 See [Jevons paradox](#jevons-paradox)
 
+## Rebuildables
+
+rebuildables
+:    The more fitting name [👤 Nate Hagens](#nate-hagens) uses for renewables
+
+See [Renewables](#renewables)
+
 ## Red Queen Effect
 
 [Cassandra's Legacy: Some reflections on the Twilight of the Oil Age - part I](http://cassandralegacy.blogspot.com/2016/07/some-reflections-on-twilight-of-oil-age.html)
@@ -1039,18 +1090,18 @@ Currently, globally, about 88% of all energy resources are used wastefully -- a 
 
 <!-- stub -->
 
+## Relinquishment
+
+relinquishment
+:    within <kbd>[👤 Jem Bendell](#jem-bendell)</kbd>'s framework of [Deep Adaptation](#deep-adaptation), _it involves people and communities **letting go** of certain assets, behaviours and beliefs where retaining them could make matters worse._
+
+> Examples include withdrawing from coastlines, shutting down vulnerable industrial facilities, or giving up expectations for certain types of consumption
+
 ## Relocation
 
 A collapse preparedness strategy
 
 <!-- stub -->
-
-## Rebuildables
-
-rebuildables
-:    The more fitting name [👤 Nate Hagens](#nate-hagens) uses for renewables
-
-See [Renewables](#renewables)
 
 ## Renewables
 
@@ -1077,6 +1128,10 @@ resilience
 
 As <kbd>[👤 James Howard Kunstler](#james-howard-kunstler)</kbd> puts it, "efficiency is the straightest path to hell", because there is little or no capacity to adapt in a maxed out system.
 
+> In pursuit of a conceptual map of “deep adaptation,” we can conceive of resilience of human societies as the **capacity to adapt to changing circumstances so as to survive with valued norms and behaviours.**
+
+– <kbd>[👤 Jem Bendell](#jem-bendell)</kbd> - [Deep Adaptation](#deep-adaptation): A Map for Navigating our Climate Tragedy (2018)
+
 ## Reskilling
 
 <!-- stub -->
@@ -1086,6 +1141,15 @@ As <kbd>[👤 James Howard Kunstler](#james-howard-kunstler)</kbd> puts it, "eff
 > The best example of this phenomenon is, I think, with today's planes. They have noticeably slowed down from the time of the supersonic Concorde, to emphasize efficiency and comfort. The Concorde was simply too expensive to be a practical technology: it was a plane in overshoot. It is likely that something like that will happen to today's smartphones - right now, they are wonderful devices, but they are in a condition of resource overshoot. In the future, we will not be able to maintain their extreme performance facing the increasing costs of rare mineral resources. That doesn't mean that smartphones will disappear (although that's not impossible) but it means that some kind of compromise between performance and cost will have to be reached.
 
 [Cassandra's Legacy: The age of diminishing technological returns: a review of "The Age of Low Technologies" by Philippe Bihouix](https://cassandralegacy.blogspot.com/2014/07/the-age-of-diminishing-technological.html)
+
+## Restoration
+
+restoration
+:    within <kbd>[👤 Jem Bendell](#jem-bendell)</kbd>'s framework of [Deep Adaptation](#deep-adaptation), _it involves people and communities **rediscovering attitudes and approaches to life and organisation** that our hydrocarbon-fuelled civilisation eroded_
+
+>  Examples include re-wilding landscapes, so they provide more ecological benefits and require less management, changing diets back to match the seasons, rediscovering non-electronically powered forms of play, and increased community-level productivity and support.
+
+Related: [retrovation](#retrovation), [LESS](#less)
 
 ## Retrovation
 
@@ -1524,6 +1588,12 @@ Twitter: [@nntaleb](https://twitter.com/nntaleb/)
 
 [Nicole Foss Archives - The Automatic Earth](https://www.theautomaticearth.com/tag/nicole-foss/)
 
+## 👤 Jem Bendell
+
+[Professor Jem Bendell – Notes from a strategist & educator on social & organisational change, now focused on #DeepAdaptation](https://jembendell.com/)
+
+[Deep Adaptation](#deep-adaptation)
+
 ## 👤 John Pugsley
 
 [Author: John Pugsley - Worldcat](http://www.worldcat.org/search?q=au%3APugsley%2C+John+A.&qt=hot_author)
@@ -1599,3 +1669,4 @@ Twitter: [@vgr](https://twitter.com/vgr "Venkatesh Guru Rao on Twitter")
 *[EROEI]: Energy Return On Energy Invested
 *[EROC]: Energy Return On Carbon
 *[NTW]: Near-Term Extinction
+*[GHGs]: greenhouse gases
