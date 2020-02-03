@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    31 January 2020
+Date:    4 February 2020
 
 
 # Collapse Lingo
@@ -206,6 +206,15 @@ climate change mitigation
 data on the spread of carbon-intensive lifestyles show that the landslide has already begun. 
 
 – <kbd>[👤 Jem Bendell](#jem-bendell)</kbd> - [Deep Adaptation](#deep-adaptation): A Map for Navigating our Climate Tragedy (2018)
+
+## Cloaked adaptation
+
+<kbd>Identify / Coin</kbd>
+
+cloaked adaptation
+:   building up or promoting collapse transferrable skills. Example: physical fitness
+
+These are activities that work in pre-crisis contexts but also put one in a better position when SHTF. Identifying these makes you better able to relate with people of a wider spectrum of collapse awareness. People may be more receptive to proposals framed without involving collapse. Cloaking adaptation initiatives leaves the option of deferring the psychological cost of coming to terms with collapse, which may be desirable.
 
 ## Collapse on rails
 
