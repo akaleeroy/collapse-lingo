@@ -4,13 +4,14 @@ At this point this isn't an authoritative list. Some key terms are missing, othe
 
 ## TODOs
 
+- [ ] Switch to RST?
+- [ ] Notions from [Joseph Tainter - What is Transformation?](https://www.youtube.com/watch?v=T0gFP0zW_qY)
 - [ ] Terms from John Michael Greer - How Civilizations Fall - A Theory of Catabolic Collapse (2005)
 - [ ] Terms from Richard Heinberg's books
 - [ ] Terms from James Howard Kunstler's books
 - [ ] Terms from Joseph Tainter's books
 - [ ] Terms from [The Lexicon.org: words to change your world](http://www.thelexicon.org/)
 - [ ] Indexes and glossary from Long Descent
-- [ ] Reassess writing format
 
 
 ## Contributing
