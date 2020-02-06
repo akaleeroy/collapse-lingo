@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    4 February 2020
+Date:    6 February 2020
 
 
 # Collapse Lingo
@@ -131,6 +131,14 @@ See [NTE](#near-term-extinction)
 
 See [The Archdruid Report - Captain Erikson's Equation](https://thearchdruidreport-archive.200605.xyz/2014/03/captain-eriksons-equation.html)
 
+## Carbon dioxide
+
+Other than its GHG effects there are also direct health effects from a high concentration of CO₂
+
+See this compilation by /u/MrVisible on /r/doomsdaycult: [The long-term effects of carbon dioxide on human health : doomsdaycult](https://www.reddit.com/r/doomsdaycult/comments/68be18/the_longterm_effects_of_carbon_dioxide_on_human/)
+
+Another thread: [Great Stuffiness in the Air will be Felt Worldwide in the Coming Decades as we Inch Closer to 450ppm C02 : collapse](https://www.reddit.com/r/collapse/comments/eyzjnd/great_stuffiness_in_the_air_will_be_felt/)
+
 ## Cascaded failure
 
 <!-- stub -->
@@ -209,12 +217,29 @@ data on the spread of carbon-intensive lifestyles show that the landslide has al
 
 ## Cloaked adaptation
 
-<kbd>Identify / Coin</kbd>
+<kbd>Identify / Coin</kbd> <kbd>Preparation</kbd> <kbd>Coping</kbd> <kbd>Psychology</kbd>
 
 cloaked adaptation
 :   building up or promoting collapse transferrable skills. Example: physical fitness
 
-These are activities that work in pre-crisis contexts but also put one in a better position when SHTF. Identifying these makes you better able to relate with people of a wider spectrum of collapse awareness. People may be more receptive to proposals framed without involving collapse. Cloaking adaptation initiatives leaves the option of deferring the psychological cost of coming to terms with collapse, which may be desirable.
+These are activities that work in pre-crisis contexts but also put one in a better position when SHTF. Identifying these makes you better able to relate with people of a wider spectrum of collapse awareness. People may be more receptive to proposals framed without involving collapse. Cloaking adaptation initiatives leaves the option of deferring or avoiding the psychological cost of coming to terms with collapse ([ignore-ance](#ignore-ance)), which may be desirable.
+
+## _Collapse now and avoid the rush_
+
+<kbd>[👤 John Michael Greer](#john-michael-greer)</kbd> <kbd>Preparation</kbd>
+
+A collapse preparedness strategy.
+
+> – So, what you're saying is that what we need to do, individually, is to go through collapse right away.
+> - Exactly. Collapse now, and avoid the rush.
+
+> The way to avoid the rush is simple enough: figure out how you will be able to live after the next wave of crisis hits, and to the extent that you can, _start living that way now._
+
+– [The Archdruid Report: Collapse Now and Avoid the Rush](https://thearchdruidreport-archive.200605.xyz/2012/06/collapse-now-and-avoid-rush.html)
+
+Also an anthology [Collapse now and avoid the rush : The Best of the Archdruid Report (2015)](https://www.worldcat.org/title/collapse-now-and-avoid-the-rush-the-best-of-the-archdruid-report/oclc/1017956812)
+
+Related: [earthshot](#earthshot), projects aiming for a level of complexity several steps lower than the one sustainable at that time
 
 ## Collapse on rails
 
@@ -232,6 +257,8 @@ via <kbd>[👤 Dr. Edward Morbius](#dr-edward-morbius)</kbd>
 vs [dissensus](#dissensus)
 
 ## Constructive paranoia
+
+<kbd>Risk</kbd>
 
 via <kbd>[👤 Jared Diamond](#jared-diamond)</kbd>
 
@@ -253,6 +280,7 @@ from [The Archdruid Report - The Era of Impact](https://thearchdruidreport-archi
 ## Credo
 
 > The redoubtable H.L. Mencken, writing at a time when such things were not quite as universal in the American mass mind than they have become since then, called them “credos.” It was an inspired borrowing from the Latin credo, “I believe,” but its relevance extends far beyond the religious sphere.
+
 – [The Archdruid Report - Mentats Wanted, Will Train](https://thearchdruidreport-archive.200605.xyz/2014/04/mentats-wanted-will-train.html)
 
 ## Creeping normalcy 
@@ -300,9 +328,9 @@ deep adaptation
 
 The 3 R's:
 
-1. Resilience
-2. Relinquishment
-3. Restoration
+1. [Resilience](#resilience)
+2. [Relinquishment](#relinquishment)
+3. [Restoration](#restoration)
 
 ## Degrees of dependence
 
@@ -314,7 +342,7 @@ The 3 R's:
 
 > Demand destruction is a permanent downward shift on the demand curve in the direction of lower demand of a commodity, such as energy products, induced by a prolonged period of high prices or constrained supply.
 
-> It's one of the repeated lessons of economic history that money in the hands of the rich does much less good for the economy as a whole than money in the hands of the working classes and the poor. The reasoning here is as simple as it is inescapable. Industrial economies survive and thrive on consumer expenditures, but consumer expenditures are limited by the ability of consumers to buy the things they want and need. As money is diverted away from the lower end of the economic pyramid, you get demand destruction — the process by which those who can't afford to buy things stop buying them — and consumer expenditures fall off. The rich, by contrast, divert a large share of their income out of the consumer economy into investments; the richer they get, the more of the national wealth ends up in investments rather than consumer expenditures; and as consumer expenditures falter, and investments linked to the consumer economy falter in turn, more and more money ends up in illiquid speculative vehicles that are disconnected from the productive economy and do nothing to stimulate demand. That's what happened in the 1920s.
+> It's one of the repeated lessons of economic history that money in the hands of the rich does much less good for the economy as a whole than money in the hands of the working classes and the poor. The reasoning here is as simple as it is inescapable. Industrial economies survive and thrive on consumer expenditures, but consumer expenditures are limited by the ability of consumers to buy the things they want and need. As money is diverted away from the lower end of the economic pyramid, you get demand destruction — **the process by which those who can't afford to buy things stop buying them** — and consumer expenditures fall off. The rich, by contrast, divert a large share of their income out of the consumer economy into investments; the richer they get, the more of the national wealth ends up in investments rather than consumer expenditures; and as consumer expenditures falter, and investments linked to the consumer economy falter in turn, more and more money ends up in illiquid speculative vehicles that are disconnected from the productive economy and do nothing to stimulate demand. That's what happened in the 1920s.
 
 – [The Archdruid Report - The Era of Impact](https://thearchdruidreport-archive.200605.xyz/2015/05/the-era-of-impact_20.html)
 
@@ -1108,6 +1136,8 @@ relinquishment
 
 ## Relocation
 
+<kbd>Preparation</kbd>
+
 A collapse preparedness strategy
 
 <!-- stub -->
@@ -1171,11 +1201,10 @@ from [The Archdruid Report - A Time for Retrovation](https://thearchdruidreport-
 
 ## Reverse wealth pump for the Age of Salvage
 
-<kbd>Identify / Coin</kbd>
+<kbd>Identify / Coin</kbd> <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
-Designing assets to be bought by the rich in the present that will ultimately end up stranded, to be used as raw material by salvage societies.
-
-Like batteries from [electric mining equipment](https://www.reuters.com/article/us-mining-electric-goldcorp/first-new-all-electric-mine-dumps-diesel-cuts-costs-pollution-idUSKBN1JH2FI "First new all-electric mine dumps diesel; cuts costs, pollution")
+reverse wealth pump for the Age of Salvage
+:    Designing assets to be bought by the rich in the present that will ultimately end up stranded, to be used as raw material by salvage societies. Example: batteries from [electric mining equipment](https://www.reuters.com/article/us-mining-electric-goldcorp/first-new-all-electric-mine-dumps-diesel-cuts-costs-pollution-idUSKBN1JH2FI "First new all-electric mine dumps diesel; cuts costs, pollution")
 
 > (...) What if we could somehow design products FOR dismantling? Whip up some gadget frenzy among the rich of today, get them to buy up said gadget in droves until it's fairly ubiquitous, then have them dispose of it (fad is over / planned obsolescence / etc.) then when it gets to the Global South that gadget is full of useful modules for off-grid homesteading, that poor people can make use of with a bit of tinkering (think Cuba). Like washing machine motors can be useful for wind power generation.
 
@@ -1195,7 +1224,7 @@ from [akaleeroy comments on Collapseniks conveniently squeezed into boxes (prett
 
 > The scissors model of Malthusian collapse, where the population grows without limit and resources do not, is the idea of great opposing environmental forces cutting into each other.
 
-[Societal collapse - Wikipedia](https://en.wikipedia.org/wiki/Societal_collapse)
+See [Societal collapse](#societal-collapse)
 
 ## Self-sufficiency
 
@@ -1221,15 +1250,26 @@ Slow steaming refers to the practice of operating transoceanic cargo ships, espe
 
 ## Social altitude
 
-<kbd>Identify / Coin</kbd> <kbd>Coping</kbd> <kbd>Psychology</kbd> <kbd>Society</kbd>
+<kbd>Identify / Coin</kbd> <kbd>[Denial](#denial)</kbd> <kbd>Coping</kbd> <kbd>Psychology</kbd> <kbd>Society</kbd>
 
 > The highest have the farthest to fall
 
-A hypothesis that accounts for why some people are better positioned to entertain the possibility of collapse – they are less invested in the system: 
+A hypothesis that accounts for why some people are better positioned to entertain the possibility of collapse, – they are less invested in the system – whereas people with senior roles in our society are more conservative.
 
 > Since the [Deep Adaptation] paper came out, I have come to consider a new reason why societal collapse is inevitable. It came to me [when I spoke at the European Commission](http://iflas.blogspot.com/2019/05/as-news-of-our-climate-predicament.html). During [my talk I did a quick poll](https://www.youtube.com/watch?v=Ke1PCgiM3V4) to discover that about 90 percent of the officials in the room believed that collapse is coming within their lifetimes. Yet their ability to conceive of what was appropriate to discuss as policy responses and activism was, in general, woeful. The ideas being shared were more of the same tinkering with capitalism and redirecting private investment into mitigation efforts. Why? One hypothesis is that **the highest have the farthest to fall.** If one is well-respected, well-paid, and living well in the current system, perhaps with a sense of responsibility for lots of employees and stakeholders, then one has the most to let go of in order to allow the full impact of our current situation to sink in. At a sub-conscious level it eats away at assumptions you didn’t know you had. For instance, assuming that one would be respected by your children and younger generations as you enter old age, and, ultimately as you lie on your death bed. To be successful in society means one is having affirmed, daily, the illusion of the socially-respected agentic separate Self. Instead, our climate chaos invites us to see that we aren’t separate, we aren’t in control and our stories of self-respect and meaning were always made up. We must let our deepest assumptions and stories melt away to find what else can emerge. That may be why I have a better time talking to children about collapse than I do talking to people with senior jobs.
 
 – <kbd>[👤 Jem Bendell](#jem-bendell)</kbd> - [A Year of Deep Adaptation – Professor Jem Bendell](https://jembendell.com/2019/07/07/a-year-of-deep-adaptation/)
+
+Related: [Strategic ignorance](#strategic-ignorance)
+
+## Societal collapse
+
+[Societal collapse - Wikipedia](https://en.wikipedia.org/wiki/Societal_collapse)
+
+<!--  -->
+
+societal collapse <kbd>[👤 Jem Bendell](#jem-bendell)</kbd> <kbd>[Deep Adaptation](#deep-adaptation)</kbd>
+:   _the uneven ending of our current means of sustenance, shelter, security, pleasure, identity and meaning. Others may prefer the term societal breakdown when referring to the same process._
 
 ## Squeeze
 
@@ -1249,21 +1289,21 @@ startdown
 :   a decline-aware startup. A new organization focused on solutions for prosperous descent.
     > Enshrine the values of tomorrow into the code of today.
 
-See also [Earthshot](#earthshot)
+Related: [earthshot](#earthshot)
 
 ## stordalen
 
 <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
 stordalen
-:    carbon footprint unit equivalent to a single bacon cheeseburger :hamburger: `4.15 lbs` (`1.88 kg`) CO₂.  
+:    carbon footprint unit equivalent to a single bacon cheeseburger :hamburger: `4.15 lbs` (`1.88 kg`) CO₂e.  
      Example: _Ms. Stordalen's wedding celebration flight came in a little under 10.5 kilostordalens (ks)_
 
 > (...) about Ms. Stordalen and her 10,491-bacon-cheeseburger flight. (It suddenly occurs to me that a stordalen, equivalent to 4.15 lbs of CO2 — the carbon dioxide footprint of a single a bacon cheeseburger — would make a good measure of carbon footprint more generally. The flight just mentioned thus came in a little under 10.5 kilostordalens (ks); how many megastordalens (Ms) or even terastordalens (Ts) get churned out by the lifestyles of today’s privileged is a question I think few of them would want to answer.)
 
 – [A Wilderness of Mirrors - Ecosophia](https://www.ecosophia.net/a-wilderness-of-mirrors/)
 
-## Strategic Ignorance
+## Strategic ignorance
 
 > Sudden, total inability to comprehend a datum one finds inconvenient.
 
@@ -1317,7 +1357,21 @@ via <kbd>[👤 Toby Hemenway](#toby-hemenway)</kbd>
 <kbd>[👤 Rob Hopkins](#rob-hopkins)</kbd>
 
 > Sustainable = the mid-point between degenerative actions and regenerative actions.  
+
 – <kbd>[👤 Toby Hemenway](#toby-hemenway)</kbd>
+
+### The Four Questions of Sustainability
+
+> We can bring a degree of rigor to our discourse by a simple step. Each time one hears the word sustainability insist that the speaker answer four questions:
+
+> 1. Sustain **what?**
+> 2. Sustain it **for whom?**
+> 3. Sustain it **for how long?** and
+> 4. Sustain it **at what cost?**
+
+> These questions appear simple on the surface but the ease with which they may be offered obscures their power. Asking these questions carries one deeply into a rigorous assessment of what sustainability means and how it may be achieved in specific situations.
+
+– <kbd>[👤 Joseph Tainter](#joseph-tainter)</kbd>, taken from [Joseph Tainter - What is Transformation?](https://www.youtube.com/watch?v=T0gFP0zW_qY)
 
 <!--  -->
 
@@ -1419,6 +1473,12 @@ trading up
 from <kbd>[👤 Venkatesh Rao](#venkatesh-rao)</kbd> <kbd>[RibbonFarm](https://www.ribbonfarm.com)</kbd> [Acting Dead, Trading Up and Leaving the Middle Class](https://www.ribbonfarm.com/2011/12/08/acting-dead-trading-up-and-leaving-the-middle-class/)
 
 See Lost Generation, Downshifting
+
+## Transformation
+
+<!-- stub -->
+
+See [Joseph Tainter - What is Transformation?](https://www.youtube.com/watch?v=T0gFP0zW_qY)
 
 ## Turboparalysis
 
@@ -1690,4 +1750,5 @@ Twitter: [@vgr](https://twitter.com/vgr "Venkatesh Guru Rao on Twitter")
 *[EROEI]: Energy Return On Energy Invested
 *[EROC]: Energy Return On Carbon
 *[NTW]: Near-Term Extinction
+*[GHG]: greenhouse gas
 *[GHGs]: greenhouse gases
