@@ -366,6 +366,21 @@ Repairing and reusing technology is becoming harder instead of easier. __Descent
 
 Related: [Dmitry Orlov - Shrinking the Technosphere (2017)](http://www.worldcat.org/title/shrinking-the-technosphere-getting-a-grip-on-the-technologies-that-limit-our-autonomy-self-sufficiency-and-freedom/oclc/960097215)
 
+## Dilemma
+
+dilemma
+:    a choice between two undesirable options.
+
+> A dilemma is a problem offering two possibilities, neither of which is unambiguously acceptable or preferable. The possibilities are termed the _horns_ of the dilemma, a clichéd usage, but distinguishing the dilemma from other kinds of predicament as a matter of usage.
+
+– [Dilemma - Wikipedia](https://en.wikipedia.org/wiki/Dilemma)
+
+> “(n)o population on the planet today is going to willingly trade economic power for lower carbon emissions, especially since economic power remains the key index of global status.”
+
+– Roy Scranton - [Learning to Die in the Anthropocene: Reflections on the End of a Civilization](https://www.goodreads.com/book/show/25330145-learning-to-die-in-the-anthropocene), p. 43
+
+Related: [Hobson's choice](#hobsons-choice)
+
 ## Diminishing returns
 
 <!-- stub  -->
@@ -751,6 +766,19 @@ Related: Appropriate Technology, Intermediate technology, Graceful degradation, 
 <kbd>Fossil Fuels</kbd>
 
 <!-- stub -->
+
+## Hobson's choice
+
+[Hobson's choice - Wikipedia](https://en.wikipedia.org/wiki/Hobson%27s_choice)
+
+Hobson's choice
+:   a free choice in which only one thing is offered. Because a person may refuse to accept what is offered, the two options are taking it or taking nothing. In other words, one may **"take it or leave it".**
+
+> After generations of industrial agriculture, much of the world’s arable land is so depleted that it can no longer produce crops without significant inputs of nitrogen, potassium, phosphorus and other minerals. Unless the deindustrializing world can find a readily available, abundant and concentrated source of plant nutrients to replace chemical fertilizers before fossil fuels begin to run short, it’s not much of an exaggeration to say that future humanity may face a Hobson’s choice, in which dwindling supplies of fossil fuels can be used to produce fertilizer to keep people from starving to death, or electricity and heat to keep them from freezing in the dark — but not both.
+
+– John Michael Greer, _The Ecotechnic Future: Envisioning a Post-Peak World,_ p. 112
+
+Related: [dilemma](#dilemma)
 
 ## Homeostasis
 
@@ -1554,6 +1582,31 @@ One of the central myths of modern society is that the process of urbanization (
 
 from [The Archdruid Report - The Era of Pretense](https://thearchdruidreport-archive.200605.xyz/2015/05/the-era-of-pretense.html)
 
+## Wicked problems
+
+[Wicked Problems - LEAN LOGIC](http://theleaneconomyconnection.org/glossary/wicked-problems/)
+
+wicked problems
+:    _highly complex problems which cannot be solved in a straightforward way, and may not be soluble at all._
+
+> We need to be aware of their existence because the problems we are now facing are wicked. If we cannot see a solution, that does not necessarily mean that we have not understood the problem; it may mean that there isn't one.
+
+> The main features of a wicked problem are: 
+> 
+> - _Vagueness:_ they lack clear definition because they spill over into many different issues and systems.
+> - _Hard to grasp:_ they can be recognised from one or two perspectives, but are too complex to understand in the round.
+> - _Populated:_ they affect many people: solutions are likely to be social rather than technical.
+> - _No right answer:_ the best that can be done is to pick the least bad response.
+> - _Changeable:_ the problem, and attitudes bother to it and to solutions, are constantly changing.
+> - _No definition:_ the problem may be hard even to identify in a form that allows it to be shared.
+> - _No solution?:_ there is no objective clear definition of the problem, so no definitive solution.
+> - _No clean ending:_ the problem-solving ends when money and time run out.
+> 
+> But do not believe that a problem is wicked because someone tells you so. Look again.
+
+
+– [👤 David Fleming](#david-fleming). _Lean Logic: A dictionary for the future and how to survive it._ 2016, p. 499
+
 ## 👤 Augustin Mouchot
 
 <kbd>Solar</kbd>
@@ -1576,6 +1629,14 @@ See [The Archdruid Report - The Steampunk Future Revisited](https://thearchdruid
 <kbd>Tangential</kbd>
 
 [Bruce Sterling at WIRED](https://www.wired.com/author/bruce-sterling/)
+
+## 👤 David Fleming
+
+[David Fleming (writer) - Wikipedia](https://en.wikipedia.org/wiki/David_Fleming_(writer))
+
+Author of [Lean Logic: A Dictionary of the future and how to survive it (2016)](https://www.goodreads.com/book/show/16004487-lean-logic)
+
+The dictionary is now available online: [List of entries - LEAN LOGIC](http://theleaneconomyconnection.org/glossary/)
 
 ## 👤 David Graeber
 
@@ -1684,6 +1745,12 @@ Twitter: [@nntaleb](https://twitter.com/nntaleb/)
 <kbd>Transition Movement</kbd>
 
 [Rob Hopkins' blog](https://www.robhopkins.net/)
+
+## 👤 Roy Scranton
+
+[RoyScranton.com](http://royscranton.com/)
+
+[Roy Scranton (Author of Learning to Die in the Anthropocene) | Goodreads](https://www.goodreads.com/author/show/5813320.Roy_Scranton)
 
 ## 👤 Toby Hemenway
 
