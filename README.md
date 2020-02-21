@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    6 February 2020
+Date:    21 February 2020
 
 
 # Collapse Lingo
@@ -11,9 +11,34 @@ Rounding up collapse lingo, terminology, jargon, terms of art, concepts, tropes,
 
 [TOC]
 
+## 6WTD
+
+<kbd>[👤 Vinay Gupta](#vinay-gupta)</kbd>
+
+Six Ways To Die framework
+
+## Accelerationism
+
+[Accelerationism - Wikipedia](https://en.wikipedia.org/wiki/Accelerationism)
+
+<!-- stub -->
+
 ## Age of Limits
 
 <!-- stub -->
+
+## Age of Salvage
+
+<kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
+
+> when a civilization breaks down, the most efficient economies are most often those that use its remains as raw material.
+
+– John Michael Greer, _The Ecotechnic Future: Envisioning a Post-Peak World,_ p. 71
+
+See also:
+
+- [The Archdruid Report: The Strategy of Salvage](https://thearchdruidreport-archive.200605.xyz/2006/08/strategy-of-salvage.html)
+- [The Archdruid Report: The Age of Salvage Societies](https://thearchdruidreport-archive.200605.xyz/2007/10/age-of-salvage-societies.html)
 
 ## Agnotology
 
@@ -66,7 +91,7 @@ See also [Squeeze](#squeeze)
 
 ## Bridge technology
 
-See [High tech dip](#high-tech-dip)
+See [High-tech dip](#high-tech-dip)
 
 ## Broken window fallacy
 
@@ -248,6 +273,25 @@ Related: [earthshot](#earthshot), projects aiming for a level of complexity seve
 collapse on rails
 :   _Rather than collapse as an event (after which recovery is theoretically possible) what we have in the Ukraine is collapse on rails — an inexorable, systematic hollowing-out and pauperization._
 
+## Collapse OS
+
+<kbd>Descent computing</kbd>
+
+[Collapse OS — Bootstrap post-collapse technology](https://collapseos.org/)
+
+> [Winter is coming](https://collapseos.org/why.html) and Collapse OS aims to soften the blow. It is a z80 kernel and a collection of programs, tools and documentation that aims to preserve our ability to program microcontrollers through civilizational collapse. Collapse OS brought to completion can:
+> 
+> - Run on minimal and improvised machines.
+> - Interface through improvised means (serial, keyboard, display).
+> - Edit text files.
+> - Compile assembler source files for a wide range of MCUs and CPUs.
+> - Read and write from a wide range of storage devices.
+> - Replicate itself.
+>
+> Additionally, the goal of this project is to be as self-contained as possible. With a copy of this project, a capable and creative person should be able to manage to build and install Collapse OS without external resources (i.e. internet) on a machine of her design, built from scavenged parts with low-tech tools.
+
+An example of an [earthshot](#earthshot) to the [Age of Salvage](#age-of-salvage).
+
 ## Confusopoly
 
 via <kbd>[👤 Dr. Edward Morbius](#dr-edward-morbius)</kbd>
@@ -283,7 +327,7 @@ from [The Archdruid Report - The Era of Impact](https://thearchdruidreport-archi
 
 – [The Archdruid Report - Mentats Wanted, Will Train](https://thearchdruidreport-archive.200605.xyz/2014/04/mentats-wanted-will-train.html)
 
-## Creeping normalcy 
+## Creeping normalcy
 
 <kbd>[👤 Jared Diamond](#jared-diamond)</kbd>
 
@@ -353,6 +397,15 @@ The 3 R's:
 via [Mark Shepard - Slow Living Summit #2: Permaculture & Economic Sustainability (2017)](https://www.youtube.com/watch?v=Jm4eRuNqz2E )  [#t=00:15:30](https://www.youtube.com/watch?v=Jm4eRuNqz2E&t=15m30s)
 
 Also see [Peak Oil Denial Bingo!](#peak-oil-denial-bingo)
+
+Inability to accept also takes more subtle forms, touched upon by [👤 Jem Bendell](#jem-bendell) in a [Deep Adaptation](#deep-adaptation) presentation:
+
+1. **Too difficult:** like an ostrich sticking its head in the sand. _I don't know how to integrate this in my life_
+2. **Keep busy:** like Sisyphus pushing that rock up the hill. Environmental NGOs going _buy this green thing_
+
+The reponse proposed by Jem is can be called [Get ready](#get-ready)
+
+– [Jem Bendell & Toni Spencer - Deep Adaptation talk](https://www.youtube.com/watch?v=daRrbSl1yvY&t=1217)
 
 ## Dependence
 
@@ -455,7 +508,7 @@ Commonly used value: 150 people.
 <kbd>Identify / Coin</kbd>
 
 earthshot
-:   The startdown equivalent of a moonshot
+:   Am ambitious project aimed at a society several steps lower in complexity than the one sustainable at that time. The [startdown](#startdown) equivalent of a moonshot. Example: [Collapse OS](#collapse-os)    
     > Startups do moonshots, [startdowns](#startdown) point the rocket down to Earth.
 
 In a decline regime (assuming [catabolic collapse](#catabolic-collapse)) short-term, incremental projects risk failure when society drops to a lower level of complexity. It's not possible to predict when problems will arise, but it is possible to judge the resilience of things a project depends on. For instance, if success depends on a highly complex technological suite (eg. supercomputer clusters), it's vulnerable to numerous kinds of disruptions, thus more likely to fail (see [Liebig's law of the minimum](#liebigs-law-of-the-minimum)).
@@ -473,25 +526,6 @@ eco-anxiety
 
 For more coping topics see [/r/CollapseSupport](https://www.reddit.com/r/CollapseSupport)
 
-## EROC
-
-EROC
-:   [Energy Return On Carbon](#energy-return-on-carbon)
-
-## EROI
-
-EROI
-:   [Energy Return On Investment](#energy-return-on-energy-invested)
-
-*[EROI]: Energy Return on Investment
-
-## EROEI
-
-EROEI
-:   [Energy Return On Energy Invested](#energy-return-on-energy-invested)
-
-*[EROEI]: Energy Return on Energy Invested
-
 ## Efficiency
 
 The opposite of resilience.
@@ -503,6 +537,12 @@ The opposite of resilience.
 There is little to no capacity to adapt in a maxed out system.
 
 See [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208)
+
+## Electric vehicles
+
+> Another often overlooked fact is that a wholesale conversion to electric cars will destroy the market for gasoline. Nobody is even suggesting getting rid of diesel trucks or construction equipment, emergency diesel generators or locomotives, or ships which run on bunker fuel, or having jet aircraft burn anything other than jet fuel, so petroleum distillates will still be in high demand. But they will now be twice as expensive. You see, roughly half of what can be usefully produced from a barrel of crude oil is what ends up being blended and marketed as gasoline. If that half of each oil barrel can’t be sold, the prices of the remaining liquid fuels will double, as will freight rates. This will trigger a recession that will, among other things, destroy demand for electric cars. If gasoline prices drop through the floor and electricity rates shoot through the roof, what sane person would choose an electric car? **And so it turns out that converting to electric cars is a good way to… not convert to electric cars.**
+
+– [Dmitry Orlov - A Walk in the Garden of Unintended Consequences](https://www.patreon.com/posts/11312602)
 
 ## Embodied energy
 
@@ -613,6 +653,29 @@ via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
 <!-- stub -->
 
+## EROC
+
+EROC
+:   [Energy Return On Carbon](#energy-return-on-carbon)
+
+## EROI
+
+EROI
+:   [Energy Return On Investment](#energy-return-on-energy-invested)
+
+*[EROI]: Energy Return on Investment
+
+## EROEI
+
+EROEI
+:   [Energy Return On Energy Invested](#energy-return-on-energy-invested)
+
+*[EROEI]: Energy Return on Energy Invested
+
+## EVs
+
+See [Electric vehicles](#electric-vehicles)
+
 ## Extend and pretend
 
 <kbd>Finance</kbd>
@@ -639,7 +702,7 @@ from [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org
 
 fungibility
 :   (economics) property of a good or a commodity whose individual units are essentially interchangeable.
-    _Crude oil is a fungible commodity._
+    Example: _Crude oil is a fungible commodity._
 
 via <kbd>[👤 Michael Ruppert](#michael-ruppert)</kbd>
 
@@ -649,7 +712,7 @@ via <kbd>[👤 Michael Ruppert](#michael-ruppert)</kbd>
 
 via [👤 Derrick Jensen](#derrick-jensen)
 
-## _Get woke, go broke_
+## Get woke, go broke
 
 via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
@@ -662,6 +725,16 @@ via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 – [Adrift In An Airship - Ecosophia](https://www.ecosophia.net/adrift-in-an-airship/)
 
 [Get Woke, Go Broke - Urban Dictionary](http://get-woke-go-broke.urbanup.com/13005249)
+
+## Get ready
+
+<kbd>[👤 Jem Bendell](#jem-bendell)</kbd> <kbd>[Deep Adaptation](#deep-adaptation)</kbd>
+
+> (paraphrasing) I'm suggesting a third way of response, which could be broadly defined as "Get ready". And it's to have conversations **premised on an acceptance of imminent collapse,** but with a faith that through talking with each other, with an open heart and open mind, we can work out what to do. It doesn't mean that we're going (...) to stave off some form of catastrophe (...) but we can at least **look at ways of reducing harm.**
+>
+> And I would even go as far as saying unless we have those conversations now we face losing crucial time to actually help get some form of society into and through this moment. We don't know whether we can, but we lose that chance. Because we're too afraid and we want to stay in [denial](#denial) and not have these conversations.
+
+– [👤 Jem Bendell](#jem-bendell) - [Deep Adaptation - Jem Bendell & Toni Spencer (2019)](https://www.youtube.com/watch?v=daRrbSl1yvY&t=1281)
 
 ## Ghost acreage
 
@@ -689,8 +762,6 @@ Also see [Antipodes](#antipodes)
 
 – [👤 Peter Turchin](#peter-turchin) - [The Ginkgo Model of Societal Crisis - Cliodynamica](http://peterturchin.com/cliodynamica/the-ginkgo-model-of-societal-crisis/)
 
-
-
 ## Gothic High Tech
 
 <kbd>Tangential</kbd>
@@ -707,11 +778,25 @@ via <kbd>[👤 Venkatesh Rao](#venkatesh-rao)</kbd>
 
 See [Descent-friendly Design](#descent-friendly-design)
 
+## Great Refactoring
+
+<kbd>Identify / Coin</kbd> <kbd>[Cornucopianism](#cornucopianism)</kbd> <kbd>Contrarian</kbd>
+
+Information processing with computers underpins present societal complexity and enables desireable adaptation and conservation measures. But it relies on a vastly complex high-tech supply chain that is vulnerable to disruptions.
+
+The Great Refactoring would be the effort to reinvent computing so it's sustainable in the deindustrial future.
+
+Probably re-imagining it to work on a substrate other than the current one, electronics. Silicon chips, electricity, radio communications are all difficult to support without a fossil-fuel subsidized industrial base operating in a stable environment. At least at current levels of performance and cost. 
+
+Even though information processing capabilities are not inherently tied to this physical incarnation of electronic computers, The Great Refactoring is likely a doomed [earthshot](#earthshot), a pipe dream. Although several proofs-of-concept for computing on novel substrates exist in the lab, time, money, planning and physical constraints hamper their timely roll-out.
+
+[Collapse OS](#collapse-os) takes a more pragmatic approach by focusing on electronic computing, but on a level of complexity easier to sustain by fixing with scavenged parts and tools in a collapsing world.
+
 ## Green growth
 
-See [decoupling](#decoupling)
+<kbd>[Cornucopianism](#cornucopianism)</kbd>
 
-Related: [cornucopianism](#cornucopianism)
+See [decoupling](#decoupling)
 
 ## Green Wizardry 
 
@@ -729,15 +814,15 @@ via <kbd>[👤 Venkatesh Rao](#venkatesh-rao)</kbd>
 
 ## Hi-tek dip
 
-See [High tech dip](#high-tech-dip)
+See [High-tech dip](#high-tech-dip)
 
-## High tech dip
+## High-tech dip
 
 <kbd>Identify / Coin</kbd>
 <kbd>Contrarian</kbd>
 <kbd>Conservation</kbd>
 
-high tech dip
+high-tech dip
 :   entombed complexity. a pattern of using high technology to reduce reliance on high technology in the future.  
     _Those folks over at the lab are using artificial neural networks to compress all that knowledge into a handful of slide rules_
 
@@ -745,15 +830,15 @@ Making use of advanced technology today to vet best practices that can be passed
 
 Example: arriving at simpler proxies for high-tech tests. Listened to Dan Kittridge speaking about which lab he works with to get his soil tested, rarer minerals were tested as a bonus. If the tests rely on a burdensome technological suite, maybe we can leverage AI pattern matching to displace those tests, relying only on simpler DIY tests but getting sufficient information from them.
 
-Another example: (mechanical engineering) genetic algorhythm generating millions of designs for a part, stress testing all of them in computer simulation and selecting the most optimal solution. That design can then be copied by craftsmen with hand tools. Ideally it is distributed with documentation (mentioning what it's optimized for, how and why). Or only the form was passed on, to be reproduced _in the dark._ A technology suite that requires high technology only on the first iterations.
+Another example: (mechanical engineering) genetic algorhythm generating millions of designs for a part, stress testing all of them in computer simulation and selecting the most optimal solution. That design can then be copied by craftsmen with hand tools. Ideally it is distributed with documentation (mentioning what it's optimized for, how and why). Or only the form was passed on, to be reproduced _in the dark._ A technology suite that requires high-tech only on the first iterations.
 
 Another different example: using advances in cognitive science to develop teaching and learning methodologies, maximizing the chance that more people will learn new skills required by changing circumstances, faster.
 
-Because the high technology that generated the artifact is lost or unsustainable in the new context a high tech dip is a [dead man walking](https://en.wiktionary.org/wiki/dead_man_walking) technological suite.
+Because the high-tech that generated the artifact is lost or unsustainable in the new context a high-tech dip is a [dead man walking](https://en.wiktionary.org/wiki/dead_man_walking) technological suite.
 
 ### Sprints and scrambles
 
-As a way to preserve benefits of high complexity, along the arc of collapse we may see a scramble for high tech dips, sprints to rules of thumb. Seeing complex systems simplify (collapse), people will want to extract value from them before they're gone for good. To do so they will have to apply this pattern.
+As a way to preserve benefits of high complexity, along the arc of collapse we may see a scramble for high-tech dips, sprints to rules of thumb. Seeing complex systems simplify (collapse), people will want to extract value from them before they're gone for good. To do so they will have to apply this pattern.
 
 - [ ] <kbd>TODO</kbd> Improve examples, condense text, identify concepts, discuss. Like embodied energy ⇒ emergy, entombed complexity ⇒ encomplexity? Because embodied complexity suggests every time an instance is produced, whereas entombed suggests historical relic
 
@@ -814,6 +899,16 @@ The second rule of technological innovation:
 The _fighting tanks with horses_ methaphor.
 
 – <kbd>[👤 Ugo Bardi](#ugo-bardi)</kbd> [Cassandra's Legacy: The Coming Seneca Cliff of the Automotive Industry: the Converging Effect of Disruptive Technologies and Social Factors](https://cassandralegacy.blogspot.com/2017/05/the-coming-seneca-cliff-of-automotive.html)
+
+## Intellectual dark matter
+
+Coined by [👤 Samo Burja](#samo-burja)
+
+> Maybe there's something invisible holding our society together in the exact same way. (...) Intellectual dark matter. I think we are standing on a large tower of intellectual dark matter. And some of the dark matter has been lost for good. And some of it it still with us. And sometimes, unfortunately, I think we're living on the fumes of institutions that remain on autopilot, but the knowledge has been lost.
+>
+> [Intellectual dark matter is] the observation that even if we cannot investigate the knowledge directly we can ascertain the knowledge exists. Just as the invisible mass can be detected through its gravitational effects.
+
+– [Samo Burja - Civilization - Institutions, Knowledge and the Future (2018)](https://www.youtube.com/watch?v=OiNmTVThNEY)
 
 ## _It's different this time_
 
@@ -1184,6 +1279,24 @@ Some problems with trasitioning to wind and solar power infrastructure:
 
 – Comment by [👤 Dmitry Orlov](#dmitry-orlov) on <time datetime="2020-01-16T00:48:23.730Z" title="2020-01-16T00:48:23.730+00:00">16 January 2020</time> on the post [New Decade, New Rules](https://www.patreon.com/posts/new-decade-new-33172813)
 
+## Replacing atoms with bits
+
+<kbd>[👤 Saul Griffith](#saul-griffith)</kbd> <kbd>Conservation</kbd> <kbd>[Energy Efficiency](#energy-efficiency)</kbd> <kbd>Contrarian</kbd> <kbd>Descent computing</kbd>
+
+replacing atoms with bits
+:    the high-tech adaptation strategy of substituting control for material, when it's lighter and cheaper to do so.
+
+> The really big themes I’d like to emphasize, because we need more people to join the club, so to speak, is the importance of being able to substitute a control system — sensors and computers — for actual materials... **We are actually now replacing atoms with bits.**
+
+– [Saul Griffith - SOFT, not SOLID: Beyond Traditional Hardware Engineering (2014)](https://www.youtube.com/watch?v=gyMowPAJwqo&t=12m35s) via [What can a technologist do about climate change? A personal view. > Producing Energy > Computation](http://worrydream.com/ClimateChange/#production-computation)
+
+The catch that many [cornucopians](#cornucopianism) tend to play down is that the wealth generated by replacing atoms with bits is now dependent on a high-tech suite, which comes with a long, vast and energy intensive supply chain that's vulnerable to disruptions. As I'm writing this the COVID-19 pandemic ravaging Asia is causing just these kinds of disruptions.
+
+This problem could be mitigated by:
+
+- [high-tech dips](#high-tech-dip), where a design relies on high-tech for invention, but can be supported with a low-tech suite after it's introduced
+- [The Great Refactoring](#great-refactoring), reinventing computing so it's sustainable in the deindustrial future
+
 ## Resilience
 
 > The opposite of efficiency.
@@ -1242,6 +1355,15 @@ from [akaleeroy comments on Collapseniks conveniently squeezed into boxes (prett
 
 <!-- TODO Re-do illustration -->
 
+## SCIM
+
+<kbd>[👤 Vinay Gupta](#vinay-gupta)</kbd>
+
+SCIM
+:    simple critical infrastructure map. A way to understand vital services and how they keep you safe.
+
+See [Dealing in Security - understanding vital services and how they keep you safe | Infrastructure | Social Group](https://www.scribd.com/document/16355390/Dealing-in-Security-understanding-vital-services-and-how-they-keep-you-safe)
+
 ## Scissors model
 
 <kbd>[👤 Jean-Marc Jancovici](#jean-marc-jancovici)</kbd>
@@ -1299,6 +1421,14 @@ Related: [Strategic ignorance](#strategic-ignorance)
 societal collapse <kbd>[👤 Jem Bendell](#jem-bendell)</kbd> <kbd>[Deep Adaptation](#deep-adaptation)</kbd>
 :   _the uneven ending of our current means of sustenance, shelter, security, pleasure, identity and meaning. Others may prefer the term societal breakdown when referring to the same process._
 
+## Soft development path
+
+<kbd>[👤 Vinay Gupta](#vinay-gupta)</kbd>
+
+[Soft Development Paths - The Gupta Option](http://guptaoption.com/7.soft_development_paths.php)
+
+> The soft development path is an alternative approach to spreading results like those of the Kerala Miracle, in which an Indian region with an average income of $300 per year has attained quality of life as measured by lifespans, literacy and infant mortality very close to those of rich nations. Although not every area may enjoy Kerala's unique social advantages, Kerala proves that it is possible to live well on very little money or ecological impact. Kerala proves it can be done, and appropriate technology will lower the barriers to this kind of success in other regions.
+
 ## Squeeze
 
 > _People are often locked into unsustainable lifestyles._
@@ -1333,12 +1463,13 @@ stordalen
 
 ## Strategic ignorance
 
-> Sudden, total inability to comprehend a datum one finds inconvenient.
-
-<!--  -->
+strategic ignorance
+:    _Sudden, total inability to comprehend a datum one finds inconvenient._
 
 > _It is difficult to get a man to understand something, when his salary depends upon his not understanding it!_  
 – Upton Sinclair
+
+Related: [Denial](#denial)
 
 ## Stress surges
 
@@ -1624,6 +1755,12 @@ See [The Archdruid Report - The Steampunk Future Revisited](https://thearchdruid
 
 [Bill Mollison - Wikipedia](https://en.wikipedia.org/wiki/Bill_Mollison)
 
+## 👤 Bret Victor
+
+[Bret Victor, beast of burden](http://worrydream.com)
+
+[What can a technologist do about climate change? A personal view.](http://worrydream.com/ClimateChange/#production-computation)
+
 ## 👤 Bruce Sterling
 
 <kbd>Tangential</kbd>
@@ -1752,6 +1889,12 @@ Twitter: [@nntaleb](https://twitter.com/nntaleb/)
 
 [Roy Scranton (Author of Learning to Die in the Anthropocene) | Goodreads](https://www.goodreads.com/author/show/5813320.Roy_Scranton)
 
+## 👤 Saul Griffith
+
+Behind Instructables.com, Makani Power, Otherlab.com etc.
+
+Proponent of the un:solid movement
+
 ## 👤 Toby Hemenway
 
 <kbd>Permaculture</kbd>
@@ -1769,6 +1912,12 @@ Twitter: [@nntaleb](https://twitter.com/nntaleb/)
 Blogs at [RibbonFarm](https://www.ribbonfarm.com "Experiments in refactored perception")
 
 Twitter: [@vgr](https://twitter.com/vgr "Venkatesh Guru Rao on Twitter")
+
+## 👤 Vinay Gupta
+
+Initiator of [the Hexayurt project](http://hexayurt.com/) and the [6WTD](#6wtd) framework and [SCIM](#scim)
+
+[The Gupta Option](http://guptaoption.com/7.soft_development_paths.php)
 
 ## 👤 William E. Rees
 
@@ -1819,3 +1968,6 @@ Twitter: [@vgr](https://twitter.com/vgr "Venkatesh Guru Rao on Twitter")
 *[NTW]: Near-Term Extinction
 *[GHG]: greenhouse gas
 *[GHGs]: greenhouse gases
+*[6WTD]: Six Ways To Die
+*[EV]: electric vehicle
+*[EVs]: electric vehicles
