@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    21 February 2020
+Date:    10 June 2020
 
 
 # Collapse Lingo
@@ -370,11 +370,12 @@ via <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd> - Overshoot
 deep adaptation
 :     _a new meta-framing of the implications for research, organisational practice, personal development and public policy, called the Deep Adaptation Agenda. Its key aspects of [resilience](#resilience), [relinquishment](#relinquishment) and [restorations](#restoration) are explained. This agenda does not seek to build on existing scholarship on “climate adaptation” as it is premised on the view that social collapse is now inevitable._
 
-The 3 R's:
+The 4 R's:
 
-1. [Resilience](#resilience)
-2. [Relinquishment](#relinquishment)
-3. [Restoration](#restoration)
+1. [Resilience](#resilience) _What do we most value that we want to keep and how?_
+2. [Relinquishment](#relinquishment) _What do we need to let go of so as not to make matters worse?_
+3. [Restoration](#restoration) _What could we bring back to help us with these difficult times?_
+4. [Reconciliation](#reconciliation) _With what and whom shall we make peace as we awaken to our mutual mortality?_
 
 ## Degrees of dependence
 
@@ -508,7 +509,7 @@ Commonly used value: 150 people.
 <kbd>Identify / Coin</kbd>
 
 earthshot
-:   Am ambitious project aimed at a society several steps lower in complexity than the one sustainable at that time. The [startdown](#startdown) equivalent of a moonshot. Example: [Collapse OS](#collapse-os)    
+:   An ambitious project aimed at a society several steps lower in complexity than the one sustainable at that time. The [startdown](#startdown) equivalent of a moonshot. Example: [Collapse OS](#collapse-os)    
     > Startups do moonshots, [startdowns](#startdown) point the rocket down to Earth.
 
 In a decline regime (assuming [catabolic collapse](#catabolic-collapse)) short-term, incremental projects risk failure when society drops to a lower level of complexity. It's not possible to predict when problems will arise, but it is possible to judge the resilience of things a project depends on. For instance, if success depends on a highly complex technological suite (eg. supercomputer clusters), it's vulnerable to numerous kinds of disruptions, thus more likely to fail (see [Liebig's law of the minimum](#liebigs-law-of-the-minimum)).
@@ -518,6 +519,12 @@ Over time we may witness a [Red Queen](#red-queen-effect) dynamic in which the r
 Therefore it is sensible to dedicate some of the projects to **a level of complexity several steps lower than the one sustainable at that time.** _Expensive, hard or unlikely tasks of great potential impact_ (moonshots) are better protected from collapse contagion if their dependencies can be sustained at lower levels of complexity.
 
 Picture a military retreat: exhaust the benefits of a position, abandon it before it becomes unsustainable, then fall back far enough to a position you have ample resources to defend. Aiming further down the arc of decline allows for better fortification of that position as a backstop.
+
+The idea for the term originates in [Bret Victor's snarky tweets](https://twitter.com/worrydream/status/631360757272154112)
+
+> If any "founders" out there want to "disrupt" our 401ppm atmospheric CO2, or "moonshot" ocean acidification, that would be cool
+
+– Bret Victor [@worrydream](https://twitter.com/worrydream) 10:05 AM • Aug 12, 2015
 
 ## Eco-anxiety
 
@@ -530,7 +537,7 @@ For more coping topics see [/r/CollapseSupport](https://www.reddit.com/r/Collaps
 
 The opposite of resilience.
 
-> efficiency the straightest path to hell
+> efficiency is the straightest path to hell
 
 – <kbd>[👤 James Howard Kunstler](#james-howard-kunstler)</kbd>
 
@@ -543,6 +550,16 @@ See [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/
 > Another often overlooked fact is that a wholesale conversion to electric cars will destroy the market for gasoline. Nobody is even suggesting getting rid of diesel trucks or construction equipment, emergency diesel generators or locomotives, or ships which run on bunker fuel, or having jet aircraft burn anything other than jet fuel, so petroleum distillates will still be in high demand. But they will now be twice as expensive. You see, roughly half of what can be usefully produced from a barrel of crude oil is what ends up being blended and marketed as gasoline. If that half of each oil barrel can’t be sold, the prices of the remaining liquid fuels will double, as will freight rates. This will trigger a recession that will, among other things, destroy demand for electric cars. If gasoline prices drop through the floor and electricity rates shoot through the roof, what sane person would choose an electric car? **And so it turns out that converting to electric cars is a good way to… not convert to electric cars.**
 
 – [Dmitry Orlov - A Walk in the Garden of Unintended Consequences](https://www.patreon.com/posts/11312602)
+
+## Elite panic
+
+elite panic
+:    _when people in positions of power fear the loss of their power and so overreact in violent ways._
+
+> But scientists and historians who study catastrophes for a living have long known that there is, in fact, very little antisocial behavior that takes place after disasters. Rebecca Solnit’s extraordinary book _A Paradise Built in Hell_ describes in great detail the collective sense of “immersion in the moment and solidarity with others” that follows large-scale calamities. The common person rises to the situation to help other people, and there can be a profound experience of well-being, inventiveness, and flexibility. In fact, the worst effects in the aftermath of disasters come when institutions try to impose top-down organization, as the military might. The presumption of mass chaos, looting, murders, rapes—this comes from something disaster scientists call **“elite panic,”** when people in positions of power fear the loss of their power and so overreact in violent ways. Solnit quotes the sociologist Kathleen Tierney’s description of the phenomenon:
+> > fear of social disorder; fear of poor, minorities and immigrants; obsession with looting and property crime; willingness to resort to deadly force; and actions taken on the basis of rumor.
+
+– [[Letter from Saluda] Waiting for the End of the World, by Lauren Groff | Harper's Magazine](https://harpers.org/archive/2020/03/waiting-for-the-end-of-the-world-lauren-groff/)
 
 ## Embodied energy
 
@@ -712,7 +729,7 @@ via <kbd>[👤 Michael Ruppert](#michael-ruppert)</kbd>
 
 via [👤 Derrick Jensen](#derrick-jensen)
 
-## Get woke, go broke
+## _Get woke, go broke_
 
 via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
@@ -756,7 +773,7 @@ Also see [Antipodes](#antipodes)
 
 > The major question on my mind now, instead, is how we could sail through the crisis without a major amount of bloodshed. This is where the “Ginkgo Model” may serve as a useful conceptual device. As I said earlier in this post, the trajectories of entry into structural-demographic crises are fairly narrowly channelized. But once the crisis breaks out, suddenly a much broader fan of possibilities opens up. It’s just like a Ginkgo leaf:
 
-> ![Drawing of a ginkgo leaf](https://i0.wp.com/peterturchin.com/wp-content/uploads/2018/08/ginkgo.jpg)
+> ![Drawing of a ginkgo leaf](http://peterturchin.com/wp-content/uploads/2018/08/ginkgo.jpg)
 
 > Some post-crisis trajectories go to a really dire territory: a bloody civil war, a revolution bringing an oppressive regime, or disintegration of the state into a number of territorial sections. Other post-crisis trajectories are less dire. In the best scenario, the elites manage to pull together and implement the reforms needed to defuse the pressures for crisis—reversing trends of immiseration and elite overproduction and restoring the fiscal health of the state.
 
@@ -1078,7 +1095,7 @@ See [Monopoly of force](#monopoly-of-force)
 
 See [Boiling frog - Wikipedia](https://en.wikipedia.org/wiki/Boiling_frog)
 
-## Niches
+## Niche
 
 <kbd>Ecology</kbd>
 
@@ -1223,6 +1240,14 @@ rebuildables
 
 See [Renewables](#renewables)
 
+## Reconciliation
+
+reconciliation
+:    within <kbd>[👤 Jem Bendell](#jem-bendell)</kbd>'s framework of [Deep Adaptation](#deep-adaptation), _it involves people and communities **rediscovering attitudes and approaches to life and organisation** that our hydrocarbon-fuelled civilisation eroded_
+
+>  Examples include re-wilding landscapes, so they provide more ecological benefits and require less management, changing diets back to match the seasons, rediscovering non-electronically powered forms of play, and increased community-level productivity and support.
+
+
 ## Red Queen Effect
 
 [Cassandra's Legacy: Some reflections on the Twilight of the Oil Age - part I](http://cassandralegacy.blogspot.com/2016/07/some-reflections-on-twilight-of-oil-age.html)
@@ -1261,9 +1286,28 @@ relinquishment
 
 <kbd>Preparation</kbd>
 
-A collapse preparedness strategy
+> What are the best places to be, leading up to or during collapse, that I can get to, and establish myself in such a way that I can maintain the best standard of living possible for as long as I can or simply increase my probability of surviving the incoming population bottleneck.
 
-<!-- stub -->
+[Where’s the best place to live in light of collapse? : collapse](https://www.reddit.com/r/collapse/comments/d5ar30/wheres_the_best_place_to_live_in_light_of_collapse/)
+
+Your personal relocation strategy is a question of what you **can achieve** and what **you desire.**
+Your list will however match other people's list to a great extent, so you must **find trade-offs** – **creative [ecological niches](#niche).**
+
+Example: 
+
+> Do you like not living in unbearable heat, maybe moving to greenland is NOT a better option than just buying 400W of solar panels and attaching it to a small efficient AC that keeps one room of your house cool even during summer electricity blackouts. Most problems have multiple solutions, it is worth it to take time and think about things from an economic perspective and different time horizon perspectives.
+
+Another scenario to illustrate the importance of finding a niche:
+
+> Imagine you are a goat herder in Somalia during a multi year drought and there is no grass for feeding your animals. You have to sell them for dirt cheap because everyone else is also trying to sell off everything they can to get money thus depressing the goat prices further. Now the price of food is skyrocketing because there is no grass and the farmers crops failed, everyone is trying to buy up a hoard of food because everyone knows it is going to be a hard year. You manage to get the equivalent of $120USD in cash after selling practically everything you own but held onto one breeding pair of your healthiest goats you plan to use to regain a livelihood after the drought is over.
+
+To aim for the optimal resilience think: if I find myself in dire straits will I be alone (too fragile), in the same boat with millions others (too competitive) or alongside a small community, collaborating to mutually overcome the difficulty (ideal)?
+
+A meta-heuristic is to look to **increase your optionality.**
+
+> Survival and thriving always has and always will involve dynamic adaptation.
+
+Related: [dissensus](#dissensus)
 
 ## Renewables
 
@@ -1404,11 +1448,16 @@ Slow steaming refers to the practice of operating transoceanic cargo ships, espe
 
 > The highest have the farthest to fall
 
-A hypothesis that accounts for why some people are better positioned to entertain the possibility of collapse, – they are less invested in the system – whereas people with senior roles in our society are more conservative.
+A hypothesis that accounts for why some people are better positioned to entertain the possibility of collapse. Because they are less invested in the system, whereas those with senior roles in our society lean more conservatively.
+
+> It is difficult to get a man to understand something, when his salary depends upon his not understanding it!
+- Upton Sinclair
 
 > Since the [Deep Adaptation] paper came out, I have come to consider a new reason why societal collapse is inevitable. It came to me [when I spoke at the European Commission](http://iflas.blogspot.com/2019/05/as-news-of-our-climate-predicament.html). During [my talk I did a quick poll](https://www.youtube.com/watch?v=Ke1PCgiM3V4) to discover that about 90 percent of the officials in the room believed that collapse is coming within their lifetimes. Yet their ability to conceive of what was appropriate to discuss as policy responses and activism was, in general, woeful. The ideas being shared were more of the same tinkering with capitalism and redirecting private investment into mitigation efforts. Why? One hypothesis is that **the highest have the farthest to fall.** If one is well-respected, well-paid, and living well in the current system, perhaps with a sense of responsibility for lots of employees and stakeholders, then one has the most to let go of in order to allow the full impact of our current situation to sink in. At a sub-conscious level it eats away at assumptions you didn’t know you had. For instance, assuming that one would be respected by your children and younger generations as you enter old age, and, ultimately as you lie on your death bed. To be successful in society means one is having affirmed, daily, the illusion of the socially-respected agentic separate Self. Instead, our climate chaos invites us to see that we aren’t separate, we aren’t in control and our stories of self-respect and meaning were always made up. We must let our deepest assumptions and stories melt away to find what else can emerge. That may be why I have a better time talking to children about collapse than I do talking to people with senior jobs.
 
 – <kbd>[👤 Jem Bendell](#jem-bendell)</kbd> - [A Year of Deep Adaptation – Professor Jem Bendell](https://jembendell.com/2019/07/07/a-year-of-deep-adaptation/)
+
+
 
 Related: [Strategic ignorance](#strategic-ignorance)
 
@@ -1715,7 +1764,7 @@ from [The Archdruid Report - The Era of Pretense](https://thearchdruidreport-arc
 
 ## Wicked problems
 
-[Wicked Problems - LEAN LOGIC](http://theleaneconomyconnection.org/glossary/wicked-problems/)
+[Wicked Problems - LEAN LOGIC](https://leanlogic.online/glossary/wicked-problems/)
 
 wicked problems
 :    _highly complex problems which cannot be solved in a straightforward way, and may not be soluble at all._
@@ -1773,7 +1822,7 @@ See [The Archdruid Report - The Steampunk Future Revisited](https://thearchdruid
 
 Author of [Lean Logic: A Dictionary of the future and how to survive it (2016)](https://www.goodreads.com/book/show/16004487-lean-logic)
 
-The dictionary is now available online: [List of entries - LEAN LOGIC](http://theleaneconomyconnection.org/glossary/)
+The dictionary is now available online: [List of entries - LEAN LOGIC](https://leanlogic.online/glossary/)
 
 ## 👤 David Graeber
 

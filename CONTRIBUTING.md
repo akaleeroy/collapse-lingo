@@ -4,7 +4,9 @@ At this point this isn't an authoritative list. Some key terms are missing, othe
 
 ## TODOs
 
-- [ ] Switch to RST?
+- [ ] Notions from Surplus Energy Economics
+- [ ] Notions from John Vervaeke: domicide
+- [ ] Notions from Jonathan Blow - Preventing the Collapse of Civilization (2019), see [Weekly wiki discussion series : CollapseNetwork](https://www.reddit.com/r/CollapseNetwork/comments/f1d64q/weekly_wiki_discussion_series/)
 - [ ] Notions from [Joseph Tainter - What is Transformation?](https://www.youtube.com/watch?v=T0gFP0zW_qY)
 - [ ] Terms from John Michael Greer - How Civilizations Fall - A Theory of Catabolic Collapse (2005)
 - [ ] Terms from Richard Heinberg's books
