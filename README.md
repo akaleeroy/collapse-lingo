@@ -1519,18 +1519,11 @@ Slow steaming refers to the practice of operating transoceanic cargo ships, espe
 
 > The highest have the farthest to fall
 
-A hypothesis that accounts for why some people are better positioned to entertain the possibility of collapse. Because they are less invested in the system, whereas those with senior roles in our society lean more conservatively.
-
-> It is difficult to get a man to understand something, when his salary depends upon his not understanding it!
-- Upton Sinclair
+A hypothesis that accounts for why some people are better positioned to entertain the possibility of collapse. Because they are less invested in the system, whereas those with senior roles in our society lean more conservatively (see [Strategic ignorance](#strategic-ignorance))
 
 > Since the [Deep Adaptation] paper came out, I have come to consider a new reason why societal collapse is inevitable. It came to me [when I spoke at the European Commission](http://iflas.blogspot.com/2019/05/as-news-of-our-climate-predicament.html). During [my talk I did a quick poll](https://www.youtube.com/watch?v=Ke1PCgiM3V4) to discover that about 90 percent of the officials in the room believed that collapse is coming within their lifetimes. Yet their ability to conceive of what was appropriate to discuss as policy responses and activism was, in general, woeful. The ideas being shared were more of the same tinkering with capitalism and redirecting private investment into mitigation efforts. Why? One hypothesis is that **the highest have the farthest to fall.** If one is well-respected, well-paid, and living well in the current system, perhaps with a sense of responsibility for lots of employees and stakeholders, then one has the most to let go of in order to allow the full impact of our current situation to sink in. At a sub-conscious level it eats away at assumptions you didn’t know you had. For instance, assuming that one would be respected by your children and younger generations as you enter old age, and, ultimately as you lie on your death bed. To be successful in society means one is having affirmed, daily, the illusion of the socially-respected agentic separate Self. Instead, our climate chaos invites us to see that we aren’t separate, we aren’t in control and our stories of self-respect and meaning were always made up. We must let our deepest assumptions and stories melt away to find what else can emerge. That may be why I have a better time talking to children about collapse than I do talking to people with senior jobs.
 
 – <kbd>[👤 Jem Bendell](#jem-bendell)</kbd> - [A Year of Deep Adaptation – Professor Jem Bendell](https://jembendell.com/2019/07/07/a-year-of-deep-adaptation/)
-
-
-
-Related: [Strategic ignorance](#strategic-ignorance)
 
 ## Societal collapse
 
