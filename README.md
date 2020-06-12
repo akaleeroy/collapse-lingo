@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    10 June 2020
+Date:    12 June 2020
 
 
 # Collapse Lingo
@@ -164,6 +164,24 @@ See this compilation by /u/MrVisible on /r/doomsdaycult: [The long-term effects 
 
 Another thread: [Great Stuffiness in the Air will be Felt Worldwide in the Coming Decades as we Inch Closer to 450ppm C02 : collapse](https://www.reddit.com/r/collapse/comments/eyzjnd/great_stuffiness_in_the_air_will_be_felt/)
 
+## Cargoism
+
+<kbd>Ecology</kbd> <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd>
+
+cargoism
+:     delusion that technology will always save us from [overshoot](#overshoot)
+
+See also [techno-fix](#techno-fix)
+
+## Carrying capacity
+
+<kbd>Ecology</kbd> <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd>
+
+carrying capacity
+:    maximum permanently supportable load
+
+From the cover of [Overshoot - The Ecological Basis of Revolutionary Change (1982)](https://www.goodreads.com/book/show/319810.Overshoot)
+
 ## Cascaded failure
 
 <!-- stub -->
@@ -314,12 +332,26 @@ See [👤 Nassim Taleb](#nassim-taleb) and the [distinction between **ensemble p
 
 ## Cornucopianism
 
+<kbd>Ecology</kbd> <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd>
+
 cornucopianism
 :   crackpot optimism
+
+cornucopian myth
+:   euphoric belief in limitless resources (from the cover of [Overshoot - The Ecological Basis of Revolutionary Change (1982)](https://www.goodreads.com/book/show/319810.Overshoot))
 
 > the enthusiastic and all but universal insistence, in the teeth of the evidence, that the end of business as usual will turn out to be the door to a wonderful new future.
 
 from [The Archdruid Report - The Era of Impact](https://thearchdruidreport-archive.200605.xyz/2015/05/the-era-of-impact_20.html)
+
+## Crash
+
+<kbd>Ecology</kbd> <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd>
+
+crash
+:    die-off
+
+From the cover of [Overshoot - The Ecological Basis of Revolutionary Change (1982)](https://www.goodreads.com/book/show/319810.Overshoot)
 
 ## Credo
 
@@ -474,6 +506,15 @@ dissensus
 > Evolution is dissensus in action, the outward pressure of genetic diversification running up against the limits of environment and, now and then, pushing through to some new adaptation: the wings of bats, the opposable thumbs of primates, the cultural evolution of human beings. As we enter a future of new limits and unpredictable opportunities, this is arguably the kind of organic process we need most.
 
 – [The Archdruid Report: Dissensus and Organic Process](https://thearchdruidreport-archive.200605.xyz/2008/12/dissensus-and-organic-process.html)
+
+## Drawdown
+
+<kbd>Ecology</kbd> <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd>
+
+drawdown
+:   stealing resources from the future
+
+From the cover of [Overshoot - The Ecological Basis of Revolutionary Change (1982)](https://www.goodreads.com/book/show/319810.Overshoot)
 
 ## Dried sea squirrels
 
@@ -1022,6 +1063,12 @@ Presented at the University of Michigan Ross School of Business as part of the S
 
 – <kbd>[👤 Jørgen Randers](#jrgen-randers)
 
+> “Data from the forty years or so since the LTG study was completed indicates that the world is closely tracking the BAU scenario,” Turner concluded in the 2014 paper.
+> 
+> “It is notable that there does not appear to be other economy-environment models that have demonstrated such comprehensive and long-term data agreement.”
+
+– <kbd>👤 Graham Turner</kbd>
+
 ## Low-tech
 
 [Low-Tech Magazine](http://www.lowtechmagazine.com/)
@@ -1041,6 +1088,15 @@ via [👤 Nicole Foss](#nicole-foss)
 Tongue-in-cheek way to assert the fallacy of economic wealth [decoupled](#decoupling) from carbon dioxide emissions.
 
 [Tim Garrett - Measure the size of the global economy from the top of Mauna Loa](https://www.youtube.com/embed/A3QUQbPILS8?start=458&end=467&autoplay=1 "Is it possible to decouple economic wealth from carbon dioxide emission rates? Part II (2010)")
+
+## Mariner's Rule
+
+the mariner's rule
+:    _One hand for yourself, one hand for the ship_
+
+> The rule that sailors learned and followed in those days was simple: “One hand for yourself, one hand for the ship.” Every chore that had to be done up there in the rigging could be done by a gang of sailors who each lent one hand to the effort, so the other could cling for dear life to the nearest rope or ratline.
+
+from [The Archdruid Report: The Mariner's Rule](https://thearchdruidreport-archive.200605.xyz/2015/01/the-mariners-rule.html)
 
 ## Merchants of Doubt
 
@@ -1112,6 +1168,15 @@ See [Boiling frog - Wikipedia](https://en.wikipedia.org/wiki/Boiling_frog)
 ## Open-source Warfare
 
 <!-- stub -->
+
+## Overshoot
+
+<kbd>Ecology</kbd> <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd>
+
+overshoot
+:    growth beyond an area’s [carrying capacity](#carrying-capacity), leading to [crash](#crash)
+
+From the cover of [Overshoot - The Ecological Basis of Revolutionary Change (1982)](https://www.goodreads.com/book/show/319810.Overshoot)
 
 ## Paradigm shift
 
@@ -1185,6 +1250,12 @@ See [Joseph Tainter - The Collapse of Complex Societies (1988)]()
 > The great physicist Max Planck, in a statement that Nicholas Rescher calls 'Planck's Principle of Increasing Effort, observed that "...with every advance [in science] the difficulty of the task is increased" (Rescher 1980)
 
 via [👤 Joseph Tainter](#joseph-tainter) [Complexity, Problem Solving, and Sustainable Societies (1996)](http://www.harbornet.com/folks/theedrich/hive/Tainter/SocietalCollapse.htm)
+
+## Population crash
+
+<kbd>Ecology</kbd> <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd>
+
+See [crash](#crash)
 
 ## Preparation
 
@@ -1643,31 +1714,18 @@ See [Ensemble probability](#ensemble-probability)
 
 ## Tragedy of the Commons
 
-One hand for yourself, one hand for the ship
+tragedy of the commons
+:   The tragedy of the commons is a situation in a shared-resource system where individual users, acting independently according to their own self-interest, behave contrary to the common good of all users by depleting or spoiling the shared resource through their collective action.
 
-> The rule that sailors learned and followed in those days was simple: “One hand for yourself, one hand for the ship.” Every chore that had to be done up there in the rigging could be done by a gang of sailors who each lent one hand to the effort, so the other could cling for dear life to the nearest rope or ratline.
+– [Tragedy of the commons - Wikipedia](https://en.wikipedia.org/wiki/Tragedy_of_the_commons)
 
-from [The Archdruid Report: The Mariner's Rule](https://thearchdruidreport-archive.200605.xyz/2015/01/the-mariners-rule.html)
+from <kbd>[👤 William R., Jr.](#william-r-catton-jr)</kbd> - Overshoot via [The Archdruid Report - As Night Closes In](https://thearchdruidreport-archive.200605.xyz/2015/02/as-night-closes-in.html)
 
-Related: [Fractal planting patterns yield optimal harvests, without central control](https://phys.org/news/2017-06-fractal-patterns-yeild-optimal-harvests.html) a situation observed with Balinese rice farmers where they plant in synchrony without central planning, but maximizing their individual gain creates optimum yields instead of the tragedy of the commons. Codifying this practice into a scientific theory to be prescribed has caveats though: [👤 Nassim Taleb](#nassim-taleb) makes this case talking about traders arriving at price.
+Related: [Fractal planting patterns yield optimal harvests, without central control](https://phys.org/news/2017-06-fractal-patterns-yeild-optimal-harvests.html) a situation observed with Balinese rice farmers where they plant in synchrony without central planning, but maximizing their individual gain creates optimum yields instead of the [tragedy of the commons](#tragedy-of-the-commons). Codifying this practice into a scientific theory to be prescribed has caveats though: [👤 Nassim Taleb](#nassim-taleb) makes this case talking about traders arriving at price.
 
 > Their prices were sophisticated and more efficient than those produced by the formula, and it was obvious what came first. For instance, the prices accounted for Extremistan and “fat tails,” which the standard formulas ignored.
 > (...)
 > _Traders trade → traders figure out techniques and products → academic economists find formulas and claim traders are using them → new traders believe academics → blowups (from theory-induced fragility)_
-
-  carrying capacity: maximum permanently supportable load.
-
-  cornucopian myth: euphoric belief in limitless resources.
-
-  drawdown: stealing resources from the future.
-
-  cargoism: delusion that technology will always save us from
-
-  overshoot: growth beyond an area’s carrying capacity, leading to
-
-  crash: die-off.
-
-from <kbd>[👤 William R. Catton, Jr.](#william-r-catton-jr)</kbd> - Overshoot via [The Archdruid Report - As Night Closes In](https://thearchdruidreport-archive.200605.xyz/2015/02/as-night-closes-in.html)
 
 ## _Those who win in a rigged game get stupid_
 
