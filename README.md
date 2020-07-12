@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    12 June 2020
+Date:    12 July 2020
 
 
 # Collapse Lingo
@@ -1314,9 +1314,11 @@ See [Renewables](#renewables)
 ## Reconciliation
 
 reconciliation
-:    within <kbd>[👤 Jem Bendell](#jem-bendell)</kbd>'s framework of [Deep Adaptation](#deep-adaptation), _it involves people and communities **rediscovering attitudes and approaches to life and organisation** that our hydrocarbon-fuelled civilisation eroded_
+:    within <kbd>[👤 Jem Bendell](#jem-bendell)</kbd>'s framework of [Deep Adaptation](#deep-adaptation), considering _“what could I make peace with to lessen suffering?”_ 
 
->  Examples include re-wilding landscapes, so they provide more ecological benefits and require less management, changing diets back to match the seasons, rediscovering non-electronically powered forms of play, and increased community-level productivity and support.
+>  As we contemplate endings our thoughts turn towards that kind of reconciliation: with our mistakes, with death, and some would add, with God. We can also seek to be part of reconciliations between peoples with different political persuasions, religions, nations, genders, classes and generations. Without this inner deep adaptation to climate collapse I fear we risk tearing societies apart. Unless we have found a way to accept the impermanence of our own lives and those we love (to be  reconciled with mortality) and a way to accept that we must act without knowing if we will succeed (to be reconciled with impotence), our future actions risk being a form of manic distraction that could lead to violence. 
+
+– Bendell, Jem (2019) [Because it’s not a drill: technologies for deep adaptation to climate chaos.](http://insight.cumbria.ac.uk/id/eprint/4776/) In: Connect University Conference on Climate Change, 13 May 2019, DG Connect, European Commission, Brussels, Belgium.
 
 
 ## Red Queen Effect
