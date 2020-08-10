@@ -1835,6 +1835,16 @@ One of the central myths of modern society is that the process of urbanization (
 
 <!-- stub -->
 
+## Whale oil
+
+<kbd>[Cornucopianism](#cornucopianism)</kbd> <kbd>Peak Oil</kbd> <kbd>Energy Alternatives</kbd>
+
+> Saying the market will replace petrochemicals because it replaced whale oil (used for lamps, not 100,001 industrial processes and consumer products) is like saying we'll find abundant rare earth minerals forever because we didn't run out of rocks.
+
+– [/u/Blisk_McQueen comments on The World's Resources Aren't Running Out](https://www.reddit.com/r/TrueReddit/comments/253thj/the_worlds_resources_arent_running_out/chdfobr/)
+
+See also: [Peak Oil Denial Bingo!](#peak-oil-denial-bingo)
+
 ## White's Law
 
 [White's Law - Wikipedia](http://en.wikipedia.org/wiki/White's_law)
