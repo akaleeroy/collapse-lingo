@@ -972,7 +972,7 @@ Coined by [👤 Samo Burja](#samo-burja)
 
 Standard delusional response to historical arguments supporting the imminence of collapse
 
-See [Peak Oil Denial Bingo](#peak-oil-denial-bingo)
+See [Peak Oil Denial Bingo!](#peak-oil-denial-bingo)
 
 ## Iron Triangle
 
@@ -1236,7 +1236,17 @@ A game to play while arguing with peak oil deniers.
 
 > I’ve thought more than once of providing my readers with Bingo cards marked with the credos most commonly used to silence discussions of our future—“they’ll think of something,” “technology can solve any problem,” “the world’s going to end soon anyway,” “it’s different this time,” and so on—with some kind of prize for whoever fills theirs up first.
 
-See [The Archdruid Report - Mentats Wanted, Will Train](https://thearchdruidreport-archive.200605.xyz/2014/04/mentats-wanted-will-train.html)
+– [The Archdruid Report - Mentats Wanted, Will Train](https://thearchdruidreport-archive.200605.xyz/2014/04/mentats-wanted-will-train.html)
+
+### Peak Oil Denial Bingo! Card
+
+|     |     |     |     |     |
+| :-: | :-: | :-: | :-: | :-: |
+Solar satellites will save us. | You just don't understand capitalism. | The aliens will land before we run out of oil. | There's nothing we can do about it. | I can't deal with that. |
+The market will take care of it. | The technology's getting cheaper. | I don't want to live through that. | Scarcity is just a state of mind. | Biodiesel will save us. |
+I need it, so it has to stay available. | There are no limits to what we can achieve. | **PEAK OIL DENIAL BINGO** <br>(free square) | (Sudden change of subject.) | Fracking will save us. |
+They'll think of something. | Jesus will show up before we run out of oil. | They've just found a big new oil field. | It's different this time. | Technology will always be with us. |
+The stone age wasn't ended by a stone shortage. | We'll all be extinct soon anyway. | Fusion power will save us. | It's the government's fault. | I'll be dead before it happens |
 
 ## Permaculture
 
@@ -2059,6 +2069,14 @@ Initiator of [the Hexayurt project](http://hexayurt.com/) and the [6WTD](#6wtd) 
     --anchorSpace: 70vh;
     --endMark: '\2767'; /* Hedera */
     --lighterGrey: #f1f5f8;
+  }
+
+  /* Headerless Markdown tables */
+  th:empty { visibility: collapse; }
+
+  #peak-oil-denial-bingo-card + table td {
+    min-width: 16ch;
+    width: 20%;
   }
 
   article:after {
