@@ -85,7 +85,7 @@ binding factors
 
 via [Climate Catastrophe and Stanley Milgram’s Electric Shock “Obedience” Experiments: An Uncanny Analogy](https://www.mdpi.com/2076-0760/8/6/178/htm)
 
-See also [Squeeze](#squeeze)
+See also: [Squeeze](#squeeze)
 
 *[BFs]: Binding Factors
 
@@ -974,6 +974,24 @@ Standard delusional response to historical arguments supporting the imminence of
 
 See [Peak Oil Denial Bingo](#peak-oil-denial-bingo)
 
+## Iron Triangle
+
+<kbd>[👤 Dmitry Orlov](#dmitry-orlov)</kbd>
+
+the iron triangle
+:    entrapping interdependence relationships between a house (because you need a place to live), a job (because you need to pay for the house) and a car (because you need to be able to commute to the job)
+    Example: _The sailboat, as a lifehack, has allowed my family to break out of the “iron triangle” of house — car — job by which much of the population is enslaved._
+
+> The iron triangle is a well-designed trap, and escaping from it is very difficult. It is difficult even for a young, resourceful individual who can sustain some amount of hardship and doesn’t have much to lose. It is even more difficult for families with children. This is because it is not possible to get rid of any one vertex of the iron triangle without jeopardizing the others:
+>
+> - Lose the job — and how will you continue paying for the house and the car?
+> - Lose the car — and how will you get yourself to the job? And if you can’t earn money, then how will you keep paying for the house?
+> - Lose the house — and where will you recuperate between your work shifts so that you can continue working the job and paying for the car?
+
+– [Dmitry Orlov - Shrinking the Technosphere (2017)](http://www.worldcat.org/title/shrinking-the-technosphere-getting-a-grip-on-the-technologies-that-limit-our-autonomy-self-sufficiency-and-freedom/oclc/960097215) Chapter 8: Wresting control > The iron triangle
+
+See also: [Squeeze](#squeeze), [Binding factors](#binding-factors)
+
 ## Jevons paradox
 
 [Jevons paradox](http://en.wikipedia.org/wiki/Jevons_paradox "Jevons paradox - Wikipedia")
@@ -1552,7 +1570,7 @@ squeeze
 :   (collapse) a situation in which you are pressured into taking an unsustainable path.  
     _That city really puts the squeeze on you._
 
-See also: [Binding factors](#binding-factors) 
+See also: [Binding factors](#binding-factors), [Iron Triangle](#iron-triangle)
 
 ## Startdown
 
