@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    10 August 2020
+Date:    9 September 2020
 
 
 # Collapse Lingo
@@ -1049,11 +1049,14 @@ See [The Archdruid Report - Hair Shirts, Hypocrisy, and Wilkins Micawber](https:
 
 Striving for political unification is an effort to increase legibility, meaning better exploitation.
 
-## Liebig’s law of the minimum
+## Liebig's law of the minimum
 
 <kbd>Ecology</kbd>
 
-[Liebig’s law of the minimum - Wikipedia](http://en.wikipedia.org/wiki/Liebig's_law_of_the_minimum)
+[Liebig's law of the minimum - Wikipedia](http://en.wikipedia.org/wiki/Liebig's_law_of_the_minimum)
+
+![Liebig's barrel. A metaphorical broken down barrel where the maximum volume that can still be held is determined by the shortest broken stave (the limiting factor)](https://i.ytimg.com/vi/423Ihcw41rk/maxresdefault.jpg)  
+Liebig's barrel illustrating the limiting factor of energy for the economy. From the video course [Nexus One > Energy primacy - Part 2 | Energy & Economy 7/16](https://www.youtube.com/watch?v=423Ihcw41rk&list=PLdHV4AV3ixB3Y5_GkHfFD7zzhnozJUsBV) by <kbd>[👤 Nate Hagens](#nate-hagens)</kbd>
 
 > growth is controlled not by the total amount of resources available, but by the scarcest resource (limiting factor).
 
@@ -2001,7 +2004,11 @@ Twitter: [@nntaleb](https://twitter.com/nntaleb/)
 
 ## 👤 Nate Hagens
 
+[The Institute for the Study of Energy and Our Future - Energy For The Future](https://www.energyandourfuture.org/)
+
 [The Monkey Trap](http://www.themonkeytrap.us/)
+
+[Nexus One video series](https://www.youtube.com/playlist?list=PLdHV4AV3ixB3Y5_GkHfFD7zzhnozJUsBV) - University of Minnesota Honors Freshmen Experience
 
 ## 👤 Nicole Foss
 
