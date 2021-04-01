@@ -99,7 +99,7 @@ Blue Ocean Event
 > (...) often defined as "having less than 1 million square kilometers of sea ice", because it is very difficult to melt the thick ice around the Canadian Arctic Archipelago.
 > The IPCC AR5 defines "nearly ice-free conditions" as sea ice extent less than 10^6 km² for at least five consecutive years.
 
-– [Arctic sea ice decline # Ice-free Summer - Wikipedia](https://en.wikipedia.org/wiki/Arctic_sea_ice_decline#Ice-free_summer)
+– [Arctic sea ice decline > Ice-free summer - Wikipedia](https://en.wikipedia.org/wiki/Arctic_sea_ice_decline#Ice-free_summer)
 
 Significant because it may be a climate change tipping point. For example an ice-free Arctic lowers the albedo of the Earth, which amplified warming – a self-reinforcing feedback loop.
 
