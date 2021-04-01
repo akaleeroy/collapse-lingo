@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    9 September 2020
+Date:    1 April 2021
 
 
 # Collapse Lingo
@@ -88,6 +88,26 @@ via [Climate Catastrophe and Stanley Milgram’s Electric Shock “Obedience” 
 See also: [Squeeze](#squeeze)
 
 *[BFs]: Binding Factors
+
+## Blue Ocean Event
+
+<!-- stub -->
+
+Blue Ocean Event
+:    an ice-free Arctic Ocean
+
+> (...) often defined as "having less than 1 million square kilometers of sea ice", because it is very difficult to melt the thick ice around the Canadian Arctic Archipelago.
+> The IPCC AR5 defines "nearly ice-free conditions" as sea ice extent less than 10^6 km² for at least five consecutive years.
+
+– [Arctic sea ice decline # Ice-free Summer - Wikipedia](https://en.wikipedia.org/wiki/Arctic_sea_ice_decline#Ice-free_summer)
+
+Significant because it may be a climate change tipping point. For example an ice-free Arctic lowers the albedo of the Earth, which amplified warming – a self-reinforcing feedback loop.
+
+Also appears as FIASY - First Ice-free Arctic Summer Year.
+
+## BOE
+
+[Blue Ocean Event](#blue-ocean-event)
 
 ## Bridge technology
 
@@ -748,6 +768,10 @@ from [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org
 <kbd>Tangential</kbd>
 
 [👤 Bruce Sterling](#bruce-sterling)
+
+## FIASY
+
+First Ice-free Arctic Summer Year. See [Blue Ocean Event](#blue-ocean-event)
 
 ## Flexibility
 
@@ -2117,9 +2141,12 @@ Initiator of [the Hexayurt project](http://hexayurt.com/) and the [6WTD](#6wtd) 
 *[AI]: Artificial Intelligence
 *[ASPO]: Association for the Study of Peak Oil
 *[BAU]: Business As Usual
+*[BOE]: Blue Ocean Event
 *[CAGW]: Catastrophic Anthropogenic Global Warming
+*[ECoE]: Energy Cost of Energy
 *[EROEI]: Energy Return On Energy Invested
 *[EROC]: Energy Return On Carbon
+*[FIASY]: First Ice-free Arctic Summer Year
 *[NTW]: Near-Term Extinction
 *[GHG]: greenhouse gas
 *[GHGs]: greenhouse gases
