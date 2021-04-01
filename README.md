@@ -17,6 +17,8 @@ Rounding up collapse lingo, terminology, jargon, terms of art, concepts, tropes,
 
 Six Ways To Die framework
 
+*[6WTD]: Six Ways To Die
+
 ## Accelerationism
 
 [Accelerationism - Wikipedia](https://en.wikipedia.org/wiki/Accelerationism)
@@ -77,6 +79,8 @@ Related: Intermediate technology - "Build what used to be called "intermediate" 
 
 [Business As Usual](#business-as-usual)
 
+*[BAU]: Business As Usual
+
 ## Binding factors
 
 binding factors
@@ -108,6 +112,8 @@ Also appears as FIASY - First Ice-free Arctic Summer Year.
 ## BOE
 
 [Blue Ocean Event](#blue-ocean-event)
+
+*[BOE]: Blue Ocean Event
 
 ## Bridge technology
 
@@ -170,6 +176,8 @@ via [CAGW memeplex | Climate Etc.](https://judithcurry.com/2013/11/01/cagw-memep
 
 See [NTE](#near-term-extinction)
 
+*[CAGW]: Catastrophic Anthropogenic Global Warming
+
 ## Captain Gustaf Erikson of the Åland Islands
 
 <kbd>Sailing</kbd>
@@ -183,6 +191,9 @@ Other than its GHG effects there are also direct health effects from a high conc
 See this compilation by /u/MrVisible on /r/doomsdaycult: [The long-term effects of carbon dioxide on human health : doomsdaycult](https://www.reddit.com/r/doomsdaycult/comments/68be18/the_longterm_effects_of_carbon_dioxide_on_human/)
 
 Another thread: [Great Stuffiness in the Air will be Felt Worldwide in the Coming Decades as we Inch Closer to 450ppm C02 : collapse](https://www.reddit.com/r/collapse/comments/eyzjnd/great_stuffiness_in_the_air_will_be_felt/)
+
+*[GHG]: greenhouse gas
+*[GHGs]: greenhouse gases
 
 ## Cargoism
 
@@ -613,6 +624,8 @@ For more coping topics see [/r/CollapseSupport](https://www.reddit.com/r/Collaps
 
 [Energy Cost of Energy](#energy-cost-of-energy)
 
+*[ECoE]: Energy Cost of Energy
+
 ## Efficiency
 
 The opposite of resilience.
@@ -784,6 +797,8 @@ via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 EROC
 :   [Energy Return On Carbon](#energy-return-on-carbon)
 
+*[EROC]: Energy Return On Carbon
+
 ## EROI
 
 EROI
@@ -800,6 +815,9 @@ EROI
 ## EVs
 
 See [Electric vehicles](#electric-vehicles)
+
+*[EV]: electric vehicle
+*[EVs]: electric vehicles
 
 ## Extend and pretend
 
@@ -819,6 +837,8 @@ from [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org
 ## FIASY
 
 First Ice-free Arctic Summer Year. See [Blue Ocean Event](#blue-ocean-event)
+
+*[FIASY]: First Ice-free Arctic Summer Year
 
 ## Flexibility
 
@@ -966,6 +986,8 @@ Another different example: using advances in cognitive science to develop teachi
 Because the high-tech that generated the artifact is lost or unsustainable in the new context a high-tech dip is a [dead man walking](https://en.wiktionary.org/wiki/dead_man_walking) technological suite.
 
 See also [decadence](#decadence) and [intellectual dark matter](#intellectual-dark-matter).
+
+*[AI]: Artificial Intelligence
 
 ### Sprints and scrambles
 
@@ -1241,6 +1263,9 @@ See [Monopoly of force](#monopoly-of-force)
 
 [👤 Guy McPherson](#guy-mcpherson)
 
+*[NTE]: Near-term Extinction
+*[NTHE]: Near-term Human Extinction
+
 ## New normal
 
 See [Boiling frog - Wikipedia](https://en.wikipedia.org/wiki/Boiling_frog)
@@ -1368,6 +1393,8 @@ See [crash](#crash)
 ## _Prepare but do not execute_
 
 _A reasonable approach_ by [👤 Dmitry Orlov](#dmitry-orlov), from his [Post-Collapse Planning](http://cluborlov.blogspot.com/2011/11/aspo-2011-post-collapse-planning.html) presentation at the ASPO conference 2011
+
+*[ASPO]: Association for the Study of Peak Oil
 
 ## Pro-natalist arguments
 
@@ -2207,20 +2234,3 @@ Initiator of [the Hexayurt project](http://hexayurt.com/) and the [6WTD](#6wtd) 
     margin: 0 3px 0 5px;
   }
 </style>
-
-*[AI]: Artificial Intelligence
-*[ASPO]: Association for the Study of Peak Oil
-*[BAU]: Business As Usual
-*[BOE]: Blue Ocean Event
-*[CAGW]: Catastrophic Anthropogenic Global Warming
-*[ECoE]: Energy Cost of Energy
-*[EROEI]: Energy Return on Energy Invested
-*[EROC]: Energy Return On Carbon
-*[FIASY]: First Ice-free Arctic Summer Year
-*[NTW]: Near-Term Extinction
-*[SEE]: Surplus Energy Economics
-*[GHG]: greenhouse gas
-*[GHGs]: greenhouse gases
-*[6WTD]: Six Ways To Die
-*[EV]: electric vehicle
-*[EVs]: electric vehicles
