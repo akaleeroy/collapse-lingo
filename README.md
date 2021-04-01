@@ -399,6 +399,21 @@ via <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd> - Overshoot
 
 > Gates, Soros, Google, Amazon
 
+## Decadence
+
+decadence
+:    a perceived decay in standards, morals, dignity, religious faith, honor, discipline, or skill at governing among the members of the elite of a very large social structure, such as an empire or nation state. By extension, it may refer to a decline in art, literature, science, technology, and work ethics, or (very loosely) to self-indulgent behavior.
+
+– [Decadence - Wikipedia](https://en.wikipedia.org/wiki/Decadence)
+
+> It is the curse of living in a decadent period, just like when the last Roman poets, from Ausonius to Claudian, lost the skills of their predecessors and couldn't do anything better than aping them.
+
+– <kbd>[👤 Ugo Bardi](#ugo-bardi)</kbd> - [The Seneca Cliff of Rhetoric: Just say no to Powerpoint](https://thesenecaeffect.blogspot.com/2021/03/the-seneca-cliff-of-rhetoric-just-say.html)
+
+> [Ausonius] is considered derivative and unoriginal. [Edward Gibbon](https://en.wikipedia.org/wiki/Edward_Gibbon) pronounced in his [_Decline and Fall of the Roman Empire_](https://en.wikipedia.org/wiki/Decline_and_Fall_of_the_Roman_Empire) that "the poetical fame of Ausonius condemns the taste of his age." 
+
+– [Ausonius - Wikipedia](https://en.wikipedia.org/wiki/Ausonius)
+
 ## Decoupling
 
 > **Is it possible to enjoy both economic growth and environmental sustainability?**
