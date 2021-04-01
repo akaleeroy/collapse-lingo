@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    1 April 2021
+Date:    2 April 2021
 
 
 # Collapse Lingo
@@ -144,7 +144,7 @@ Like tulip frenzy in 1630s, dot-com Internet bubble 1997–2000, Real estate bub
 <!--  -->
 
 > The fundamental energy problem facing cities, nations, and the world is, and will be in the future, the problem of falling
-[EROI](#energy-return-on-energy-invested). As more energy must be used to acquire additional sources of energy, myriad economic problems will occur. Higher input costs lead to higher energy prices for the consumer, although the process is not a smooth one. Higher energy prices choke off demand, helping precipitate a recession. The recession reduces energy prices, helping to restore prosperity. The global peak of oil looks more like an “undulating plateau,” and the uncertainty adversely impacts the financing of future high cost energy sources.
+[EROI](#energy-return-on-investment). As more energy must be used to acquire additional sources of energy, myriad economic problems will occur. Higher input costs lead to higher energy prices for the consumer, although the process is not a smooth one. Higher energy prices choke off demand, helping precipitate a recession. The recession reduces energy prices, helping to restore prosperity. The global peak of oil looks more like an “undulating plateau,” and the uncertainty adversely impacts the financing of future high cost energy sources.
 
 – Klitgaard, Kent. (2019). Economy and Development in Modern Cities. [10.1007/978-3-030-11259-2_5](https://doi.org/10.1007/978-3-030-11259-2_5). 
 
@@ -609,6 +609,10 @@ eco-anxiety
 
 For more coping topics see [/r/CollapseSupport](https://www.reddit.com/r/CollapseSupport)
 
+## ECoE
+
+[Energy Cost of Energy](#energy-cost-of-energy)
+
 ## Efficiency
 
 The opposite of resilience.
@@ -656,6 +660,28 @@ See [How much energy does it take (on average) to produce 1kg of the following m
 
 See [Embodied energy](#embodied-energy)
 
+## Energy Cost of Energy
+
+<kbd>[👤 Tim Morgan](#tim-morgan)</kbd>
+
+energy cost of energy
+:   the cost of accessing a unit of energy for use, stated as a percentage of the unit
+
+> (...) whenever we access energy for our use, some of that energy is _always_ consumed in the access process. We can't drill an oil well, construct a refinery, build a gas pipeline, manufacture a wind turbine or a solar panel, or install a power distribution grid, without using energy, and neither can we operate or maintain them without it. The energy that is consumed in the supply of energy therefore comprises both a capital (investment) _and_ an operating component.
+
+> This principle is central to the established concept of the Energy Return on Energy Invested (EROI or EROEI), in which the consumed, cost or invested component is stated as a ratio. In Surplus Energy Economics (SEE), the cost element is known as the Energy Cost of Energy or ECoE, and is stated as a percentage.
+
+> Understood in this way, any given quantity of energy divides into parts. One of these is the cost element, known here as ECoE. The other – whatever remains – is _surplus_ energy. This surplus drives _all_ economic activity _other than the supply of energy itself._ This makes surplus energy coterminous with _prosperity._
+
+– [#175. The Surplus Energy Economy | Surplus Energy Economics](https://surplusenergyeconomics.wordpress.com/2020/06/19/175-the-surplus-energy-economy/)
+
+See also [EROI](#energy-return-on-investment)
+
+*[SEE]: Surplus Energy Economics
+*[EROEI]: Energy Return on Energy Invested
+*[EROI]: Energy Return on Investment
+*[ECoE]: Energy Cost of Energy
+
 ## Energy Descent
 
 <!-- stub -->
@@ -675,9 +701,16 @@ See [Joseph Tainter - Energy Gain and Future Energy - Collapse of Sustainability
 
 Suggested in [Implications of net energy-return-on-investment for a low-carbon energy transition | Nature Energy](https://www.nature.com/articles/s41560-018-0116-1) • [/r/collapsademic submission](https://www.reddit.com/r/collapsademic/comments/9yj1cd/implications_of_net_energyreturnoninvestment_for/)
 
-## Energy Return On Energy Invested
+## Energy Returned on Energy Invested
 
-[Energy returned on energy invested - Wikipedia](https://en.wikipedia.org/wiki/Energy_returned_on_energy_invested)
+[EROI](#energy-return-on-investment) is sometimes called ERoEI
+
+## Energy Return On Investment
+
+energy return on investment
+:    the ratio of the amount of usable energy (the [exergy](https://en.wikipedia.org/wiki/Exergy)) delivered from a particular energy resource to the amount of exergy used to obtain that energy resource
+
+[Energy return on investment - Wikipedia](https://en.wikipedia.org/wiki/Energy_return_on_investment)
 
 ## Energy averaging systems
 
@@ -754,14 +787,13 @@ EROC
 ## EROI
 
 EROI
-:   [Energy Return On Investment](#energy-return-on-energy-invested)
+:   [Energy Return On Investment](#energy-return-on-investment)
 
 *[EROI]: Energy Return on Investment
 
-## EROEI
+## ERoEI
 
-EROEI
-:   [Energy Return On Energy Invested](#energy-return-on-energy-invested)
+[Energy Return on Energy Invested](#energy-return-on-investment)
 
 *[EROEI]: Energy Return on Energy Invested
 
@@ -927,11 +959,13 @@ Making use of advanced technology today to vet best practices that can be passed
 
 Example: arriving at simpler proxies for high-tech tests. Listened to Dan Kittridge speaking about which lab he works with to get his soil tested, rarer minerals were tested as a bonus. If the tests rely on a burdensome technological suite, maybe we can leverage AI pattern matching to displace those tests, relying only on simpler DIY tests but getting sufficient information from them.
 
-Another example: (mechanical engineering) genetic algorhythm generating millions of designs for a part, stress testing all of them in computer simulation and selecting the most optimal solution. That design can then be copied by craftsmen with hand tools. Ideally it is distributed with documentation (mentioning what it's optimized for, how and why). Or only the form was passed on, to be reproduced _in the dark._ A technology suite that requires high-tech only on the first iterations.
+Another example: (mechanical engineering) genetic algorithm generating millions of designs for a part, stress testing all of them in computer simulation and selecting the most optimal solution. That design can then be copied by craftsmen with hand tools. Ideally it is distributed with documentation (mentioning what it's optimized for, how and why). Or only the form was passed on, to be reproduced _in the dark._ A technology suite that requires high-tech only on the first iterations.
 
 Another different example: using advances in cognitive science to develop teaching and learning methodologies, maximizing the chance that more people will learn new skills required by changing circumstances, faster.
 
 Because the high-tech that generated the artifact is lost or unsustainable in the new context a high-tech dip is a [dead man walking](https://en.wiktionary.org/wiki/dead_man_walking) technological suite.
+
+See also [decadence](#decadence) and [intellectual dark matter](#intellectual-dark-matter).
 
 ### Sprints and scrambles
 
@@ -1563,6 +1597,10 @@ See [Dealing in Security - understanding vital services and how they keep you sa
 
 See [Societal collapse](#societal-collapse)
 
+## SEE
+
+[Surplus Energy Economics](#surplus-energy-economics)
+
 ## Self-sufficiency
 
 <!-- stub -->
@@ -1695,6 +1733,17 @@ Watch [Rob Hopkins: Transition to a world without oil | TED Talk](http://www.ted
 via <kbd>[👤 Toby Hemenway](#toby-hemenway)</kbd>
 
 > [...] humans have rarely had surplus energy. Surpluses are quickly dissipated by growth in consumption. Since humans have rarely had surpluses, the availability of energy cannot be the primary driver of cultural evolution.
+
+## Surplus Energy Economics
+
+<kbd>[👤 Tim Morgan](#tim-morgan)</kbd>
+
+surplus energy economics
+:    > the principle that the economy should be understood as an energy system, not a financial one.
+
+– [#175. The Surplus Energy Economy | Surplus Energy Economics](https://surplusenergyeconomics.wordpress.com/2020/06/19/175-the-surplus-energy-economy/)
+
+See [Energy Cost of Energy](#energy-cost-of-energy)
 
 ## Sustainability
 
@@ -2081,6 +2130,12 @@ Behind Instructables.com, Makani Power, Otherlab.com etc.
 
 Proponent of the un:solid movement
 
+## 👤 Tim Morgan
+
+<kbd>Economics</kbd>
+
+[Surplus Energy Economics](https://surplusenergyeconomics.wordpress.com/) blog
+
 ## 👤 Toby Hemenway
 
 <kbd>Permaculture</kbd>
@@ -2159,10 +2214,11 @@ Initiator of [the Hexayurt project](http://hexayurt.com/) and the [6WTD](#6wtd) 
 *[BOE]: Blue Ocean Event
 *[CAGW]: Catastrophic Anthropogenic Global Warming
 *[ECoE]: Energy Cost of Energy
-*[EROEI]: Energy Return On Energy Invested
+*[EROEI]: Energy Return on Energy Invested
 *[EROC]: Energy Return On Carbon
 *[FIASY]: First Ice-free Arctic Summer Year
 *[NTW]: Near-Term Extinction
+*[SEE]: Surplus Energy Economics
 *[GHG]: greenhouse gas
 *[GHGs]: greenhouse gases
 *[6WTD]: Six Ways To Die
