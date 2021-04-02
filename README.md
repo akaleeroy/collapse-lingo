@@ -1889,6 +1889,10 @@ tragedy of the commons
 
 from <kbd>[👤 William R., Jr.](#william-r-catton-jr)</kbd> - Overshoot via [The Archdruid Report - As Night Closes In](https://thearchdruidreport-archive.200605.xyz/2015/02/as-night-closes-in.html)
 
+> “Each man is locked into a system that compels him to increase his herd without limit – in a world that is limited. Ruin is the destination toward which all men rush, each pursuing his own best interest in a society that believes in the freedom of the commons. Freedom in a commons brings ruin to all.”
+
+– Garrett Hardin, via [Doom For Dummies](http://doomfordummies.blogspot.com)
+
 Related: [Fractal planting patterns yield optimal harvests, without central control](https://phys.org/news/2017-06-fractal-patterns-yeild-optimal-harvests.html) a situation observed with Balinese rice farmers where they plant in synchrony without central planning, but maximizing their individual gain creates optimum yields instead of the [tragedy of the commons](#tragedy-of-the-commons). Codifying this practice into a scientific theory to be prescribed has caveats though: [👤 Nassim Taleb](#nassim-taleb) makes this case talking about traders arriving at price.
 
 > Their prices were sophisticated and more efficient than those produced by the formula, and it was obvious what came first. For instance, the prices accounted for Extremistan and “fat tails,” which the standard formulas ignored.
