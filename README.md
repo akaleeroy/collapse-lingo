@@ -746,9 +746,11 @@ Suggested in [Implications of net energy-return-on-investment for a low-carbon e
 ## Energy Return On Investment
 
 energy return on investment
-:    the ratio of the amount of usable energy (the [exergy](https://en.wikipedia.org/wiki/Exergy)) delivered from a particular energy resource to the amount of exergy used to obtain that energy resource
+:    the ratio of the amount of usable energy (the [exergy](https://en.wikipedia.org/wiki/Exergy)) delivered from a particular energy resource to the amount of exergy used to obtain that energy resource.
 
-[Energy return on investment - Wikipedia](https://en.wikipedia.org/wiki/Energy_return_on_investment)
+– [Energy return on investment - Wikipedia](https://en.wikipedia.org/wiki/Energy_return_on_investment)
+
+How much you get out over how much you put in to get it. If you put in 1 unit of energy and get 1 unit out you're just going through the motions. No surplus is created, extraction doesn't make sense. Accounting for the true energy costs is tricky so oftentimes poor deals seem acceptable, for example from a financial standpoint.
 
 ## Energy averaging systems
 
