@@ -557,10 +557,15 @@ dissensus
 
 <kbd>Ecology</kbd> <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd>
 
-drawdown
+drawdown (William R Catton)
 :   stealing resources from the future
 
 From the cover of [Overshoot - The Ecological Basis of Revolutionary Change (1982)](https://www.goodreads.com/book/show/319810.Overshoot)
+
+drawdown (climate change)
+:   the point in the future when levels of greenhouse gases in the atmosphere stop climbing and start to steadily decline, thereby stopping catastrophic climate change
+
+– [Project Drawdown](https://drawdown.org/)
 
 ## Dried sea squirrels
 
