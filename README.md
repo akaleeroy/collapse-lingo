@@ -568,6 +568,11 @@ dissensus
 
 – [The Archdruid Report: Dissensus and Organic Process](https://thearchdruidreport-archive.200605.xyz/2008/12/dissensus-and-organic-process.html)
 
+## Doomstead
+
+doomstead
+:   a homestead for weathering collapse. It can have features for off-grid self-sufficiency, security measures against intruders, concealment etc. Sometimes derogatory, to say the doomsteader's plan is leaky or unrealistic in practice.
+
 ## Drawdown
 
 <kbd>Ecology</kbd> <kbd>[👤 William R. Catton Jr.](#william-r-catton-jr)</kbd>
