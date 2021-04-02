@@ -59,6 +59,21 @@ Book by <kbd>[👤 John Pugsley](#john-pugsley)</kbd>
 
 The notion that fiat money punishes savers therefore storing value can only be accomplished by acquiring a diversified portfolio of hard tangible goods that don't spoil. Examples include stuff that you'll use or industrial metals that have to be in demand.
 
+## Anthropocene
+
+anthropocene
+:    proposed geological epoch following the Holocene, named in reference to the significant influence of human activity on planetary systems.
+
+The proper start point of the Antropocene is debated. It could be considered the Industrial Revolution, the extinction of megafauna, or maybe as far back as the discovery of fire.
+
+The end point however is clearer – it's in the near future. Thus is we consider it from way back it overlaps with the Holocene, and if we consider it as the lifespan of industrial civilisation it will only have been a few centuries – too short to be called an epoch.
+
+<kbd>[👤 John Michael Greer](#john-michael-greer)</kbd> argues a better name for this anomalous thin layer in the geological record would be _the Pleistocene-Neocene transition:_
+
+> We don’t call the first epoch after the comet impact 65 million years ago the "Cometocene", so there’s no valid reason to use a label like “Anthropocene” for the epoch that will dawn when the current transition winds down.
+
+– [The Myth of the Anthropocene - The Archdruid Report](https://thearchdruidreport-archive.200605.xyz/2016/10/the-myth-of-anthropocene.html)
+
 ## Antipodes
 
 This society which inverses the natural order of [gift → barter → tribute → trade](#gift-barter-tribute-trade-pyramid), and lack of commerce
