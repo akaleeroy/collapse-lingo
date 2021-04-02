@@ -1116,9 +1116,18 @@ See also: [Squeeze](#squeeze), [Binding factors](#binding-factors)
 
 ## Jevons paradox
 
-[Jevons paradox](http://en.wikipedia.org/wiki/Jevons_paradox "Jevons paradox - Wikipedia")
+<kbd>[👤 William Stanley Jevons](#william-stanley-jevons)</kbd>
+
+Jevons paradox
+:    the observation that increasing energy efficiency ultimately leads not to conservation, but to increased demand due to affordability.
 
 > In economics, the Jevons paradox is the proposition that as technology progresses, the increase in efficiency with which a resource is used tends to increase (rather than decrease) the rate of consumption of that resource.
+
+[Jevons paradox](http://en.wikipedia.org/wiki/Jevons_paradox)
+
+> In 1865, [👤 William Stanley Jevons](#william-stanley-jevons) observed that England's consumption of coal increased considerably after James Watt introduced his improvements to the steam engine. Jevons argued that increased efficiency in the use of coal would tend to increase the demand for coal, and would not reduce the rate at which England's deposits of coal were running out.
+
+Also known as the [rebound effect](#rebound-effect). See also [Khazzoom-Brookes postulate](#khazzoom-brookes-postulate)
 
 ## Just-in-time delivery
 
@@ -1126,9 +1135,12 @@ See also: [Squeeze](#squeeze), [Binding factors](#binding-factors)
 
 ## Khazzoom-Brookes postulate
 
-[Khazzoom-Brookes postulate](http://en.wikipedia.org/wiki/Khazzoom–Brookes_postulate "Khazzoom–Brookes postulate - Wikipedia")
+Khazzoom-Brookes postulate
+:    energy efficiency improvements that, on the broadest considerations, are economically justified at the microlevel, lead to higher levels of energy consumption at the macrolevel.
 
-See [Jevons paradox](#jevons-paradox)
+– [Khazzoom-Brookes postulate](http://en.wikipedia.org/wiki/Khazzoom–Brookes_postulate "Khazzoom–Brookes postulate - Wikipedia")
+
+A more modern analysis of a phenomenon known as the [Jevons paradox](#jevons-paradox).
 
 ## Kübler-Ross model of grief and coping
 
@@ -2230,6 +2242,12 @@ Initiator of [the Hexayurt project](http://hexayurt.com/) and the [6WTD](#6wtd) 
 <kbd>Ecology</kbd>
 
 [William R. Catton Jr. - Wikipedia](https://en.wikipedia.org/wiki/William_R._Catton_Jr.)
+
+## 👤 William Stanley Jevons
+
+<kbd>Economics</kbd>
+
+[Jevons paradox](#jevons-paradox)
 
 <!-- Footer -->
 
