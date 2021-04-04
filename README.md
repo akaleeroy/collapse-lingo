@@ -5,7 +5,7 @@ Date:    2 April 2021
 
 # Collapse Lingo
 
-Rounding up collapse lingo, terminology, jargon, terms of art, concepts, tropes, memes, arguments, and patterns.
+Rounding up collapse lingo, terminology, jargon, terms of art, nomenclature, concepts, tropes, memes, arguments, and patterns.
 
 > [:book: View rendered HTML](https://htmlpreview.github.io/?https://github.com/akaleeroy/collapse-lingo/blob/master/README.html "using htmlpreview.github.io")
 
@@ -64,7 +64,7 @@ The notion that fiat money punishes savers therefore storing value can only be a
 anthropocene
 :    proposed geological epoch following the Holocene, named in reference to the significant influence of human activity on planetary systems.
 
-The proper start point of the Antropocene is debated. It could be considered the Industrial Revolution, the extinction of megafauna, or maybe as far back as the discovery of fire.
+The proper start point of the Antropocene is debated. It could be considered the Industrial Revolution, the extinction of megafauna, or maybe as far back as the [discovery of fire](https://www.springer.com/gp/book/9789400773318).
 
 The end point however is clearer – it's in the near future. Thus is we consider it from way back it overlaps with the Holocene, and if we consider it as the lifespan of industrial civilisation it will only have been a few centuries – too short to be called an epoch.
 
@@ -73,6 +73,8 @@ The end point however is clearer – it's in the near future. Thus is we conside
 > We don’t call the first epoch after the comet impact 65 million years ago the "Cometocene", so there’s no valid reason to use a label like “Anthropocene” for the epoch that will dawn when the current transition winds down.
 
 – [The Myth of the Anthropocene - The Archdruid Report](https://thearchdruidreport-archive.200605.xyz/2016/10/the-myth-of-anthropocene.html)
+
+See also [P-N transition, or, toward the Neocene « immanence](https://blog.uvm.edu/aivakhiv/2019/03/17/p-n-transition-or-toward-the-neocene/)
 
 ## Antipodes
 
