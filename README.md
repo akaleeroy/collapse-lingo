@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    2 April 2021
+Date:    5 April 2021
 
 
 # Collapse Lingo
@@ -783,6 +783,15 @@ From [👤 Nassim Taleb](#nassim-taleb):
 _The difference between 100 people going to a casino and one person going to a casino 100 times, i.e. between (path dependent) and conventionally understood probability. The mistake has persisted in economics and psychology since age immemorial._
 
 – [The Logic of Risk Taking – INCERTO – Medium](https://medium.com/incerto/the-logic-of-risk-taking-107bf41029d3)
+
+## Entryism
+
+<kbd>[👤 John Michael Greer](#john-michael-greer)</kbd> <kbd>Coopting</kbd> <kbd>Culture Wars</kbd>
+
+entryism
+:    the strategy of joining a group that exists for some purpose unrelated to yours, getting established there, inviting in your friends, and then using every sleazy trick in the book to take over the group so you can use it to promote your own agenda.
+
+– [Rice and Beans in the Outer Darkness - Ecosophia](https://www.ecosophia.net/rice-and-beans-in-the-outer-darkness/)
 
 ## Environment
 
