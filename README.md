@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    5 April 2021
+Date:    25 May 2021
 
 
 # Collapse Lingo
@@ -938,6 +938,10 @@ Gifts should be the primary transactions, with barter, tribute and trade in orde
 See [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) p.100/107
 
 Also see [Antipodes](#antipodes)
+
+## Gingko model of societal crisis
+
+[Ginkgo model of societal crisis](#ginkgo-model-of-societal-crisis) [gingko is a common spelling of [_Ginkgo biloba_](https://en.wikipedia.org/wiki/Ginkgo_biloba)] 
 
 ## Ginkgo model of societal crisis
 
@@ -2158,7 +2162,6 @@ Formerly blogged at **The Archdruid Report,** now taken offline. [The Archdruid 
 
 Co-author of [The Limits to Growth](#limits-to-growth)
 
-
 ## 👤 Michael Ruppert
 
 [Michael Ruppert - Wikipedia](https://en.wikipedia.org/wiki/Michael_Ruppert)
@@ -2192,6 +2195,12 @@ Twitter: [@nntaleb](https://twitter.com/nntaleb/)
 ## 👤 John Pugsley
 
 [Author: John Pugsley - Worldcat](http://www.worldcat.org/search?q=au%3APugsley%2C+John+A.&qt=hot_author)
+
+## 👤 Peter Turchin
+
+[Cliodynamica – Peter Turchin's blog](https://peterturchin.com/cliodynamica/)
+
+> **Peter Turchin** is a Professor at the University of Connecticut, External Professor at the Complexity Science Hub-Vienna, and Research Associate in the School of Anthropology at the University of Oxford. He conducts research on the cultural evolution and historical dynamics of past and present societies. He is the author of seven books, including [War and Peace and War](https://peterturchin.com/war-and-peace-and-war/) (2005), [Secular Cycles](https://peterturchin.com/secular-cycles/) (2009), and more recently [Ultrasociety](https://peterturchin.com/ultrasociety/)(2016) and [Ages of Discord](https://peterturchin.com/ages-of-discord/) (2016).
 
 ## 👤 Rob Hopkins
 
