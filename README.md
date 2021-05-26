@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    25 May 2021
+Date:    26 May 2021
 
 
 # Collapse Lingo
@@ -1468,6 +1468,15 @@ Watch [Geoffrey West on Complexity (2011) - YouTube](https://www.youtube.com/wat
 
 See [Civil religion of progress](#civil-religion-of-progress)
 
+## Progress trap
+
+<kbd>[👤 Richard Adrian Reese](#richard-adrian-reese)</kbd>
+
+progress trap
+:   > the unintended consequences of brilliant innovations that permit clever folks to survive by shifting to a new and improved way of life. Unfortunately, they also tend to burn the bridges behind them as they advance. Returning to the good old days is no longer possible.
+
+– Ronald Wright, via [👤 Richard Adrian Reese](#richard-adrian-reese) – [What Is Sustainable: Wild Free and Happy Sample 21](https://wildancestors.blogspot.com/2019/08/wild-free-and-happy-sample-21.html)
+
 ## Progressivism
 
 What social scientists label a “progressivist” view supposes that cultural complexity is intentional and that it emerged through the inventiveness of our ancestors. Progressivism is the dominant ideology of free-market societies. A sort of ancestor myth. The concepts of civilization and progress have a status in the cosmology of industrial societies that amounts to what anthropologists call “ancestor myths.” Ancestor myths validate a contemporary social order by presenting it as a natural and sometimes heroic progression from earlier times.
@@ -2201,6 +2210,10 @@ Twitter: [@nntaleb](https://twitter.com/nntaleb/)
 [Cliodynamica – Peter Turchin's blog](https://peterturchin.com/cliodynamica/)
 
 > **Peter Turchin** is a Professor at the University of Connecticut, External Professor at the Complexity Science Hub-Vienna, and Research Associate in the School of Anthropology at the University of Oxford. He conducts research on the cultural evolution and historical dynamics of past and present societies. He is the author of seven books, including [War and Peace and War](https://peterturchin.com/war-and-peace-and-war/) (2005), [Secular Cycles](https://peterturchin.com/secular-cycles/) (2009), and more recently [Ultrasociety](https://peterturchin.com/ultrasociety/)(2016) and [Ages of Discord](https://peterturchin.com/ages-of-discord/) (2016).
+
+## 👤 Richard Adrian Reese
+
+aka Rick Reese. [What Is Sustainable](https://wildancestors.blogspot.com/)
 
 ## 👤 Rob Hopkins
 
