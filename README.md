@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    26 May 2021
+Date:    22 June 2021
 
 
 # Collapse Lingo
@@ -753,6 +753,8 @@ energy return on investment
 – [Energy return on investment - Wikipedia](https://en.wikipedia.org/wiki/Energy_return_on_investment)
 
 How much you get out over how much you put in to get it. If you put in 1 unit of energy and get 1 unit out you're just going through the motions. No surplus is created, extraction doesn't make sense. Accounting for the true energy costs is tricky so oftentimes poor deals seem acceptable, for example from a financial standpoint.
+
+First defined in Hall et al. [1986](https://www.osti.gov/biblio/6400055). See also Hall et al. [2014](https://doi.org/10.1016/j.enpol.2013.05.049)
 
 ## Energy averaging systems
 
