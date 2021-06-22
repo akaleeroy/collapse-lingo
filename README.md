@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    22 June 2021
+Date:    23 June 2021
 
 
 # Collapse Lingo
@@ -967,9 +967,10 @@ via <kbd>[👤 Venkatesh Rao](#venkatesh-rao)</kbd>
 
 ## Graceful degradation
 
-<!-- stub -->
+graceful degradation
+:   (technology in collapse) when a system is confronted with faults specific to collapse, such as unavailability of fuel, electric power, consumables, replacement parts etc. yet it doesn't instantly become a paperweight. Instead it allows repairing, degraded operation, upcycling or recycling. Examples: hand tool with electric power as [progressive enhancement](https://en.wikipedia.org/wiki/Progressive_enhancement), electric bicycle that degrades into pedal-powered bicycle then into Chinese wheelbarrow
 
-See [Descent-friendly Design](#descent-friendly-design)
+See [Descent-friendly Design](#descent-friendly-design) and [Fault tolerance - Wikipedia](https://en.wikipedia.org/wiki/Fault_tolerance)
 
 ## Great Refactoring
 
@@ -1012,34 +1013,49 @@ See [High-tech dip](#high-tech-dip)
 ## High-tech dip
 
 <kbd>Identify / Coin</kbd>
-<kbd>Contrarian</kbd>
 <kbd>Conservation</kbd>
 
 high-tech dip
-:   entombed complexity. a pattern of using high technology to reduce reliance on high technology in the future.  
-    _Those folks over at the lab are using artificial neural networks to compress all that knowledge into a handful of slide rules_
+:   making use of advanced technology while available to vet designs and best practices that can be passed on and implemented by low-tech means.
 
-Making use of advanced technology today to vet best practices that can be passed on and implemented by low-tech means.
+A [technological triage](#technological-triage) effort to brace a technology with chances of survival through the collapse of industrial civilization. The type of technology can be 2) somewhat dependent and has been re-engineered to survive 3) independent, or 4) defunct and brought back from the dead.
 
-Example: arriving at simpler proxies for high-tech tests. Listened to Dan Kittridge speaking about which lab he works with to get his soil tested, rarer minerals were tested as a bonus. If the tests rely on a burdensome technological suite, maybe we can leverage AI pattern matching to displace those tests, relying only on simpler DIY tests but getting sufficient information from them.
+It can be a **re-engineering effort,** for example producing slide rules to help replace a vulnerable but critical electronic technology. Or it can be a **refinement effort,** aimed at increasing the accessibility and ubiquity of a technology already presumed saved. For example doing computer simulations to determine an optimal design for a hand tool.
 
-Another example: (mechanical engineering) genetic algorithm generating millions of designs for a part, stress testing all of them in computer simulation and selecting the most optimal solution. That design can then be copied by craftsmen with hand tools. Ideally it is distributed with documentation (mentioning what it's optimized for, how and why). Or only the form was passed on, to be reproduced _in the dark._ A technology suite that requires high-tech only on the first iterations.
+By actively planning for capability loss high-tech dips can be understood as an effort to contain the blow-back from unravelling [intellectual dark matter](#intellectual-dark-matter). **Entombing the fruits of complexity** before that level is relinquished. Whether or not a fruit is suitable to be entombed is determined by the complexity cost of the low-tech phase (the lower the better) and the cost/benefit ratio of the effort (don't waste time optimizing trivialities), among other factors. A particularly strong signal will call for a big effort, a scramble that can be called an [earthshot](#earthshot).
 
-Another different example: using advances in cognitive science to develop teaching and learning methodologies, maximizing the chance that more people will learn new skills required by changing circumstances, faster.
+Examples: 
 
-Because the high-tech that generated the artifact is lost or unsustainable in the new context a high-tech dip is a [dead man walking](https://en.wiktionary.org/wiki/dead_man_walking) technological suite.
+- arriving at simpler proxies for high-tech tests. Listened to Dan Kittridge speaking about which lab he works with to get his soil tested, rarer minerals were tested as a bonus. If the tests rely on a burdensome technological suite, maybe we can leverage AI pattern matching to displace those tests, relying only on simpler DIY tests but getting sufficient information from them.
+- (mechanical engineering) genetic algorithm generating millions of designs for a part, stress testing all of them in computer simulation and selecting the most optimal solution. That design can then be copied by craftsmen with hand tools. Ideally it is distributed with documentation (mentioning what it's optimized for, how and why). Or only the form was passed on, to be reproduced _in the dark._
+- using advances in cognitive science to develop teaching and learning methodologies, maximizing the chance that more people will learn new skills required by changing circumstances, faster.
 
-See also [decadence](#decadence) and [intellectual dark matter](#intellectual-dark-matter).
+### Caveats
 
-*[AI]: Artificial Intelligence
+**Failures of cultural transmission.** Imitation leading to idolatry of the Old World and [decadent](#decadence) aping, losing sight of important properties of the technology.
 
-### Sprints and scrambles
+In the low-tech phase we're dealing with a [dead man walking](https://en.wiktionary.org/wiki/dead_man_walking) technological suite. Evolving circumstances may require adapting the solution, but since only the transparent aspects of the technology are likely to have been transmitted through imitation, improvising an adaptation may not be obvious and the whole evolutionary path is dropped. The significance of the fruits of complexity should be preserved. Since the experiments can't be replicated so you must trust the design by checking its quality by other means.
 
-As a way to preserve benefits of high complexity, along the arc of collapse we may see a scramble for high-tech dips, sprints to rules of thumb. Seeing complex systems simplify (collapse), people will want to extract value from them before they're gone for good. To do so they will have to apply this pattern.
+**Systemic collapse contagion.** The context for the technology may undergo spontaneous existence failure, for any number of reasons.
+
 
 - [ ] <kbd>TODO</kbd> Improve examples, condense text, identify concepts, discuss. Like embodied energy ⇒ emergy, entombed complexity ⇒ encomplexity? Because embodied complexity suggests every time an instance is produced, whereas entombed suggests historical relic
 
-Related: Appropriate Technology, Intermediate technology, Graceful degradation, Descent-friendly Design
+Related:
+
+- [Technological triage](#technological-triage)
+- [Decadence](#decadence)
+- [Intellectual dark matter](#intellectual-dark-matter)
+- [Appropriate Technology](#appropiate-technology)
+- [Intermediate technology](#intermediate-technology)
+- [Bridge technology](#bridge-technology)
+- [Descent-friendly Design](#descent-friendly-design)
+- [Graceful degradation](#graceful-degradation)
+
+See also:
+
+
+*[AI]: Artificial Intelligence
 
 ## Hirsch Report
 
@@ -1101,11 +1117,13 @@ The _fighting tanks with horses_ methaphor.
 
 Coined by [👤 Samo Burja](#samo-burja)
 
-> Maybe there's something invisible holding our society together in the exact same way. (...) Intellectual dark matter. I think we are standing on a large tower of intellectual dark matter. And some of the dark matter has been lost for good. And some of it it still with us. And sometimes, unfortunately, I think we're living on the fumes of institutions that remain on autopilot, but the knowledge has been lost.
+> Maybe there's something invisible holding our society together in the exact same way. (...) Intellectual dark matter. I think we are standing on a large tower of intellectual dark matter. And some of the dark matter has been lost for good. And some of it is still with us. And sometimes, unfortunately, I think we're living on the fumes of institutions that remain on autopilot, but the knowledge has been lost.
 >
 > [Intellectual dark matter is] the observation that even if we cannot investigate the knowledge directly we can ascertain the knowledge exists. Just as the invisible mass can be detected through its gravitational effects.
 
 – [Samo Burja - Civilization - Institutions, Knowledge and the Future (2018)](https://www.youtube.com/watch?v=OiNmTVThNEY)
+
+See [Technological triage](#technological-triage)
 
 ## _It's different this time_
 
@@ -1191,6 +1209,16 @@ See [The Archdruid Report - Hair Shirts, Hypocrisy, and Wilkins Micawber](https:
 ## Law of diminishing productivity
 
 <!-- stub -->
+
+## Legacy tech
+
+legacy tech
+:    machines that can be kept running for years or decades after they can no longer be made
+     > The struggle to control various items of legacy tech may become a fruitful source of conflict as the deindustrial age proceeds down the curve of catabolic collapse
+
+– John Michael Greer, The Long Descent (2009) > Chapter 5: Tools for Transition, p.175
+
+See [Technological triage](#technological-triage) and [High-tech dip](#high-tech-dip)
 
 ## Legibility
 
@@ -1911,6 +1939,20 @@ via <kbd>[👤 James Howard Kunstler](#james-howard-kunstler)</kbd> [How Do You 
 [Cornucopianism](#cornucopianism)
 
 > Foundation of ignorance
+
+## Technological triage
+
+<kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
+
+technological triage
+:    sorting critical technologies by their dependence on a functioning industrial system:  
+     1) wholly dependent – can't be saved no matter what  
+     2) somewhat dependent – will be saved if we act and lost if we don't  
+     3) independent – will be saved even if we do nothing  
+     4) defunct – technologies that have gone out of existence but could be brought back and put into use if action is taken now.  
+     Like triage done by battlefield medics, resources should go to 2) and 4), reengineering the somewhat dependent technologies to survive deindustrialization and bringing back defunct appropriate technologies.
+
+– John Michael Greer, The Long Descent (2009) > Chapter 5: Tools for Transition, p.173
 
 ## Time probability
 

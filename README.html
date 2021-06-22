@@ -4,7 +4,7 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="summary" content="A /r/collapse lexicon">
-<meta name="date" content="22 June 2021"><style>body {
+<meta name="date" content="23 June 2021"><style>body {
   max-width: 980px;
   border: 1px solid #ddd;
   outline: 1300px solid #fff;
@@ -1226,7 +1226,7 @@ body .markdown-body
 <li><a href="#hairshirt-environmentalism">Hairshirt environmentalism</a></li>
 <li><a href="#hi-tek-dip">Hi-tek dip</a></li>
 <li><a href="#high-tech-dip">High-tech dip</a><ul>
-<li><a href="#sprints-and-scrambles">Sprints and scrambles</a></li>
+<li><a href="#caveats">Caveats</a></li>
 </ul>
 </li>
 <li><a href="#hirsch-report">Hirsch Report</a></li>
@@ -1246,6 +1246,7 @@ body .markdown-body
 <li><a href="#leapfrog">Leapfrog</a></li>
 <li><a href="#less">LESS</a></li>
 <li><a href="#law-of-diminishing-productivity">Law of diminishing productivity</a></li>
+<li><a href="#legacy-tech">Legacy tech</a></li>
 <li><a href="#legibility">Legibility</a></li>
 <li><a href="#liebigs-law-of-the-minimum">Liebig&rsquo;s law of the minimum</a></li>
 <li><a href="#limits-to-growth">Limits to Growth</a></li>
@@ -1330,6 +1331,7 @@ body .markdown-body
 <li><a href="#techno-optimism">Techno-optimism</a></li>
 <li><a href="#techno-triumphalism">Techno-triumphalism</a></li>
 <li><a href="#technological-optimism">Technological optimism</a></li>
+<li><a href="#technological-triage">Technological triage</a></li>
 <li><a href="#time-probability">Time probability</a></li>
 <li><a href="#tragedy-of-the-commons">Tragedy of the Commons</a></li>
 <li><a href="#those-who-win-in-a-rigged-game-get-stupid">Those who win in a rigged game get stupid</a></li>
@@ -2072,9 +2074,11 @@ Example: <em>Crude oil is a fungible commodity.</em></dd>
 <p><kbd><a href="#bruce-sterling">👤 Bruce Sterling</a></kbd>
 via <kbd><a href="#venkatesh-rao">👤 Venkatesh Rao</a></kbd></p>
 <h2 id="graceful-degradation">Graceful degradation<a class="headerlink" href="#graceful-degradation" title="Permanent link"></a></h2>
-<!-- stub -->
-
-<p>See <a href="#descent-friendly-design">Descent-friendly Design</a></p>
+<dl>
+<dt>graceful degradation</dt>
+<dd>(technology in collapse) when a system is confronted with faults specific to collapse, such as unavailability of fuel, electric power, consumables, replacement parts etc. yet it doesn&rsquo;t instantly become a paperweight. Instead it allows repairing, degraded operation, upcycling or recycling. Examples: hand tool with electric power as <a href="https://en.wikipedia.org/wiki/Progressive_enhancement">progressive enhancement</a>, electric bicycle that degrades into pedal-powered bicycle then into Chinese wheelbarrow</dd>
+</dl>
+<p>See <a href="#descent-friendly-design">Descent-friendly Design</a> and <a href="https://en.wikipedia.org/wiki/Fault_tolerance">Fault tolerance - Wikipedia</a></p>
 <h2 id="great-refactoring">Great Refactoring<a class="headerlink" href="#great-refactoring" title="Permanent link"></a></h2>
 <p><kbd>Identify / Coin</kbd> <kbd><a href="#cornucopianism">Cornucopianism</a></kbd> <kbd>Contrarian</kbd></p>
 <p>Information processing with computers underpins present societal complexity and enables desireable adaptation and conservation measures. But it relies on a vastly complex high-tech supply chain that is vulnerable to disruptions.</p>
@@ -2098,25 +2102,39 @@ via <kbd><a href="#venkatesh-rao">👤 Venkatesh Rao</a></kbd></p>
 <p>See <a href="#high-tech-dip">High-tech dip</a></p>
 <h2 id="high-tech-dip">High-tech dip<a class="headerlink" href="#high-tech-dip" title="Permanent link"></a></h2>
 <p><kbd>Identify / Coin</kbd>
-<kbd>Contrarian</kbd>
 <kbd>Conservation</kbd></p>
 <dl>
 <dt>high-tech dip</dt>
-<dd>entombed complexity. a pattern of using high technology to reduce reliance on high technology in the future.<br />
-<em>Those folks over at the lab are using artificial neural networks to compress all that knowledge into a handful of slide rules</em></dd>
+<dd>making use of advanced technology while available to vet designs and best practices that can be passed on and implemented by low-tech means.</dd>
 </dl>
-<p>Making use of advanced technology today to vet best practices that can be passed on and implemented by low-tech means.</p>
-<p>Example: arriving at simpler proxies for high-tech tests. Listened to Dan Kittridge speaking about which lab he works with to get his soil tested, rarer minerals were tested as a bonus. If the tests rely on a burdensome technological suite, maybe we can leverage <abbr title="Artificial Intelligence">AI</abbr> pattern matching to displace those tests, relying only on simpler DIY tests but getting sufficient information from them.</p>
-<p>Another example: (mechanical engineering) genetic algorithm generating millions of designs for a part, stress testing all of them in computer simulation and selecting the most optimal solution. That design can then be copied by craftsmen with hand tools. Ideally it is distributed with documentation (mentioning what it&rsquo;s optimized for, how and why). Or only the form was passed on, to be reproduced <em>in the dark.</em> A technology suite that requires high-tech only on the first iterations.</p>
-<p>Another different example: using advances in cognitive science to develop teaching and learning methodologies, maximizing the chance that more people will learn new skills required by changing circumstances, faster.</p>
-<p>Because the high-tech that generated the artifact is lost or unsustainable in the new context a high-tech dip is a <a href="https://en.wiktionary.org/wiki/dead_man_walking">dead man walking</a> technological suite.</p>
-<p>See also <a href="#decadence">decadence</a> and <a href="#intellectual-dark-matter">intellectual dark matter</a>.</p>
-<h3 id="sprints-and-scrambles">Sprints and scrambles<a class="headerlink" href="#sprints-and-scrambles" title="Permanent link"></a></h3>
-<p>As a way to preserve benefits of high complexity, along the arc of collapse we may see a scramble for high-tech dips, sprints to rules of thumb. Seeing complex systems simplify (collapse), people will want to extract value from them before they&rsquo;re gone for good. To do so they will have to apply this pattern.</p>
+<p>A <a href="#technological-triage">technological triage</a> effort to brace a technology with chances of survival through the collapse of industrial civilization. The type of technology can be 2) somewhat dependent and has been re-engineered to survive 3) independent, or 4) defunct and brought back from the dead.</p>
+<p>It can be a <strong>re-engineering effort,</strong> for example producing slide rules to help replace a vulnerable but critical electronic technology. Or it can be a <strong>refinement effort,</strong> aimed at increasing the accessibility and ubiquity of a technology already presumed saved. For example doing computer simulations to determine an optimal design for a hand tool.</p>
+<p>By actively planning for capability loss high-tech dips can be understood as an effort to contain the blow-back from unravelling <a href="#intellectual-dark-matter">intellectual dark matter</a>. <strong>Entombing the fruits of complexity</strong> before that level is relinquished. Whether or not a fruit is suitable to be entombed is determined by the complexity cost of the low-tech phase (the lower the better) and the cost/benefit ratio of the effort (don&rsquo;t waste time optimizing trivialities), among other factors. A particularly strong signal will call for a big effort, a scramble that can be called an <a href="#earthshot">earthshot</a>.</p>
+<p>Examples: </p>
+<ul>
+<li>arriving at simpler proxies for high-tech tests. Listened to Dan Kittridge speaking about which lab he works with to get his soil tested, rarer minerals were tested as a bonus. If the tests rely on a burdensome technological suite, maybe we can leverage <abbr title="Artificial Intelligence">AI</abbr> pattern matching to displace those tests, relying only on simpler DIY tests but getting sufficient information from them.</li>
+<li>(mechanical engineering) genetic algorithm generating millions of designs for a part, stress testing all of them in computer simulation and selecting the most optimal solution. That design can then be copied by craftsmen with hand tools. Ideally it is distributed with documentation (mentioning what it&rsquo;s optimized for, how and why). Or only the form was passed on, to be reproduced <em>in the dark.</em></li>
+<li>using advances in cognitive science to develop teaching and learning methodologies, maximizing the chance that more people will learn new skills required by changing circumstances, faster.</li>
+</ul>
+<h3 id="caveats">Caveats<a class="headerlink" href="#caveats" title="Permanent link"></a></h3>
+<p><strong>Failures of cultural transmission.</strong> Imitation leading to idolatry of the Old World and <a href="#decadence">decadent</a> aping, losing sight of important properties of the technology.</p>
+<p>In the low-tech phase we&rsquo;re dealing with a <a href="https://en.wiktionary.org/wiki/dead_man_walking">dead man walking</a> technological suite. Evolving circumstances may require adapting the solution, but since only the transparent aspects of the technology are likely to have been transmitted through imitation, improvising an adaptation may not be obvious and the whole evolutionary path is dropped. The significance of the fruits of complexity should be preserved. Since the experiments can&rsquo;t be replicated so you must trust the design by checking its quality by other means.</p>
+<p><strong>Systemic collapse contagion.</strong> The context for the technology may undergo spontaneous existence failure, for any number of reasons.</p>
 <ul class="task-list">
 <li class="task-list-item"><input type="checkbox" disabled/> <kbd>TODO</kbd> Improve examples, condense text, identify concepts, discuss. Like embodied energy ⇒ emergy, entombed complexity ⇒ encomplexity? Because embodied complexity suggests every time an instance is produced, whereas entombed suggests historical relic</li>
 </ul>
-<p>Related: Appropriate Technology, Intermediate technology, Graceful degradation, Descent-friendly Design</p>
+<p>Related:</p>
+<ul>
+<li><a href="#technological-triage">Technological triage</a></li>
+<li><a href="#decadence">Decadence</a></li>
+<li><a href="#intellectual-dark-matter">Intellectual dark matter</a></li>
+<li><a href="#appropiate-technology">Appropriate Technology</a></li>
+<li><a href="#intermediate-technology">Intermediate technology</a></li>
+<li><a href="#bridge-technology">Bridge technology</a></li>
+<li><a href="#descent-friendly-design">Descent-friendly Design</a></li>
+<li><a href="#graceful-degradation">Graceful degradation</a></li>
+</ul>
+<p>See also:</p>
 <h2 id="hirsch-report">Hirsch Report<a class="headerlink" href="#hirsch-report" title="Permanent link"></a></h2>
 <p><kbd>Peak Oil</kbd>
 <kbd>Energy Alternatives</kbd>
@@ -2162,10 +2180,11 @@ via <kbd><a href="#venkatesh-rao">👤 Venkatesh Rao</a></kbd></p>
 <h2 id="intellectual-dark-matter">Intellectual dark matter<a class="headerlink" href="#intellectual-dark-matter" title="Permanent link"></a></h2>
 <p>Coined by <a href="#samo-burja">👤 Samo Burja</a></p>
 <blockquote>
-<p>Maybe there&rsquo;s something invisible holding our society together in the exact same way. (&hellip;) Intellectual dark matter. I think we are standing on a large tower of intellectual dark matter. And some of the dark matter has been lost for good. And some of it it still with us. And sometimes, unfortunately, I think we&rsquo;re living on the fumes of institutions that remain on autopilot, but the knowledge has been lost.</p>
+<p>Maybe there&rsquo;s something invisible holding our society together in the exact same way. (&hellip;) Intellectual dark matter. I think we are standing on a large tower of intellectual dark matter. And some of the dark matter has been lost for good. And some of it is still with us. And sometimes, unfortunately, I think we&rsquo;re living on the fumes of institutions that remain on autopilot, but the knowledge has been lost.</p>
 <p>[Intellectual dark matter is] the observation that even if we cannot investigate the knowledge directly we can ascertain the knowledge exists. Just as the invisible mass can be detected through its gravitational effects.</p>
 </blockquote>
 <p>– <a href="https://www.youtube.com/watch?v=OiNmTVThNEY">Samo Burja - Civilization - Institutions, Knowledge and the Future (2018)</a></p>
+<p>See <a href="#technological-triage">Technological triage</a></p>
 <h2 id="its-different-this-time"><em>It&rsquo;s different this time</em><a class="headerlink" href="#its-different-this-time" title="Permanent link"></a></h2>
 <p>Standard delusional response to historical arguments supporting the imminence of collapse</p>
 <p>See <a href="#peak-oil-denial-bingo">Peak Oil Denial Bingo!</a></p>
@@ -2235,6 +2254,16 @@ See <a href="https://thearchdruidreport-archive.200605.xyz/2011/05/hair-shirts-h
 <h2 id="law-of-diminishing-productivity">Law of diminishing productivity<a class="headerlink" href="#law-of-diminishing-productivity" title="Permanent link"></a></h2>
 <!-- stub -->
 
+<h2 id="legacy-tech">Legacy tech<a class="headerlink" href="#legacy-tech" title="Permanent link"></a></h2>
+<dl>
+<dt>legacy tech</dt>
+<dd>machines that can be kept running for years or decades after they can no longer be made<blockquote>
+<p>The struggle to control various items of legacy tech may become a fruitful source of conflict as the deindustrial age proceeds down the curve of catabolic collapse</p>
+</blockquote>
+</dd>
+</dl>
+<p>– John Michael Greer, The Long Descent (2009) &gt; Chapter 5: Tools for Transition, p.175</p>
+<p>See <a href="#technological-triage">Technological triage</a> and <a href="#high-tech-dip">High-tech dip</a></p>
 <h2 id="legibility">Legibility<a class="headerlink" href="#legibility" title="Permanent link"></a></h2>
 <p><kbd>Tangential</kbd></p>
 <p><kbd><a href="#venkatesh-rao">👤 Venkatesh Rao</a></kbd></p>
@@ -2850,6 +2879,18 @@ Your list will however match other people&rsquo;s list to a great extent, so you
 <blockquote>
 <p>Foundation of ignorance</p>
 </blockquote>
+<h2 id="technological-triage">Technological triage<a class="headerlink" href="#technological-triage" title="Permanent link"></a></h2>
+<p><kbd><a href="#john-michael-greer">👤 John Michael Greer</a></kbd></p>
+<dl>
+<dt>technological triage</dt>
+<dd>sorting critical technologies by their dependence on a functioning industrial system:<br />
+ 1) wholly dependent – can&rsquo;t be saved no matter what<br />
+ 2) somewhat dependent – will be saved if we act and lost if we don&rsquo;t<br />
+ 3) independent – will be saved even if we do nothing<br />
+ 4) defunct – technologies that have gone out of existence but could be brought back and put into use if action is taken now.<br />
+ Like triage done by battlefield medics, resources should go to 2) and 4), reengineering the somewhat dependent technologies to survive deindustrialization and bringing back defunct appropriate technologies.</dd>
+</dl>
+<p>– John Michael Greer, The Long Descent (2009) &gt; Chapter 5: Tools for Transition, p.173</p>
 <h2 id="time-probability">Time probability<a class="headerlink" href="#time-probability" title="Permanent link"></a></h2>
 <p><a href="#nassim-taleb">👤 Nassim Taleb</a></p>
 <p>See <a href="#ensemble-probability">Ensemble probability</a></p>
