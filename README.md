@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    23 June 2021
+Date:    28 June 2021
 
 
 # Collapse Lingo
@@ -1086,6 +1086,13 @@ Related: [dilemma](#dilemma)
 
 Cause & effect vs. Forcing & feedback (via <kbd>[👤 Ugo Bardi](#ugo-bardi)</kbd>)
 
+## Hubris
+
+hubris
+:    the overweening pride of the doomed
+
+via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd> After Progress: Reason and Religion at the End of the Industrial Age (2015) > Chapter 5. The God with the Monkeywrench
+
 ## Ignore-ance
 
 ignore-ance
@@ -1708,6 +1715,12 @@ See [Dealing in Security - understanding vital services and how they keep you sa
 ## Scissors model
 
 <kbd>[👤 Jean-Marc Jancovici](#jean-marc-jancovici)</kbd>
+
+Succinctly:
+
+> If you cut your finger with scissors, it's pointless to wonder which blade hurts you more.
+
+Context:
 
 > It’s been a long time since anyone raised again a race between declining availability of liquid fossil fuels (“peak oil”) and climate change. Since America increased its production, and other countries may also find frackable oil and gas deposits, the presumption is we will have enough energy to power our way directly into catastrophic climate change. In other words, we have been presuming that climate change “wins” the race to crash our civilization, and likely the world population. What does Jean-Marc think? He gives the example of scissors on your finger: **one blade is energy supply, the other climate change, both pinch.**
 
