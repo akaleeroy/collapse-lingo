@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    28 June 2021
+Date:    29 June 2021
 
 
 # Collapse Lingo
@@ -35,7 +35,7 @@ Six Ways To Die framework
 
 > when a civilization breaks down, the most efficient economies are most often those that use its remains as raw material.
 
-– John Michael Greer, _The Ecotechnic Future: Envisioning a Post-Peak World,_ p. 71
+– John Michael Greer, _The Ecotechnic Future: Envisioning a Post-Peak World,_ p.71
 
 See also:
 
@@ -616,7 +616,7 @@ Commonly used value: 150 people.
 
 > in the best case scenario, can be better than life in a weak, semi-defunct state.
 
-– [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) p.176/183
+– [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208), p. 176/183
 
 ## Earthshot
 
@@ -866,7 +866,7 @@ See [Electric vehicles](#electric-vehicles)
 
 > extend government-backed loan guarantees and pretend that economic growth will resume shortly
 
-from [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) p.18/25
+from [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) p. 18/25
 
 ## Favela Chic
 
@@ -937,7 +937,7 @@ via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
 Gifts should be the primary transactions, with barter, tribute and trade in order of decreasing importance.
 
-See [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) p.100/107
+See [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) p. 100/107
 
 Also see [Antipodes](#antipodes)
 
@@ -1088,10 +1088,12 @@ Cause & effect vs. Forcing & feedback (via <kbd>[👤 Ugo Bardi](#ugo-bardi)</kb
 
 ## Hubris
 
+<kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
+
 hubris
 :    the overweening pride of the doomed
 
-via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd> After Progress: Reason and Religion at the End of the Industrial Age (2015) > Chapter 5. The God with the Monkeywrench
+via John Michael Greer, After Progress: Reason and Religion at the End of the Industrial Age (2015) > Chapter 5. The God with the Monkeywrench, p. 110, EPUB file
 
 ## Ignore-ance
 
@@ -1219,11 +1221,17 @@ See [The Archdruid Report - Hair Shirts, Hypocrisy, and Wilkins Micawber](https:
 
 ## Legacy tech
 
+<kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
+
 legacy tech
 :    machines that can be kept running for years or decades after they can no longer be made
      > The struggle to control various items of legacy tech may become a fruitful source of conflict as the deindustrial age proceeds down the curve of catabolic collapse
 
-– John Michael Greer, The Long Descent (2009) > Chapter 5: Tools for Transition, p.175
+– John Michael Greer, The Long Descent (2009) > Chapter 5: Tools for Transition, p. 175
+
+> One way or another, the flow of new products will eventually sputter to a halt, though at least some of today’s technologies will stay in use for as long as they can be kept functioning in the harsh conditions of an age of resource scarcity and ecological payback. A surprisingly broad range of technologies can be built and maintained by people who have little or no grasp of the underlying science, and thus it has happened more than once — as with the Roman aqueducts that brought water to medieval cities — that a relatively advanced technology can be kept running for centuries by people who have no clue how it was built. Over the short and middle term, in a world after progress, we can probably expect many current technologies to remain in place for a while, though it’s an open question how many people in the industrial world will still be able to afford to use them for how much longer.
+
+–  John Michael Greer, After Progress: Reason and Religion at the End of the Industrial Age (2015) > Chapter 5. The God with the Monkeywrench, pp. 132–133, EPUB file
 
 See [Technological triage](#technological-triage) and [High-tech dip](#high-tech-dip)
 
@@ -1914,7 +1922,7 @@ Also see [Joseph Tainter - Human Resource Use: Timing and Implications for Susta
 
 > System D or Système D is a person's ability to adapt quickly and improvise to solve problems.
 
-The protest conundrum debated in [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) p.180/187
+The protest conundrum debated in [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208), p. 180/187
 
 ## Tactical Stupidity
 
@@ -1965,7 +1973,7 @@ technological triage
      4) defunct – technologies that have gone out of existence but could be brought back and put into use if action is taken now.  
      Like triage done by battlefield medics, resources should go to 2) and 4), reengineering the somewhat dependent technologies to survive deindustrialization and bringing back defunct appropriate technologies.
 
-– John Michael Greer, The Long Descent (2009) > Chapter 5: Tools for Transition, p.173
+– John Michael Greer, The Long Descent (2009) > Chapter 5: Tools for Transition, p. 173
 
 ## Time probability
 
@@ -2069,7 +2077,7 @@ One of the central myths of modern society is that the process of urbanization (
 
 > a form of systemic, institutionalized violence
 
-– [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) p.18-20/25-27
+– [Dmitry Orlov - The Five Stages of Collapse (2013)](http://www.worldcat.org/title/five-stages-of-collapse-a-survivors-toolkit/oclc/828767208) pp. 18–20/25–27
 
 ## Vulnerability
 
@@ -2118,7 +2126,7 @@ wicked problems
 > But do not believe that a problem is wicked because someone tells you so. Look again.
 
 
-– [👤 David Fleming](#david-fleming). _Lean Logic: A dictionary for the future and how to survive it._ 2016, p. 499
+– [👤 David Fleming](#david-fleming). _Lean Logic: A dictionary for the future and how to survive it._ 2016, p.499
 
 ## 👤 Augustin Mouchot
 
