@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    29 June 2021
+Date:    4 August 2021
 
 
 # Collapse Lingo
@@ -280,6 +280,13 @@ stock-in-trade
 ## Civil religion of progress
 
 via <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
+
+<!-- stub -->
+
+<!-- > How will billions of fragile human psyches adjust to seeing their most cherished creed battered repeatedly upon the shoals of reality?
+  And what new faith will replace it? Greer suggests that it will be one that reconnects humanity with nature, though its exact form is yet to reveal itself.
+
+– Richard Heinberg, Afterburn (2015) > Want to Change the World? Read This First, p. 182 -->
 
 ## Climate change adaptation
 
@@ -574,6 +581,17 @@ dissensus
 
 doomstead
 :   a homestead for weathering collapse. It can have features for off-grid self-sufficiency, security measures against intruders, concealment etc. Sometimes derogatory, to say the doomsteader's plan is leaky or unrealistic in practice.
+
+## Doxa
+
+[Doxa - Wikipedia](https://en.wikipedia.org/wiki/Doxa)
+
+doxa
+:    the general opinion that gives a common meaning to the news of the world.
+
+> A gap has sometimes yawned between us and friends and colleagues who still clung to – and defended – an imaginary vision of continuity and linear progress. Over the years, we have clearly distanced ourselves from the _doxa,_ that is to say the general opinion that gives a common meaning to the news of the world. Carry out the experiment for yourselves: listen to the news with this perspective in mind and you’ll see the huge gap between _doxa_ and reality. It’s a strange feeling to be part of this world (more than ever), while being cut off from the dominant image that other people have of it.
+
+– <kbd>[👤 Pablo Servigne](#pablo-servigne)</kbd>, <kbd>[👤 Raphaël Stevens](#raphael-stevens)</kbd> (2020) _How Everything Can Collapse,_ Cambridge: Polity. p. 10. ISBN 9781509541393; Originally published 2015 _Comment tout peut s'effondrer: petit manuel de collapsologie à l'usage des générations présentes_ (in French). Ed. du Seuil. ISBN 9782021223316. OCLC 908244398.
 
 ## Drawdown
 
@@ -1231,7 +1249,7 @@ legacy tech
 
 > One way or another, the flow of new products will eventually sputter to a halt, though at least some of today’s technologies will stay in use for as long as they can be kept functioning in the harsh conditions of an age of resource scarcity and ecological payback. A surprisingly broad range of technologies can be built and maintained by people who have little or no grasp of the underlying science, and thus it has happened more than once — as with the Roman aqueducts that brought water to medieval cities — that a relatively advanced technology can be kept running for centuries by people who have no clue how it was built. Over the short and middle term, in a world after progress, we can probably expect many current technologies to remain in place for a while, though it’s an open question how many people in the industrial world will still be able to afford to use them for how much longer.
 
-–  John Michael Greer, After Progress: Reason and Religion at the End of the Industrial Age (2015) > Chapter 5. The God with the Monkeywrench, pp. 132–133, EPUB file
+– John Michael Greer, After Progress: Reason and Religion at the End of the Industrial Age (2015) > Chapter 5. The God with the Monkeywrench, pp. 132–133, EPUB file
 
 See [Technological triage](#technological-triage) and [High-tech dip](#high-tech-dip)
 
@@ -1386,6 +1404,11 @@ See [Boiling frog - Wikipedia](https://en.wikipedia.org/wiki/Boiling_frog)
 ## Open-source Warfare
 
 <!-- stub -->
+
+## Overpopulation
+
+<!-- stub -->
+<!-- interesting takes: [Nephologue: Population growth is not a driver of climate change](http://nephologue.blogspot.com/2019/06/it-seems-so-easy-to-blame-excess.html) -->
 
 ## Overshoot
 
@@ -2193,8 +2216,8 @@ Donella H. "Dana" Meadows
 
 ## 👤 Dr. Edward Morbius
 
-Reddit: /r/dredmorbius](https://www.reddit.com/user/dredmorbius) [/u/dredmorbius](https://www.reddit.com/user/dredmorbius)
-Mastodon: [@dredmorbius@mastodon.cloud](https://mastodon.cloud/@dredmorbius)
+Reddit: [/r/dredmorbius](https://www.reddit.com/r/dredmorbius) [/u/dredmorbius](https://www.reddit.com/user/dredmorbius)  
+Mastodon: [@dredmorbius@mastodon.cloud](https://toot.cat/@dredmorbius)
 
 ## 👤 Erinaceous
 
@@ -2270,11 +2293,19 @@ Twitter: [@nntaleb](https://twitter.com/nntaleb/)
 
 [Author: John Pugsley - Worldcat](http://www.worldcat.org/search?q=au%3APugsley%2C+John+A.&qt=hot_author)
 
+## 👤 Pablo Servigne
+
+Known for coining and publicizing [collapsology](#collapsology), co-author of _Comment tout peut s'effondrer: petit manuel de collapsologie à l'usage des générations présentes_ (2015) / _How Everything Can Collapse_ (2020)
+
 ## 👤 Peter Turchin
 
 [Cliodynamica – Peter Turchin's blog](https://peterturchin.com/cliodynamica/)
 
 > **Peter Turchin** is a Professor at the University of Connecticut, External Professor at the Complexity Science Hub-Vienna, and Research Associate in the School of Anthropology at the University of Oxford. He conducts research on the cultural evolution and historical dynamics of past and present societies. He is the author of seven books, including [War and Peace and War](https://peterturchin.com/war-and-peace-and-war/) (2005), [Secular Cycles](https://peterturchin.com/secular-cycles/) (2009), and more recently [Ultrasociety](https://peterturchin.com/ultrasociety/)(2016) and [Ages of Discord](https://peterturchin.com/ages-of-discord/) (2016).
+
+## 👤 Raphaël Stevens
+
+Known for coining and publicizing [collapsology](#collapsology), co-author of _Comment tout peut s'effondrer: petit manuel de collapsologie à l'usage des générations présentes_ (2015) / _How Everything Can Collapse_ (2020)
 
 ## 👤 Richard Adrian Reese
 
