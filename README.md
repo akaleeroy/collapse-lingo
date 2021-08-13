@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    4 August 2021
+Date:    13 August 2021
 
 
 # Collapse Lingo
@@ -398,6 +398,15 @@ cornucopian myth
 > the enthusiastic and all but universal insistence, in the teeth of the evidence, that the end of business as usual will turn out to be the door to a wonderful new future.
 
 from [The Archdruid Report - The Era of Impact](https://thearchdruidreport-archive.200605.xyz/2015/05/the-era-of-impact_20.html)
+
+## Corporate climate response
+
+<kbd>Coopting</kbd> <kbd>Culture Wars</kbd>
+
+corporate climate response
+:    _Well, it can no longer be denied. Let's make ourselves, let's make capital an irremovable part of the solution. Let's have the changes that are going to be necessary be done by the private sector. Enshrine the necessity of the private sector!_
+
+– [Robert Evans - Reddit /r/collapse AMA on 2021-07-22](https://www.youtube.com/watch?v=Nxonm_rZFJ0)
 
 ## Crash
 
