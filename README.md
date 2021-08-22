@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    13 August 2021
+Date:    22 August 2021
 
 
 # Collapse Lingo
@@ -313,6 +313,34 @@ data on the spread of carbon-intensive lifestyles show that the landslide has al
 
 – <kbd>[👤 Jem Bendell](#jem-bendell)</kbd> - [Deep Adaptation](#deep-adaptation): A Map for Navigating our Climate Tragedy (2018)
 
+## Climate Leviathan
+
+<kbd>Climate</kbd> <kbd>Politics</kbd>
+
+climate leviathan
+:    a world state or strongly bound alliance of states committed to preserving capitalism as a way to adapt to climate change; political theory of the emergence of a capitalist planetary sovereignty in response to climate change.
+
+> To further the struggle for climate justice, we need to have some idea how the existing global order is likely to adjust to a rapidly changing environment. Climate Leviathan provides a radical way of thinking about the intensifying challenges to the global order. Drawing on a wide range of political thought, Joel Wainwright and Geoff Mann argue that rapid climate change will transform the world's political economy and the fundamental political arrangements most people take for granted. The result will be a capitalist planetary sovereignty, a terrifying eventuality that makes the construction of viable, radical alternatives truly imperative.
+
+– [Climate Leviathan: A Political Theory of Our Planetary Future by Joel Wainwright and Geoff Mann | Goodreads](https://www.goodreads.com/book/show/34146147-climate-leviathan)
+
+> Figure 2.2. Four potential social formations
+> 
+> | —              | Planetary sovereignty | Anti-planetary sovereignty |
+> | -------------: | :-------------------: | :------------------------: |
+> | Capitalist     | Climate Leviathan     | Climate Behemoth           |
+> | Non-capitalist | Climate Mao           | Climate X                  |
+
+> Our thesis is that the future of the world will be defined by Leviathan, Behemoth, Mao and X and the conflicts between them.
+
+– Wainwright, Joel; Mann, Geoff (2018). [_Climate Leviathan: A Political Theory of Our Planetary Future_]((https://www.goodreads.com/book/show/34146147-climate-leviathan)). Verso
+
+Related:
+
+> [William Ophuls'] main argument was that "because of the [tragedy of the commons](#tragedy-of-the-commons), environmental problems cannot be solved through cooperation...and the rationale for government with major coercive powers is overwhelming."
+
+– [👤 Ophuls, William](#william-ophuls) (1973). _"Leviathan or Oblivion?"._ In Daly, Herman E (ed.). [Toward a Steady-State Economy.](https://www.worldcat.org/title/toward-a-steady-state-economy/oclc/524050) W.H. Freeman. pp. 215–230.
+
 ## Cloaked adaptation
 
 <kbd>Identify / Coin</kbd> <kbd>Preparation</kbd> <kbd>Coping</kbd> <kbd>Psychology</kbd>
@@ -328,9 +356,9 @@ These are activities that work in pre-crisis contexts but also put one in a bett
 
 A collapse preparedness strategy.
 
-> – So, what you're saying is that what we need to do, individually, is to go through collapse right away.
-> - Exactly. Collapse now, and avoid the rush.
-
+> – So, what you're saying is that what we need to do, individually, is to go through collapse right away.  
+> - Exactly. Collapse now, and avoid the rush.  
+>
 > The way to avoid the rush is simple enough: figure out how you will be able to live after the next wave of crisis hits, and to the extent that you can, _start living that way now._
 
 – [The Archdruid Report: Collapse Now and Avoid the Rush](https://thearchdruidreport-archive.200605.xyz/2012/06/collapse-now-and-avoid-rush.html)
@@ -1344,6 +1372,14 @@ from [The Archdruid Report: The Mariner's Rule](https://thearchdruidreport-archi
 
 <!-- stub -->
 
+## Modern techno-industrial society
+
+<kbd>[👤 William E. Rees](#william-e-rees)</kbd>
+
+> Modern techno-industrial society is a product of the ‘enlightenment project’ and is deeply rooted in what philosophers refer to as ‘Cartesian dualism.’ This perspective sees humans as somehow separate from the biophysical world, assumes we are masters of nature and enables us to act as if society is not subject to serious ecological constraints. Dualism, and its companion expansionary-materialist worldview, are arguably the major source of many of the so-called ‘environmental problems’ confronting humankind today.
+
+– [William Rees about page | SCARP | UBC School of Community and Regional Planning](https://scarp.ubc.ca/people/william-rees)
+
 ## Modularity
 
 <!-- stub -->
@@ -1384,6 +1420,13 @@ See [Monopoly of force](#monopoly-of-force)
 > We have to commit a lot of money, a lot of resources... We're gonna go to the Moon.
 
 – JFK on the moonshot, according to Jonathan Blow [#t=00:01:23,00:01:33](https://www.youtube.com/watch?v=pW-SOdj4Kkk#t=00:01:23,00:01:33)
+
+## MTI
+
+MTI
+:    [Modern techno-industrial society](#modern-techno-industrial-society)
+
+*[MTI]: Modern Techno-Industrial
 
 ## Near-Term Extinction
 
@@ -2373,6 +2416,8 @@ Initiator of [the Hexayurt project](http://hexayurt.com/) and the [6WTD](#6wtd) 
 <kbd>Ecology</kbd>
 <kbd>Post Carbon Institute</kbd>
 
+Originator of the "ecological footprint" concept
+
 [William E. Rees - Wikipedia](https://en.wikipedia.org/wiki/William_E._Rees)
 
 ## 👤 William R. Catton Jr.
@@ -2380,6 +2425,10 @@ Initiator of [the Hexayurt project](http://hexayurt.com/) and the [6WTD](#6wtd) 
 <kbd>Ecology</kbd>
 
 [William R. Catton Jr. - Wikipedia](https://en.wikipedia.org/wiki/William_R._Catton_Jr.)
+
+## 👤 William Ophuls
+
+[William Ophuls - Wikipedia](https://en.wikipedia.org/wiki/William_Ophuls)
 
 ## 👤 William Stanley Jevons
 
