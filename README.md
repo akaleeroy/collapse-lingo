@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    22 August 2021
+Date:    14 September 2021
 
 
 # Collapse Lingo
@@ -412,6 +412,18 @@ via <kbd>[👤 Jared Diamond](#jared-diamond)</kbd>
 Source: [Books Of Your Life With Elizabeth - Jared Diamond's Books of His Life (01 May 2019)](http://booksofyourlifewithelizabeth.libsyn.com/jared-diamonds-books-of-his-life) [#t=00:08:10.000,00:09:18.680](http://traffic.libsyn.com/booksofyourlifewithelizabeth/EKC-JaredFINALMIX1.mp3?dest-id=802392#t=00:08:10.000,00:09:18.680)
 
 See [👤 Nassim Taleb](#nassim-taleb) and the [distinction between **ensemble probability** and **time probability.**](#ensemble-probability)
+
+## Consumerism
+
+<kbd>[👤 Eric Michaels](#eric-michaels)</kbd> in [The Fantasy of Electrification](https://problemspredicamentsandtechnology.blogspot.com/2021/09/the-fantasy-of-electrification.html) quoting <kbd>[👤 Paul Mobbs](#paul-mobbs)</kbd>
+
+> Consumer society cannot be ‘reformed’ from within because the types of physical change required dismantle its fundamental reason for existence – allowing people to be affluent consumers. This has been the case since [Thorstein Veblen](https://en.wikipedia.org/wiki/Thorstein_Veblen) wrote [one of the first books](https://en.wikipedia.org/wiki/The_Theory_of_the_Leisure_Class) on the small minority of affluent consumers in the late Victorian era; and [that situation hasn’t changed](https://www.youtube.com/watch?v=w9jepoXydzM "Then and Now: Understanding Zizek – Jaws & Capitalist Ideology") in the interim, it’s become habituated across most of the population.  
+>
+> Thus it will always be until it drives the world to ecological collapse. We cannot hope to reform consumer society from within. At best, we can only try to escape it. To do without the lithium-ion batteries, as well as the intensively grown potatoes, and instead ‘grow our own’ energy storage devices.
+>
+> At its simplest, consumerism works by: Separating the mass of people [from the land](https://www.youtube.com/watch?v=43Y4Nd0AJcE "Then & Now:  Proudhon – What is Property") which could sustain them; then charging a premium to buy those goods made from the land via economic middle men. Basically, it’s a more modern, ‘civilized’ form of [Indentured servitude](https://en.wikipedia.org/wiki/Indentured_servitude). If you have no belief that this system can survive the realities of ecological collapse, then you need to find your route to the exits as quickly as possible. In reality, that means being able to have a space to grow your own potatoes!"
+
+– Paul Mobbs, [Lithium-ion batteries versus potatoes in the battle for energy storage](http://www.fraw.org.uk/blog/2021/20210828-lithium_ion_batteries_versus_potatoes.shtml "Ramblinactivist's Meta-Blog #16, 2021-08-28")
 
 ## Cornucopianism
 
@@ -1047,7 +1059,7 @@ Even though information processing capabilities are not inherently tied to this 
 
 See [decoupling](#decoupling)
 
-## Green Wizardry 
+## Green Wizardry
 
 <kbd>[👤 John Michael Greer](#john-michael-greer)</kbd>
 
@@ -1069,11 +1081,12 @@ See [High-tech dip](#high-tech-dip)
 
 <kbd>Identify / Coin</kbd>
 <kbd>Conservation</kbd>
+<kbd>Cultural Evolution</kbd>
 
 high-tech dip
 :   making use of advanced technology while available to vet designs and best practices that can be passed on and implemented by low-tech means.
 
-A [technological triage](#technological-triage) effort to brace a technology with chances of survival through the collapse of industrial civilization. The type of technology can be 2) somewhat dependent and has been re-engineered to survive 3) independent, or 4) defunct and brought back from the dead.
+A [technological triage](#technological-triage) effort to brace a technology with chances of survival through the collapse of industrial civilization. The type of technology can be somewhat dependent and has been re-engineered to survive (2), independent (3), or defunct (4) and brought back from the dead.
 
 It can be a **re-engineering effort,** for example producing slide rules to help replace a vulnerable but critical electronic technology. Or it can be a **refinement effort,** aimed at increasing the accessibility and ubiquity of a technology already presumed saved. For example doing computer simulations to determine an optimal design for a hand tool.
 
@@ -1085,6 +1098,10 @@ Examples:
 - (mechanical engineering) genetic algorithm generating millions of designs for a part, stress testing all of them in computer simulation and selecting the most optimal solution. That design can then be copied by craftsmen with hand tools. Ideally it is distributed with documentation (mentioning what it's optimized for, how and why). Or only the form was passed on, to be reproduced _in the dark._
 - using advances in cognitive science to develop teaching and learning methodologies, maximizing the chance that more people will learn new skills required by changing circumstances, faster.
 
+A related example from the field of cultural evolution: the evolution of the soundholes in violins, which settled on the f-hole as the most optimum, best-sounding option, after painstakingly improving over many centuries. It appears this evolution of violin soundhole design moved towards acoustic power efficiency[^violin-f-hole].
+
+[^violin-f-hole]: "For a constant void area, the f-hole has the maximum power radiation among other historic soundhole geometries in the violin family." – Tavakoli Nia, H. (2010). _Acoustic function of sound hole design in musical instruments_ (Doctoral dissertation, Massachusetts Institute of Technology).
+
 ### Caveats
 
 **Failures of cultural transmission.** Imitation leading to idolatry of the Old World and [decadent](#decadence) aping, losing sight of important properties of the technology.
@@ -1093,8 +1110,7 @@ In the low-tech phase we're dealing with a [dead man walking](https://en.wiktion
 
 **Systemic collapse contagion.** The context for the technology may undergo spontaneous existence failure, for any number of reasons.
 
-
-- [ ] <kbd>TODO</kbd> Improve examples, condense text, identify concepts, discuss. Like embodied energy ⇒ emergy, entombed complexity ⇒ encomplexity? Because embodied complexity suggests every time an instance is produced, whereas entombed suggests historical relic
+<!-- - [ ] TODO Improve examples, condense text, identify concepts, discuss. Like embodied energy ⇒ emergy, entombed complexity ⇒ encomplexity? Because embodied complexity suggests every time an instance is produced, whereas entombed suggests historical relic -->
 
 Related:
 
@@ -1106,9 +1122,6 @@ Related:
 - [Bridge technology](#bridge-technology)
 - [Descent-friendly Design](#descent-friendly-design)
 - [Graceful degradation](#graceful-degradation)
-
-See also:
-
 
 *[AI]: Artificial Intelligence
 
@@ -1159,7 +1172,7 @@ Coined by Chris Foster, via [Under the Weather - Believer Magazine](https://beli
 
 A possible response to [eco-anxiety](#eco-anxiety). For more coping topics see [/r/CollapseSupport](https://www.reddit.com/r/CollapseSupport)
 
-## Independence 
+## Independence
 
 <!-- stub -->
 
@@ -2271,6 +2284,10 @@ Donella H. "Dana" Meadows
 Reddit: [/r/dredmorbius](https://www.reddit.com/r/dredmorbius) [/u/dredmorbius](https://www.reddit.com/user/dredmorbius)  
 Mastodon: [@dredmorbius@mastodon.cloud](https://toot.cat/@dredmorbius)
 
+## 👤 Eric Michaels
+
+[Problems, Predicaments, and Technology](https://problemspredicamentsandtechnology.blogspot.com/)
+
 ## 👤 Erinaceous
 
 Reddit: [/u/Erinaceous](https:///www.reddit.com/user/Erinaceous)
@@ -2348,6 +2365,12 @@ Twitter: [@nntaleb](https://twitter.com/nntaleb/)
 ## 👤 Pablo Servigne
 
 Known for coining and publicizing [collapsology](#collapsology), co-author of _Comment tout peut s'effondrer: petit manuel de collapsologie à l'usage des générations présentes_ (2015) / _How Everything Can Collapse_ (2020)
+
+## 👤 Paul Mobbs
+
+aka Ramblinactivist
+
+[‘The Metablog’ Index – Ramblinactivist’s Blogs](http://www.fraw.org.uk/blog/index.shtml)
 
 ## 👤 Peter Turchin
 
