@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    14 September 2021
+Date:    27 September 2021
 
 
 # Collapse Lingo
@@ -470,6 +470,15 @@ From the cover of [Overshoot - The Ecological Basis of Revolutionary Change (198
 > Creeping normalcy is a term used to describe how gradual changes can be accepted as the normal situation if these changes happen slowly, or incrementally. Jared Diamond made the term creeping normalcy popular in his Pulitzer prize winning book, _Collapse – How Societies Choose to Fail or Succeed_. Diamond outlines how politicians use the term "creeping normalcy" to refer to such slow trends concealed within noisy fluctuations. If the economy, schools, traffic congestion, or anything else deteriorate slowly, it's often difficult to recognize the change from previous years. The gradual and incremental changes are difficult to see, thus normalcy is difficult to recognise over short periods. It may take a few decades of a long sequence of such slight year-to-year changes before people realise that conditions were much better previously. What is accepted as normal now is a result of gradual changes, or creeping downwards.
 
 from [5 Errors In Thinking That Have Effectively Changed The World – WAKING SCIENCE](http://wakingscience.com/2015/12/5-errors-in-thinking-that-have-effectively-changed-the-world/)
+
+## Crumbles
+
+<kbd>[👤 Robert Evans](#robert-evans)</kbd>
+
+the crumbles
+:   [Catabolic collapse](#catabolic-collapse)
+
+See [Welcome to the Crumbles](https://www.reddit.com/r/collapse/comments/p59oot/welcome_to_the_crumbles_a_new_season_of_the/) S02E01 of the podcast It Could Happen Here by journalist <kbd>[👤 Robert Evans](#robert-evans)</kbd>
 
 ## Cultural lag
 
@@ -2391,6 +2400,10 @@ aka Rick Reese. [What Is Sustainable](https://wildancestors.blogspot.com/)
 <kbd>Transition Movement</kbd>
 
 [Rob Hopkins' blog](https://www.robhopkins.net/)
+
+## 👤 Robert Evans
+
+[Robert Evans (journalist) - Wikipedia](https://en.wikipedia.org/wiki/Robert_Evans_%28journalist%29)
 
 ## 👤 Roy Scranton
 
