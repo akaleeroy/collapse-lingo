@@ -1,6 +1,6 @@
 Title:   Collapse Lingo
 Summary: A /r/collapse lexicon
-Date:    27 September 2021
+Date:    30 September 2021
 
 
 # Collapse Lingo
@@ -553,6 +553,14 @@ The 4 R's:
 
 ## Denial
 
+denial
+:   (1) the largely unconscious habit of thought whereby we refuse to accept the reality of things that are bad or upsetting, or that challenge our worldview, our legacy, how we live, what is required of us, and/or our feelings of self-worth or superiority.
+
+denial
+:    (2) The instinctual impulse to reject or discount information that calls into question our hopes, assumptions or expectations about the future.
+
+via <kbd>[👤 Michael Dowd](#michael-dowd)</kbd>
+
 ![– What do you think our most powerful renewable resource is? – Denial.](https://wp-assets.futurism.com/2014/06/tumblr_mbjx21mm9R1qexjbwo1_500.jpg "www.isabellabannerman.com")
 
 via [Mark Shepard - Slow Living Summit #2: Permaculture & Economic Sustainability (2017)](https://www.youtube.com/watch?v=Jm4eRuNqz2E )  [#t=00:15:30](https://www.youtube.com/watch?v=Jm4eRuNqz2E&t=15m30s)
@@ -564,7 +572,7 @@ Inability to accept also takes more subtle forms, touched upon by [👤 Jem Bend
 1. **Too difficult:** like an ostrich sticking its head in the sand. _I don't know how to integrate this in my life_
 2. **Keep busy:** like Sisyphus pushing that rock up the hill. Environmental NGOs going _buy this green thing_
 
-The reponse proposed by Jem is can be called [Get ready](#get-ready)
+The response proposed by Jem is can be called [Get ready](#get-ready)
 
 – [Jem Bendell & Toni Spencer - Deep Adaptation talk](https://www.youtube.com/watch?v=daRrbSl1yvY&t=1217)
 
@@ -2336,6 +2344,12 @@ Formerly blogged at **The Archdruid Report,** now taken offline. [The Archdruid 
 [Jørgen Randers - Wikipedia](https://en.wikipedia.org/wiki/J%C3%B8rgen_Randers)
 
 Co-author of [The Limits to Growth](#limits-to-growth)
+
+## 👤 Michael Dowd
+
+Michael B. Dowd
+
+[Post Doom](https://postdoom.com/)
 
 ## 👤 Michael Ruppert
 
